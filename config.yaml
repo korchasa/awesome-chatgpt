@@ -1,0 +1,48 @@
+title: Awesome ChatGPT
+query: chatgpt stars:>500 archived:false
+data_path: ./var/data.yaml
+temp_data_path: ./var/data.tmp.yaml
+readme_path: ./var/README.md
+changelog_path_template: ./var/CHANGELOG-%s.md
+root:
+  categories:
+    - title: Documentation and examples
+      categories:
+        - title: Guides and examples
+          prompt: Guides and examples
+        - title: Prompt engineering
+          prompt: Prompt engineering documentation
+    - title: Community
+      prompt: Community
+    - title: UIs
+      categories:
+        - title: Desktop applications
+          prompt: Desktop applications
+        - title: Browser extensions
+          prompt: Browser extensions
+        - title: Web applications
+          prompt: Web-based user interface for ChatGPT
+        - title: Messenger bots
+          prompt: Messenger bots
+        - title: Other UIs
+          prompt: Other user interfaces for ChatGPT
+    - title: Integrations
+      prompt: Integration with another application
+    - title: SDK/Libraries
+      categories:
+        - title: Python
+          prompt: Python library or sdk
+        - title: JavaScript/Typescript
+          prompt: JavaScript or Typescript library or sdk
+        - title: Golang
+          prompt: Golang library or sdk
+        - title: Dart
+          prompt: Dart library or sdk
+        - title: ChatGPT plugins
+          prompt: ChatGPT plugins or extensions
+        - title: Other sdk/libraries
+          prompt: Other library or sdk
+    - title: ChatGPT-based applications
+      prompt: Applications based on ChatGPT
+    - title: Other
+      prompt: Other
