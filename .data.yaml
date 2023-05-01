@@ -1,6 +1,6 @@
 title: Awesome ChatGPT
 updated_at: 2023-05-01T02:36:18.169712+03:00
-readme_generated_at: 2023-05-01T02:38:56.022342+03:00
+readme_generated_at: 2023-05-01T12:47:07.550466+03:00
 items:
   - name: acheong08/ChatGPT
     link: https://github.com/acheong08/ChatGPT
@@ -4110,8 +4110,8 @@ items:
   - name: saharmor/awesome-chatgpt
     link: https://github.com/saharmor/awesome-chatgpt
     description: Selected ChatGPT demos, tools, articles, and more ✨
-    ignore: false
-    ignore_reason: ""
+    ignore: true
+    ignore_reason: merged
     category: Guides and examples
     ai_category: Guides and examples
     ai_category_confidence: 1
@@ -5893,4 +5893,63 @@ items:
     ai_category_confidence: 0
     ai_description: ""
     created_at: 2023-05-01T02:31:15.382699+03:00
+    is_new: true
+  - name: The ChatGPT Cheat Sheet
+    link: https://drive.google.com/file/d/1OcHn2NWWnLGBCBLYsHg7xdOMVsehiuBK/view
+    description: |-
+        This cheat sheet illustrates the diverse abilities of OpenAI’s ChatGPT for developers and content creators
+        to enhance their proficiency in large language model prompting across various domains including media
+        content creation, natural language processing, and programming.
+    ignore: false
+    ignore_reason: ""
+    category: Guides and examples
+    ai_category: ""
+    ai_category_confidence: 0
+    ai_description: ""
+    created_at: 2023-05-01T12:12:53.53106+03:00
+    is_new: true
+  - name: Prompt Engineering Guide
+    link: https://www.promptingguide.ai
+    description: Step-by-step prompt engineering guide
+    ignore: false
+    ignore_reason: ""
+    category: Prompt engineering
+    ai_category: ""
+    ai_category_confidence: 0
+    ai_description: ""
+    created_at: 2023-05-01T12:28:13.766188+03:00
+    is_new: true
+  - name: Prompto
+    link: https://prompto.chat
+    description: Share, Discover & Use the best ChatGPT prompts on the internet. Prompto
+        is here to turn you into a ChatGPT superhero.
+    ignore: false
+    ignore_reason: ""
+    category: Prompt engineering
+    ai_category: ""
+    ai_category_confidence: 0
+    ai_description: ""
+    created_at: 2023-05-01T12:29:39.438111+03:00
+    is_new: true
+  - name: Hugging Face
+    link: https://huggingface.co
+    description: Making the community's best AI chat models available to everyone.
+    ignore: false
+    ignore_reason: ""
+    category: Community
+    ai_category: ""
+    ai_category_confidence: 0
+    ai_description: ""
+    created_at: 2023-05-01T12:33:02.840806+03:00
+    is_new: true
+  - name: ChatRPG
+    link: https://medium.com/@seanhugg/chatrpg-a-text-adventure-game-with-an-inventory-and-health-system-using-chatgpt-d49d0969931c
+    description: A Text Adventure Game with an Inventory and Health System using ChatGPT
+    ignore: false
+    ignore_reason: ""
+    category: ChatGPT-based applications
+    ai_category: ""
+    ai_category_confidence: 0
+    ai_description: ""
+    created_at: 2023-05-01T12:34:41.554358+03:00
     is_new: true
