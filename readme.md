@@ -2,26 +2,26 @@
 
 A curated list of awesome ChatGPT and OpenAI software.
 
-  - [Documentation and examples](#Documentation and examples)
-    - [Guides and examples](#Guides and examples)
-    - [Prompt engineering](#Prompt engineering)
-  - [Community](#Community)
-  - [UIs](#UIs)
-    - [Desktop applications](#Desktop applications)
-    - [Browser extensions](#Browser extensions)
-    - [Web applications](#Web applications)
-    - [Messenger bots](#Messenger bots)
-    - [Other UIs](#Other UIs)
-  - [Integrations](#Integrations)
-  - [SDK/Libraries](#SDK/Libraries)
-    - [Python](#Python)
-    - [JavaScript/Typescript](#JavaScript/Typescript)
-    - [Golang](#Golang)
-    - [Dart](#Dart)
-    - [ChatGPT plugins](#ChatGPT plugins)
-    - [Other sdk/libraries](#Other sdk/libraries)
-  - [ChatGPT-based applications](#ChatGPT-based applications)
-  - [Other](#Other)
+  - [Documentation and examples](#documentation-and-examples)
+    - [Guides and examples](#guides-and-examples)
+    - [Prompt engineering](#prompt-engineering)
+  - [Community](#community)
+  - [UIs](#uis)
+    - [Desktop applications](#desktop-applications)
+    - [Browser extensions](#browser-extensions)
+    - [Web applications](#web-applications)
+    - [Messenger bots](#messenger-bots)
+    - [Other UIs](#other-uis)
+  - [Integrations](#integrations)
+  - [SDK/Libraries](#sdk/libraries)
+    - [Python](#python)
+    - [JavaScript/Typescript](#javascript/typescript)
+    - [Golang](#golang)
+    - [Dart](#dart)
+    - [ChatGPT plugins](#chatgpt-plugins)
+    - [Other sdk/libraries](#other-sdk/libraries)
+  - [ChatGPT-based applications](#chatgpt-based-applications)
+  - [Other](#other)
 ## Documentation and examples
 
 
@@ -285,6 +285,6 @@ A curated list of awesome ChatGPT and OpenAI software.
 
 
 
-== License
+## License
 
 https://creativecommons.org/publicdomain/zero/1.0/[image:http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg[CC0]]
