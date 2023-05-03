@@ -1,5 +1,5 @@
 updated_at: 2023-05-03T11:36:45.046182+03:00
-readme_generated_at: 2023-05-03T11:54:41.424074+03:00
+readme_generated_at: 2023-05-03T12:03:38.788474+03:00
 items:
   - name: 0xk1h0/ChatGPT_DAN
     link: https://github.com/0xk1h0/ChatGPT_DAN
@@ -2239,7 +2239,7 @@ items:
     description: Curated list of awesome tools, demos, docs for ChatGPT and GPT-3
     ignore: false
     ignore_reason: ""
-    category: Community
+    category: Guides and examples
     language: ""
     ai_category: Community
     ai_category_confidence: 0.9

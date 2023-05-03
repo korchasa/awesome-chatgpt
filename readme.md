@@ -33,18 +33,21 @@ A curated list of awesome ChatGPT and OpenAI software.
 - [EgoAlpha/prompt-in-context-learning](https://github.com/EgoAlpha/prompt-in-context-learning) - Open-Source Engineering Guide for Prompt-in-context-learning from EgoAlpha Lab with resources for prompt learning and engineering, mastery of LLMs like ChatGPT, GPT3, FlanT5, etc.
 - [OpenMindClub/awesome-chatgpt](https://github.com/OpenMindClub/awesome-chatgpt) - Curated list of resources for ChatGPT and GPT-3 from OpenAI.
 - [RUCAIBox/LLMSurvey](https://github.com/RUCAIBox/LLMSurvey) - A collection of papers and resources related to Large Language Models.
-- [The ChatGPT Cheat Sheet](https://drive.google.com/file/d/1OcHn2NWWnLGBCBLYsHg7xdOMVsehiuBK/view)
+- [The ChatGPT Cheat Sheet](https://drive.google.com/file/d/1OcHn2NWWnLGBCBLYsHg7xdOMVsehiuBK/view) - This cheat sheet illustrates the diverse abilities of OpenAI’s ChatGPT for developers and content creators
+to enhance their proficiency in large language model prompting across various domains including media
+content creation, natural language processing, and programming.
 - [cedrickchee/awesome-transformer-nlp](https://github.com/cedrickchee/awesome-transformer-nlp) - A curated list of NLP resources focused on Transformer networks, attention mechanism, GPT, BERT, ChatGPT, LLMs, and transfer learning.
 - [filipecalegario/awesome-generative-ai](https://github.com/filipecalegario/awesome-generative-ai) - A curated list of Generative AI tools, works, models, and references
 - [formulahendry/awesome-gpt](https://github.com/formulahendry/awesome-gpt) - A curated list of awesome projects and resources related to GPT, ChatGPT, OpenAI, LLM, and more.
+- [humanloop/awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt) - Curated list of awesome tools, demos, docs for ChatGPT and GPT-3
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 
 ### Prompt engineering
 
-- [ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
+- [ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/) - In ChatGPT Prompt Engineering for Developers, you will learn how to use a large language model (LLM) to quickly build new and powerful applications.  Using the OpenAI API, you’ll be able to quickly build capabilities that learn to innovate and create value in ways that were cost-prohibitive, highly technical, or simply impossible before now.
 - [Introduction to prompt engineering](https://learn.microsoft.com/en-us/azure/cognitive-services/openai/concepts/prompt-engineering)
-- [Prompt Engineering Guide](https://www.promptingguide.ai)
-- [Prompto](https://prompto.chat)
+- [Prompt Engineering Guide](https://www.promptingguide.ai) - Step-by-step prompt engineering guide
+- [Prompto](https://prompto.chat) - Share, Discover & Use the best ChatGPT prompts on the internet. Prompto is here to turn you into a ChatGPT superhero.
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repository is a collection of prompt examples to be used with the ChatGPT model. It includes a variety of prompts, and also provides resources to help users write their own effective prompts. Additionally, it offers a ChatGPT desktop app and links to other prompting resources.
 - [mattnigh/ChatGPT3-Free-Prompt-List](https://github.com/mattnigh/ChatGPT3-Free-Prompt-List) - A free guide and framework for creating ChatGPT3 Prompts, created by @mattnigh.
 - [promptslab/Awesome-Prompt-Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering) - This repository contains a hand-curated resources for Prompt Engineering with a focus on Generative Pre-trained Transformer (GPT), ChatGPT, PaLM etc
@@ -54,8 +57,7 @@ A curated list of awesome ChatGPT and OpenAI software.
 ## Community
 
 - [Discord](https://discord.com/invite/openai)
-- [Hugging Face](https://huggingface.co)
-- [humanloop/awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt) - Curated list of awesome tools, demos, docs for ChatGPT and GPT-3
+- [Hugging Face](https://huggingface.co) - Making the community's best AI chat models available to everyone.
 
 ## UIs
 
@@ -107,7 +109,7 @@ A curated list of awesome ChatGPT and OpenAI software.
 ### Messenger bots
 
 - [Kav-K/GPTDiscord](https://github.com/Kav-K/GPTDiscord) - A robust, all-in-one GPT3 interface for Discord. ChatGPT-style conversations, image generation, AI-moderation, custom indexes/knowledgebase, youtube summarizer, and more!
-- [RafalWilinski/telegram-chatgpt-concierge-bot](https://github.com/RafalWilinski/telegram-chatgpt-concierge-bot)
+- [RafalWilinski/telegram-chatgpt-concierge-bot](https://github.com/RafalWilinski/telegram-chatgpt-concierge-bot) - Interact with OpenAI's ChatGPT via Telegram and Voice.
 - [Zero6992/chatGPT-discord-bot](https://github.com/Zero6992/chatGPT-discord-bot) - Integrate ChatGPT into your own discord bot
 - [altryne/chatGPT-telegram-bot](https://github.com/altryne/chatGPT-telegram-bot) - This is a Telegram bot that lets you chat with the chatGPT language model using your local browser.
 - [askrella/whatsapp-chatgpt](https://github.com/askrella/whatsapp-chatgpt) - This repository contains a WhatsApp bot that uses OpenAI's GPT and DALL-E 2 to respond to user inputs. It requires Node.js, a WhatsApp account, and an OpenAI API key. The bot uses Puppeteer to run a real instance of Whatsapp Web to avoid getting blocked.
@@ -124,7 +126,7 @@ A curated list of awesome ChatGPT and OpenAI software.
 - [OpenGVLab/Ask-Anything](https://github.com/OpenGVLab/Ask-Anything) - Ask-Anything is a tool for chatting with video using ChatGPT, StableLM, MOSS, and miniGPT4.
 - [Yue-Yang/ChatGPT-Siri](https://github.com/Yue-Yang/ChatGPT-Siri) - Shortcuts for Siri using ChatGPT API gpt-3.5-turbo & gpt-4 model, supports continuous conversations, configure the API key & save chat records.
 - [abhagsain/ai-cli](https://github.com/abhagsain/ai-cli) - GPT3 powered CLI that provides answers for CLI commands
-- [ferrislucas/promptr](https://github.com/ferrislucas/promptr)
+- [ferrislucas/promptr](https://github.com/ferrislucas/promptr) - Promptr is a CLI tool that makes it easy to apply GPT's code change recommendations with a single command. With Promptr, you can quickly refactor code, implement classes to pass tests, and experiment with LLMs. No more copying code from the ChatGPT window into your editor.
 - [jucasoliveira/terminalGPT](https://github.com/jucasoliveira/terminalGPT) - Get GPT-like chatGPT on your terminal
 - [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) - Bringing large-language models and chat to web browsers. Everything runs inside the browser with no server support.
 - [mmabrouk/chatgpt-wrapper](https://github.com/mmabrouk/chatgpt-wrapper) - API for interacting with ChatGPT and GPT4 using Python and from Shell.
@@ -208,7 +210,7 @@ A curated list of awesome ChatGPT and OpenAI software.
 
 ## ChatGPT-based applications
 
-- [ChatRPG](https://medium.com/@seanhugg/chatrpg-a-text-adventure-game-with-an-inventory-and-health-system-using-chatgpt-d49d0969931c)
+- [ChatRPG](https://medium.com/@seanhugg/chatrpg-a-text-adventure-game-with-an-inventory-and-health-system-using-chatgpt-d49d0969931c) - A Text Adventure Game with an Inventory and Health System using ChatGPT
 - [Drakkar-Software/OctoBot](https://github.com/Drakkar-Software/OctoBot) - Octobot is a powerful, fully modular open-source cryptocurrency trading robot with an advanced web interface.
 - [GerevAI/gerev](https://github.com/GerevAI/gerev) - AI-powered search engine for workplaces.
 - [KnowledgeCanvas/knowledge](https://github.com/KnowledgeCanvas/knowledge) - Knowledge is a tool for saving, searching, accessing, and exploring all of your favorite websites, documents and files.
@@ -235,7 +237,7 @@ A curated list of awesome ChatGPT and OpenAI software.
 - [irgolic/AutoPR](https://github.com/irgolic/AutoPR) - AutoPR is a Python library that fixes issues with AI-generated pull requests using ChatGPT. It has a roadmap for improvements, examples of successful PRs, and limitations that need to be addressed.
 - [kazuki-sf/YouTube_Summary_with_ChatGPT](https://github.com/kazuki-sf/YouTube_Summary_with_ChatGPT) - YouTube Summary with ChatGPT is a simple Chrome Extension (manifest v3) that allows you to get both YouTube video transcripts and summary of the video with OpenAI's ChatGPT AI technology.
 - [keijiro/AIShader](https://github.com/keijiro/AIShader) - AI Shader is a desktop application that serves as a proof-of-concept implementation of a ChatGPT-powered shader generator for Unity.
-- [kxxt/chatgpt-action](https://github.com/kxxt/chatgpt-action)
+- [kxxt/chatgpt-action](https://github.com/kxxt/chatgpt-action) - Let ChatGPT review PRs for you 
 - [leetcode-mafia/cheetah](https://github.com/leetcode-mafia/cheetah) - Cheetah is an AI-powered macOS app designed to assist users during remote software engineering interviews by providing real-time, discreet coaching and live coding platform integration.
 - [logspace-ai/langflow](https://github.com/logspace-ai/langflow) - LangFlow is a GUI for LangChain, designed with react-flow to provide an effortless way to experiment and prototype flows with drag-and-drop components and a chat box.
 - [lucidrains/PaLM-rlhf-pytorch](https://github.com/lucidrains/PaLM-rlhf-pytorch) - Implementation of RLHF (Reinforcement Learning with Human Feedback) on top of the PaLM architecture. Basically ChatGPT but with PaLM
