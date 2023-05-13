@@ -96,10 +96,12 @@ content creation, natural language processing, and programming.
 
 ### Web applications
 
+- [Niek/chatgpt-web](https://github.com/Niek/chatgpt-web) - ChatGPT web interface using the OpenAI API
 - [anse-app/chatgpt-demo](https://github.com/anse-app/chatgpt-demo) - Minimal UI for ChatGPT.
 - [deiucanta/chatpad](https://github.com/deiucanta/chatpad) - Chatpad AI is a premium quality UI for ChatGPT. It is a free and open source app developed using React.js. It is privacy focused, without tracking, cookies or data sharing. Users can self-host it using Docker or deploy it on various platforms like Easypanel, Netlify, Vercel, and Railway.
 - [guangzhengli/ChatFiles](https://github.com/guangzhengli/ChatFiles) - ChatFiles is a desktop application that allows users to upload files and have a conversation with them using an AI chatbot. It uses GPT-3.5 for the chatbot and llama_index for file indexing.
 - [hahahumble/speechgpt](https://github.com/hahahumble/speechgpt) - SpeechGPT is a web application that enables you to converse with ChatGPT.
+- [huggingface/chat-ui](https://github.com/huggingface/chat-ui) - A chat interface using open source models, eg OpenAssistant. It is a SvelteKit app and it powers the [HuggingChat app on hf.co/chat](https://huggingface.co/chat).
 - [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - An open source ChatGPT UI
 - [polterguy/magic](https://github.com/polterguy/magic) - Magic allows you to put ChatGPT on your website and have it say whatever you _want_ it to say.
 - [waylaidwanderer/PandoraAI](https://github.com/waylaidwanderer/PandoraAI) - PandoraAI is a web chat client powered by node-chatgpt-api, allowing users to easily chat with multiple AI systems while also offering support for custom presets. With its seamless and convenient design, PandoraAI provides an engaging conversational AI experience.
@@ -122,11 +124,14 @@ content creation, natural language processing, and programming.
 
 ### Other UIs
 
+- [IntelligenzaArtificiale/Free-Auto-GPT](https://github.com/IntelligenzaArtificiale/Free-Auto-GPT) - Free Auto GPT with NO paids API is a repository that offers a simple version of Auto GPT, an autonomous AI agent capable of performing tasks independently. Unlike other versions, our implementation does not rely on any paid OpenAI API, making it accessible to anyone.
 - [OkGoDoIt/OpenAI-API-dotnet](https://github.com/OkGoDoIt/OpenAI-API-dotnet) - An unofficial C#/.NET SDK for accessing the OpenAI GPT-3 API
 - [OpenGVLab/Ask-Anything](https://github.com/OpenGVLab/Ask-Anything) - Ask-Anything is a tool for chatting with video using ChatGPT, StableLM, MOSS, and miniGPT4.
+- [SkywalkerDarren/chatWeb](https://github.com/SkywalkerDarren/chatWeb) - ChatWeb can crawl any webpage or extract text from PDF, DOCX, TXT files, and generate an embedded summary.
 - [Yue-Yang/ChatGPT-Siri](https://github.com/Yue-Yang/ChatGPT-Siri) - Shortcuts for Siri using ChatGPT API gpt-3.5-turbo & gpt-4 model, supports continuous conversations, configure the API key & save chat records.
 - [abhagsain/ai-cli](https://github.com/abhagsain/ai-cli) - GPT3 powered CLI that provides answers for CLI commands
 - [ferrislucas/promptr](https://github.com/ferrislucas/promptr) - Promptr is a CLI tool that makes it easy to apply GPT's code change recommendations with a single command. With Promptr, you can quickly refactor code, implement classes to pass tests, and experiment with LLMs. No more copying code from the ChatGPT window into your editor.
+- [homanp/langchain-ui](https://github.com/homanp/langchain-ui) - LangChain UI is a no-code open source chat-ai toolkit built on top of LangChain, which enables anyone to create and host chatbots using a no-code type of inteface. It has features like creating custom chatGPT like Chatbot, giving context to chatbot using external datasources, chatGPT plugins and prompts, dedicated API endpoint for each Chatbot, bringing own DB and Auth provider and more. It utilizes NextJS, Chakra UI, Prisma and NextAuth.
 - [jucasoliveira/terminalGPT](https://github.com/jucasoliveira/terminalGPT) - Get GPT-like chatGPT on your terminal
 - [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) - Bringing large-language models and chat to web browsers. Everything runs inside the browser with no server support.
 - [mmabrouk/chatgpt-wrapper](https://github.com/mmabrouk/chatgpt-wrapper) - API for interacting with ChatGPT and GPT4 using Python and from Shell.
@@ -154,6 +159,8 @@ content creation, natural language processing, and programming.
 - [mpociot/chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode) - A Visual Studio Code extension that allows you to use ChatGPT
 - [nhaouari/obsidian-textgenerator-plugin](https://github.com/nhaouari/obsidian-textgenerator-plugin) - Text generator is a plugin for Obsidian that helps generate text content using GPT-3 (OpenAI)
 - [pgosar/ChatGDB](https://github.com/pgosar/ChatGDB) - ChatGDB is a tool designed to superpower your debugging experience with GDB or LLDB, debuggers for compiled languages.
+- [reloadware/reloadium](https://github.com/reloadware/reloadium) - Reloadware/reloadium is a Python library that adds hot reloading, profiling, and ChatGPT chat to your IDE. It has seamless integration with ChatGpt and provides immediate feedback on the functionality of your code when altered.
+- [richardyc/Chrome-GPT](https://github.com/richardyc/Chrome-GPT) - An AutoGPT agent that controls Chrome on your desktop
 - [santiagobasulto/ipython-gpt](https://github.com/santiagobasulto/ipython-gpt) - An ChatGPT integration for Jupyter Notebooks and the IPython Shell
 - [sozercan/kubectl-ai](https://github.com/sozercan/kubectl-ai) - Kubectl plugin for OpenAI GPT
 
@@ -180,11 +187,13 @@ content creation, natural language processing, and programming.
 - [prompt-engineering/chat-flow](https://github.com/prompt-engineering/chat-flow) - ChatFlow - AI-based chat flow framework, personalize your ChatGPT workflows and build the road to automation. A TypeScript library for building personalized ChatGPT workflows.
 - [transitive-bullshit/bing-chat](https://github.com/transitive-bullshit/bing-chat) - Node.js client for the unofficial Bing Chat API. It's like ChatGPT on steroids
 - [transitive-bullshit/chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api) - Node.js client for the official ChatGPT API.
+- [xiangsx/gpt4free-ts](https://github.com/xiangsx/gpt4free-ts) - This is a replication project for the typescript version of gpt4free
 
 ### Golang
 
 - [YaoApp/yao](https://github.com/YaoApp/yao) - YAO is an open-source Golang-based application engine, suitable for creating web services and applications in minutes. It supports a flow-based programming model and can be expanded by writing YAO DSL or using JavaScript. It also has a built-in data management system suitable for making various management background, CRM, ERP, and other internal enterprise systems.
 - [gotzmann/llama.go](https://github.com/gotzmann/llama.go) - LLaMA.go is a Golang library for machine learning, providing tensor math, neural net architecture, and model loading. It aims to enable ML researchers and hackers to work with REALLY BIG GPT models without expensive GPU clusters. It is based on the ggml.cpp C++ framework implementing LLaMA.
+- [linweiyuan/go-chatgpt-api](https://github.com/linweiyuan/go-chatgpt-api) - Unofficial API in Go (bypass Cloudflare 403 and Access denied)
 - [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai) - go-openai is a Python library or SDK that provides Go clients for OpenAI API including ChatGPT, GPT-3, GPT-4, DALL.E, and Whisper. It can be used for ChatGPT, GPT-3, GPT-4, DALL.E, Whisper API, and Audio Speech-to-Text. It supports installation through go get command from GitHub.
 
 ### Dart
@@ -204,8 +213,11 @@ content creation, natural language processing, and programming.
 - [alexrudall/ruby-openai](https://github.com/alexrudall/ruby-openai) - ruby-openai is a Ruby library for interacting with OpenAI's API which includes ChatGPT, Whisper and DALL·E. It can be used to stream text with GPT-4, transcribe and translate audio with Whisper and create images with DALL·E.
 - [betalgo/openai](https://github.com/betalgo/openai) - Dotnet SDK for OpenAI ChatGPT, Whisper, GPT-4 and DALL·E, used for generating chat, language and image content
 - [bytemate/chatapi-single](https://github.com/bytemate/chatapi-single) - Chatgpt-api-single is a simple, easy-to-use API server that comes with a queueing capability to prevent large-scale failures due to excessive access. It provides OneTime message and session message features. It has a simple encapsulation and comes with a Dockerfile for easy installation.
+- [dylanshine/openai-kit](https://github.com/dylanshine/openai-kit) - A Swift package used to interact with the OpenAI API
+- [georgia-tech-db/eva](https://github.com/georgia-tech-db/eva) - Database system for building simpler and faster AI-powered applications
 - [orhanerday/open-ai](https://github.com/orhanerday/open-ai) - OpenAI PHP SDK : Most downloaded, forked, contributed, huge community supported, and used PHP (Laravel , Symfony, Yii, Cake PHP or any PHP framework) SDK for OpenAI GPT-3 and DALL-E. It also supports chatGPT-like streaming. (ChatGPT AI is supported)
 - [skydoves/chatgpt-android](https://github.com/skydoves/chatgpt-android) - ChatGPT Android demonstrates OpenAI's ChatGPT on Android with Stream Chat SDK for Compose.
+- [thunlp/UltraChat](https://github.com/thunlp/UltraChat) - Open-source, large-scale, and multi-round dialogue data powered by Turbo APIs to facilitate the construction of powerful language models with general conversational capability.
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - This repository provides APIs from various language model sites and is intended for educational purposes only. It is not associated with or endorsed by the API providers. It also includes a web-based GUI for interacting with gpt4free and instructions on how to install it. 
 
 ## ChatGPT-based applications
@@ -243,6 +255,7 @@ content creation, natural language processing, and programming.
 - [lucidrains/PaLM-rlhf-pytorch](https://github.com/lucidrains/PaLM-rlhf-pytorch) - Implementation of RLHF (Reinforcement Learning with Human Feedback) on top of the PaLM architecture. Basically ChatGPT but with PaLM
 - [madawei2699/myGPTReader](https://github.com/madawei2699/myGPTReader) - A community-driven way to read and chat with AI bots - powered by chatGPT.
 - [marqo-ai/marqo](https://github.com/marqo-ai/marqo) - Marqo is a tensor-based search and analytics engine that integrates seamlessly with applications and websites. It allows developers to enhance search functionality with the latest machine learning models in only 3 lines of code. Marqo can be run at scale with horizontal index sharding, and supports async and non-blocking data upload and search. It also has built-in support for the latest machine learning models from PyTorch, Huggingface, OpenAI, and more, and can work with custom models. Marqo has cloud-native features, comes with support for building search and analytics on multiple unstructured data types such as text, image, code, and video, has a DSL to filter search results, and is built for high availability and cloud deployment.
+- [paulpierre/RasaGPT](https://github.com/paulpierre/RasaGPT) - RasaGPT is the first headless LLM chatbot platform built using Rasa, FastAPI, Langchain, LlamaIndex, SQLModel, pgvector, ngrok, and Telegram. It is a reference implementation of Rasa and Telegram utilizing an LLM library like Langchain for indexing, retrieval and context injection.
 - [robusta-dev/kubernetes-chatgpt-bot](https://github.com/robusta-dev/kubernetes-chatgpt-bot) - A ChatGPT bot for Kubernetes issues that forwards alerts to the bot using a webhook receiver and sends a query to OpenAI asking it how to fix the alerts.
 - [showlab/Image2Paragraph](https://github.com/showlab/Image2Paragraph) - Image2Paragraph is a Python library that allows the transformation of an image into text. It uses ChatGPT, BLIP2, OFA, GRIT, Segment Anything, and ControlNet. The library can be used through the command line or the Gradio web-based user interface. It can also be installed through various package managers.
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - SiYuan is a local-first personal knowledge management system, support fine-grained block-level reference and Markdown WYSIWYG.
@@ -263,6 +276,7 @@ content creation, natural language processing, and programming.
 - [LlmKira/Openaibot](https://github.com/LlmKira/Openaibot) - OpenaiBot is a cross-platform chatbot with support for multiple LLMs, GPT integration, and third-party systems integration. It features asynchronous operations, private and group chat support, chat rate limiting, entertainment features, and more. It has a self-maintaining model framework that abstracts and unifies access to GPT 3 and GPT 3.5. The repository provides deployment and configuration instructions.
 - [OptimalScale/LMFlow](https://github.com/OptimalScale/LMFlow) - LMFlow is an Extensible Toolkit for Finetuning and Inference of Large Foundation Models. It is a Python library or SDK for fine-tuning and inference of large machine learning models. The library is designed to be user-friendly, speedy, and reliable. The repository also includes demos, examples, and model checkpoints that can be used to test the library.
 - [PhoebusSi/Alpaca-CoT](https://github.com/PhoebusSi/Alpaca-CoT) - Alpaca-CoT is an instruction fine-tuning platform with instruction data collection and unified large language models interface for Python.
+- [X-PLUG/mPLUG-Owl](https://github.com/X-PLUG/mPLUG-Owl) - mPLUG-Owl🦉: Modularization Empowers Large Language Models with Multimodality
 - [ai-sidekick/sidekick](https://github.com/ai-sidekick/sidekick) - Sidekick is an open source ETL platform for retrieval augmented generation (RAG) that allows users to sync data from their SaaS tools to a vector database and easily query it. It supports API connectors to services like Zendesk, Notion, Google Drive, and Confluence, as well as a general purpose web scraper for all other content. It also supports Weaviate and Pinecone vector databases, and provides FastAPI endpoints for querying documents and performing Q&A over them. In addition, Sidekick has upcoming support for Milvus and Qdrant vector stores, DropBox Connector, query page for the dashboard to replace FastAPI UI, data synchronization via scheduling, and data synchronization via webhooks when available. The project is licensed under GPL-3.0 and contributions are welcome.
 - [chatarena/chatarena](https://github.com/chatarena/chatarena) - ChatArena is a library that provides multi-agent language game environments and facilitates research about autonomous LLM agents and their social interactions. It provides a set of environments that can help understand, benchmark, or train agent LLMs, and is also user-friendly with both Web UI and CLI interfaces.
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - Haystack is an open source NLP framework to interact with your data using Transformer models and LLMs (GPT-4, ChatGPT and alike). Haystack offers production-ready tools to quickly build complex decision making, question answering, semantic search, text generation applications, and more.
@@ -279,9 +293,11 @@ content creation, natural language processing, and programming.
 - [lupantech/chameleon-llm](https://github.com/lupantech/chameleon-llm) - Codes for "Chameleon: Plug-and-Play Compositional Reasoning with Large Language Models"
 - [microsoft/PromptCraft-Robotics](https://github.com/microsoft/PromptCraft-Robotics) - Repository for applying Large Language Models to the robotics domain through a community for testing and sharing interesting prompting examples. It also offers a robotics simulator built on Microsoft AirSim with ChatGPT integration for users to get started.
 - [missuo/OpenAI-Checker](https://github.com/missuo/OpenAI-Checker) - OpenAI-Checker is a desktop application used to check if your IP can access OpenAI services. It uses Cloudflare to get the results for 163 countries. The tool is created by Vincent Young and released under the MIT License.
+- [miurla/babyagi-ui](https://github.com/miurla/babyagi-ui) - BabyAGI UI is designed to make it easier to run and develop with babyagi in a web app, like a ChatGPT.
 - [nichtdax/awesome-totally-open-chatgpt](https://github.com/nichtdax/awesome-totally-open-chatgpt) - A list of totally open alternatives to ChatGPT
 - [project-baize/baize-chatbot](https://github.com/project-baize/baize-chatbot) - Baize is an open-source chat model trained with LoRA that allows users to teach their own chatbot with a single GPU. This repository contains the code for collecting self-chat data, training the chat model, and demo applications. Model weights and data are for research use only. Commercial use is strictly prohibited.
 - [reorx/awesome-chatgpt-api](https://github.com/reorx/awesome-chatgpt-api) - Curated list of apps and tools that not only use the new ChatGPT API, but also allow users to configure their own API keys, enabling free and on-demand usage of their own quota.
+- [sindresorhus/awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) - An awesome list for ChatGPT - an artificial intelligence chatbot developed by OpenAI.
 - [tw93/Pake](https://github.com/tw93/Pake) - Pake - Turn any webpage into a desktop app with Rust.
 - [xcfcode/Summarization-Papers](https://github.com/xcfcode/Summarization-Papers) - A collection of papers, presentations, and notes on the topic of summarization in natural language processing.
 
