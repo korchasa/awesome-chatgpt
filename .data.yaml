@@ -1,6 +1,20 @@
-updated_at: 2023-05-13T21:48:10.623818+03:00
-readme_generated_at: 2023-05-13T21:48:14.047265+03:00
+updated_at: 2023-06-10T19:59:46.964711+03:00
+readme_generated_at: 2023-06-10T19:59:53.525446+03:00
 items:
+  - name: 0xacx/chatGPT-shell-cli
+    link: https://github.com/0xacx/chatGPT-shell-cli
+    description: Simple shell script to use OpenAI's ChatGPT and DALL-E from the terminal.
+        No Python or JS required.
+    ignore: false
+    ignore_reason: ""
+    category: Other UIs
+    language: Shell
+    ai_category: Desktop applications
+    ai_category_confidence: 0.85
+    ai_description: A simple, lightweight shell script to use OpenAI's chatGPT and
+        DALL-E from the terminal without installing python or node.js
+    created_at: 2023-06-10T19:34:25.343107+03:00
+    is_new: true
   - name: 0xk1h0/ChatGPT_DAN
     link: https://github.com/0xk1h0/ChatGPT_DAN
     description: ChatGPT DAN, Jailbreaks prompt
@@ -190,6 +204,21 @@ items:
     ai_category_confidence: 0
     ai_description: ""
     created_at: 2023-05-01T02:04:53.954788+03:00
+    is_new: true
+  - name: Chainlit/chainlit
+    link: https://github.com/Chainlit/chainlit
+    description: Build Python LLM apps in minutes ⚡️
+    ignore: false
+    ignore_reason: ""
+    category: Python
+    language: TypeScript
+    ai_category: Python
+    ai_category_confidence: 0.9
+    ai_description: Chainlit lets you create ChatGPT-like UIs on top of any Python
+        code in minutes! Some of the key features include intermediary steps visualisation,
+        element management & display (images, text, carousel, etc.) as well as cloud
+        deployment.
+    created_at: 2023-06-10T19:34:28.073581+03:00
     is_new: true
   - name: Chanzhaoyu/chatgpt-web
     link: https://github.com/Chanzhaoyu/chatgpt-web
@@ -648,6 +677,19 @@ items:
     ai_description: ""
     created_at: 2023-05-01T20:10:06.676569+03:00
     is_new: true
+  - name: Licoy/ChatGPT-Midjourney
+    link: https://github.com/Licoy/ChatGPT-Midjourney
+    description: "\U0001F3A8 一键拥有你自己的 ChatGPT+Midjourney 网页服务 \\ Own your own ChatGPT+Midjourney
+        web service with one click"
+    ignore: true
+    ignore_reason: not-english
+    category: ""
+    language: TypeScript
+    ai_category: ""
+    ai_category_confidence: 0
+    ai_description: ""
+    created_at: 2023-06-10T19:34:25.343104+03:00
+    is_new: true
   - name: Licoy/wordpress-theme-puock
     link: https://github.com/Licoy/wordpress-theme-puock
     description: ':art: 一款基于WordPress开发的高颜值的自适应主题，支持白天与黑夜模式/无刷新加载/第三方登录等众多功能 | A high-value
@@ -706,6 +748,21 @@ items:
     ai_category_confidence: 0.9
     ai_description: ChatGPT web interface using the OpenAI API
     created_at: 2023-05-13T21:39:37.169194+03:00
+    is_new: true
+  - name: NoDataFound/hackGPT
+    link: https://github.com/NoDataFound/hackGPT
+    description: I leverage OpenAI and ChatGPT to do hackerish things
+    ignore: false
+    ignore_reason: ""
+    category: ChatGPT-based applications
+    language: Jupyter Notebook
+    ai_category: ChatGPT-based applications
+    ai_category_confidence: 0.9
+    ai_description: hackGPT is an application based on ChatGPT that leverages OpenAI
+        and ChatGPT to do hackerish things such as hunting for JIRA issues, parsing
+        and analyzing JSON threat data, automating CVE exploit creation and CyberDefense
+        protections, and more.
+    created_at: 2023-06-10T19:56:17.541811+03:00
     is_new: true
   - name: NotFound9/interviewGuide
     link: https://github.com/NotFound9/interviewGuide
@@ -856,6 +913,21 @@ items:
         and model checkpoints that can be used to test the library.
     created_at: 2023-04-30T18:58:40.936381+03:00
     is_new: true
+  - name: PawanOsman/ChatGPT
+    link: https://github.com/PawanOsman/ChatGPT
+    description: OpenAI API Free Reverse Proxy
+    ignore: false
+    ignore_reason: ""
+    category: Other UIs
+    language: JavaScript
+    ai_category: Web applications
+    ai_category_confidence: 0.9
+    ai_description: ChatGPT API Free Reverse Proxy is a free reverse proxy to OpenAI
+        API that allows users to access OpenAI API for free. It has multiple OpenAI
+        Keys, a built-in moderation system, supports streaming response, has the same
+        endpoints as the official API, and is free to use through their hosted API.
+    created_at: 2023-06-10T19:34:23.054097+03:00
+    is_new: true
   - name: PhoebusSi/Alpaca-CoT
     link: https://github.com/PhoebusSi/Alpaca-CoT
     description: We extend CoT data to Alpaca to boost its reasoning ability. We are
@@ -969,6 +1041,44 @@ items:
     ai_category_confidence: 0.85
     ai_description: Automatically generate commit messages using ChatGPT
     created_at: 2023-04-30T18:03:32.319751+03:00
+    is_new: true
+  - name: SamurAIGPT/ChatGPT-Developer-Plugins
+    link: https://github.com/SamurAIGPT/ChatGPT-Developer-Plugins
+    description: Run ChatGPT plugins for free without having access to Plus subscription
+    ignore: false
+    ignore_reason: ""
+    category: ChatGPT plugins
+    language: Python
+    ai_category: ChatGPT plugins
+    ai_category_confidence: 0.9
+    ai_description: Run ChatGPT plugins for free without having access to Plus subscription
+    created_at: 2023-06-10T19:34:25.343115+03:00
+    is_new: true
+  - name: SamurAIGPT/privateGPT
+    link: https://github.com/SamurAIGPT/privateGPT
+    description: An app to interact privately with your documents using the power
+        of GPT, 100% privately, no data leaks
+    ignore: false
+    ignore_reason: ""
+    category: Web applications
+    language: JavaScript
+    ai_category: Desktop applications
+    ai_category_confidence: 0.8
+    ai_description: An app to interact privately with your documents using the power
+        of GPT, 100% privately, no data leaks
+    created_at: 2023-06-10T19:34:28.073568+03:00
+    is_new: true
+  - name: ShishirPatil/gorilla
+    link: https://github.com/ShishirPatil/gorilla
+    description: 'Gorilla: An API store for LLMs'
+    ignore: false
+    ignore_reason: ""
+    category: Python
+    language: Python
+    ai_category: Python
+    ai_category_confidence: 0.9
+    ai_description: 'Gorilla: An API store for LLMs'
+    created_at: 2023-06-10T19:34:25.343118+03:00
     is_new: true
   - name: SkyWorkAIGC/SkyChat-Chinese-Chatbot-GPT3
     link: https://github.com/SkyWorkAIGC/SkyChat-Chinese-Chatbot-GPT3
@@ -1126,6 +1236,18 @@ items:
         description as input and returns the result generated by the GPT model.
     created_at: 2023-05-01T00:34:35.641259+03:00
     is_new: true
+  - name: Voine/ChatWaifu_Mobile
+    link: https://github.com/Voine/ChatWaifu_Mobile
+    description: 移动版二次元 AI 老婆聊天器
+    ignore: true
+    ignore_reason: not-english
+    category: ""
+    language: C++
+    ai_category: ""
+    ai_category_confidence: 0
+    ai_description: ""
+    created_at: 2023-06-10T19:34:28.073581+03:00
+    is_new: true
   - name: WPeace-HcH/WPeChatGPT
     link: https://github.com/WPeace-HcH/WPeChatGPT
     description: A plugin for IDA that can help to analyze binary file, it is based
@@ -1256,6 +1378,18 @@ items:
     ai_description: GPT3 powered CLI that provides answers for CLI commands
     created_at: 2023-04-30T18:58:40.936399+03:00
     is_new: true
+  - name: abielzulio/chatgpt-raycast
+    link: https://github.com/abielzulio/chatgpt-raycast
+    description: ChatGPT raycast extension
+    ignore: false
+    ignore_reason: ""
+    category: Other UIs
+    language: TypeScript
+    ai_category: ChatGPT plugins
+    ai_category_confidence: 0.95
+    ai_description: ChatGPT raycast extension
+    created_at: 2023-06-10T19:34:25.343109+03:00
+    is_new: true
   - name: acheong08/ChatGPT
     link: https://github.com/acheong08/ChatGPT
     description: Reverse engineered ChatGPT API
@@ -1281,6 +1415,18 @@ items:
         a Cloudflare Bypass for OpenAI based on `puid`. However, it doesn't work anymore
         as new fingerprints were added to Cloudflare.
     created_at: 2023-05-01T20:10:06.676589+03:00
+    is_new: true
+  - name: acheong08/ChatGPT-to-API
+    link: https://github.com/acheong08/ChatGPT-to-API
+    description: Scalable unofficial ChatGPT API for production.
+    ignore: false
+    ignore_reason: ""
+    category: Golang
+    language: Go
+    ai_category: Golang
+    ai_category_confidence: 0.9
+    ai_description: Scalable unofficial ChatGPT API for production.
+    created_at: 2023-06-10T19:56:14.964922+03:00
     is_new: true
   - name: acheong08/EdgeGPT
     link: https://github.com/acheong08/EdgeGPT
@@ -1313,6 +1459,18 @@ items:
         moderation.
     created_at: 2023-04-30T18:58:40.936378+03:00
     is_new: true
+  - name: adams549659584/go-proxy-bingai
+    link: https://github.com/adams549659584/go-proxy-bingai
+    description: 用 Vue3 和 Go 搭建的微软 New Bing 演示站点，拥有一致的 UI 体验，支持 ChatGPT 提示词，国内可用。
+    ignore: true
+    ignore_reason: not-english
+    category: ""
+    language: HTML
+    ai_category: ""
+    ai_category_confidence: 0
+    ai_description: ""
+    created_at: 2023-06-10T19:34:28.073582+03:00
+    is_new: true
   - name: ading2210/poe-api
     link: https://github.com/ading2210/poe-api
     description: A reverse engineered Python API wrapper for Quora's Poe, which provides
@@ -1340,6 +1498,18 @@ items:
     ai_description: This repository contains a project that allows building and deploying
         an AI application based on OpenAI's Codex model that helps with coding
     created_at: 2023-05-01T00:25:07.234653+03:00
+    is_new: true
+  - name: afatcoder/LeetcodeTop
+    link: https://github.com/afatcoder/LeetcodeTop
+    description: "汇总各大互联网公司容易考察的高频leetcode题\U0001F525         推荐免费ChatGPT网站：https://www.lintcode.com/chat-gpt?utm_source=tf-github-codetop"
+    ignore: true
+    ignore_reason: not-english
+    category: ""
+    language: ""
+    ai_category: ""
+    ai_category_confidence: 0
+    ai_description: ""
+    created_at: 2023-06-10T19:34:28.07358+03:00
     is_new: true
   - name: ai-genie/chatgpt-vscode
     link: https://github.com/ai-genie/chatgpt-vscode
@@ -1377,6 +1547,18 @@ items:
         via webhooks when available. The project is licensed under GPL-3.0 and contributions
         are welcome.
     created_at: 2023-05-01T00:34:35.641261+03:00
+    is_new: true
+  - name: airuikun/smart-ide
+    link: https://github.com/airuikun/smart-ide
+    description: 在vscode插件中结合chatgpt能力，实现智能研发提效
+    ignore: true
+    ignore_reason: not-english
+    category: ""
+    language: JavaScript
+    ai_category: ""
+    ai_category_confidence: 0
+    ai_description: ""
+    created_at: 2023-06-10T19:34:28.073569+03:00
     is_new: true
   - name: akl7777777/free-chatgpt-client-pub
     link: https://github.com/akl7777777/free-chatgpt-client-pub
@@ -1474,6 +1656,21 @@ items:
         greatly reducing users' reading time and improving comprehension.
     created_at: 2023-05-01T02:01:14.626266+03:00
     is_new: true
+  - name: anse-app/anse
+    link: https://github.com/anse-app/anse
+    description: Supercharged experience for ChatGPT, DALL-E and Stable Diffusion.
+    ignore: false
+    ignore_reason: ""
+    category: Web applications
+    language: TypeScript
+    ai_category: Web applications
+    ai_category_confidence: 0.9
+    ai_description: Anse is a UI for AI chats with a powerful plugin system, session
+        record saving, multiple session modes, improved UI experience, and one-click
+        deployment. Written in TypeScript and optimized for ChatGPT, DALL-E, and Stable
+        Diffusion.
+    created_at: 2023-06-10T19:34:25.343112+03:00
+    is_new: true
   - name: anse-app/chatgpt-demo
     link: https://github.com/anse-app/chatgpt-demo
     description: 'Minimal UI for ChatGPT. '
@@ -1546,6 +1743,19 @@ items:
         and an OpenAI API key. The bot uses Puppeteer to run a real instance of Whatsapp
         Web to avoid getting blocked.
     created_at: 2023-04-30T18:03:32.319725+03:00
+    is_new: true
+  - name: azl397985856/leetcode
+    link: https://github.com/azl397985856/leetcode
+    description: '推荐免费ChatGPT网站：www.lintcode.com/chat-gpt?utm_source=tf-github-lucifer  LeetCode
+        Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)'
+    ignore: true
+    ignore_reason: not-english
+    category: ""
+    language: JavaScript
+    ai_category: ""
+    ai_category_confidence: 0
+    ai_description: ""
+    created_at: 2023-06-10T19:34:28.073566+03:00
     is_new: true
   - name: barretlee/cloudflare-proxy
     link: https://github.com/barretlee/cloudflare-proxy
@@ -1742,6 +1952,18 @@ items:
     ai_description: ChatGPT directly integrated into Google Docs.
     created_at: 2023-05-01T00:34:33.676298+03:00
     is_new: true
+  - name: chatanywhere/GPT_API_free
+    link: https://github.com/chatanywhere/GPT_API_free
+    description: Free ChatGPT API Key，免费ChatGPT API，支持GPT4 API（低价），ChatGPT国内可用免费转发API，直连无需代理。可以搭配ChatBox等软件/插件使用，极大降低接口使用成本。国内即可无限制畅快聊天。
+    ignore: true
+    ignore_reason: not-english
+    category: ""
+    language: Python
+    ai_category: ""
+    ai_category_confidence: 0
+    ai_description: ""
+    created_at: 2023-06-10T19:34:28.073564+03:00
+    is_new: true
   - name: chatarena/chatarena
     link: https://github.com/chatarena/chatarena
     description: ChatArena (or Chat Arena) is a Multi-Agent Language Game Environments
@@ -1853,6 +2075,20 @@ items:
         with ElevenLabs to give ChatGPT a realistic human voice. It has been developed
         using TypeScript + React and powered by the new ChatGPT API from OpenAI.
     created_at: 2023-04-30T18:03:32.319749+03:00
+    is_new: true
+  - name: dabit3/semantic-search-nextjs-pinecone-langchain-chatgpt
+    link: https://github.com/dabit3/semantic-search-nextjs-pinecone-langchain-chatgpt
+    description: Embeds text files into vectors, stores them on Pinecone, and enables
+        semantic search using GPT3 and Langchain in a Next.js UI
+    ignore: false
+    ignore_reason: ""
+    category: JavaScript/Typescript
+    language: TypeScript
+    ai_category: Guides and examples
+    ai_category_confidence: 0.9
+    ai_description: Embeds text files into vectors, stores them on Pinecone, and enables
+        semantic search using GPT3 and Langchain in a Next.js UI
+    created_at: 2023-06-10T19:34:25.343119+03:00
     is_new: true
   - name: dair-ai/Prompt-Engineering-Guide
     link: https://github.com/dair-ai/Prompt-Engineering-Guide
@@ -2311,6 +2547,19 @@ items:
         print it to standard output.
     created_at: 2023-04-30T18:58:40.936389+03:00
     is_new: true
+  - name: goldfishh/chatgpt-tool-hub
+    link: https://github.com/goldfishh/chatgpt-tool-hub
+    description: An open-source chatgpt tool ecosystem where you can combine tools
+        with chatgpt and use natural language to do anything.
+    ignore: true
+    ignore_reason: not-english
+    category: ""
+    language: Python
+    ai_category: ""
+    ai_category_confidence: 0
+    ai_description: ""
+    created_at: 2023-06-10T19:34:25.343112+03:00
+    is_new: true
   - name: gotzmann/llama.go
     link: https://github.com/gotzmann/llama.go
     description: llama.go is like llama.cpp in pure Golang!
@@ -2423,6 +2672,19 @@ items:
         PEFT and several fine-tuning methods.
     created_at: 2023-05-01T00:34:35.64128+03:00
     is_new: true
+  - name: hncboy/chatgpt-web-java
+    link: https://github.com/hncboy/chatgpt-web-java
+    description: Java 开发的 ChatGPT 的项目，基于 Spring Boot 3 和 JDK 17，支持 AccessToken 和 ApiKey
+        模式。
+    ignore: true
+    ignore_reason: not-english
+    category: ""
+    language: Java
+    ai_category: ""
+    ai_category_confidence: 0
+    ai_description: ""
+    created_at: 2023-06-10T19:34:23.054106+03:00
+    is_new: true
   - name: homanp/langchain-ui
     link: https://github.com/homanp/langchain-ui
     description: "\U0001F9EC The open source chat-ai toolkit"
@@ -2451,6 +2713,18 @@ items:
     ai_category_confidence: 0
     ai_description: ""
     created_at: 2023-05-01T02:04:53.954783+03:00
+    is_new: true
+  - name: hoochanlon/hamulete
+    link: https://github.com/hoochanlon/hamulete
+    description: "\U0001F3D4️ChatGPT、软件程序各类镜像，国立台湾大学、国立新加坡大学、早稻田大学、东京大学、中国内陆与香港重点高校及科研机构，社科、经济、系统工程类学术论文等知识库。"
+    ignore: true
+    ignore_reason: not-english
+    category: ""
+    language: Python
+    ai_category: ""
+    ai_category_confidence: 0
+    ai_description: ""
+    created_at: 2023-06-10T19:34:25.343117+03:00
     is_new: true
   - name: houko/wechatgpt
     link: https://github.com/houko/wechatgpt
@@ -2542,6 +2816,20 @@ items:
         you can "own" or to perform reproducible research.
     created_at: 2023-04-30T18:58:40.936401+03:00
     is_new: true
+  - name: interstellard/chatgpt-advanced
+    link: https://github.com/interstellard/chatgpt-advanced
+    description: 'WebChatGPT: A browser extension that augments your ChatGPT prompts
+        with web results.'
+    ignore: false
+    ignore_reason: ""
+    category: Browser extensions
+    language: TypeScript
+    ai_category: Browser extensions
+    ai_category_confidence: 0.95
+    ai_description: A browser extension that augments your ChatGPT prompts with web
+        results.
+    created_at: 2023-06-10T19:34:23.054098+03:00
+    is_new: true
   - name: intitni/CopilotForXcode
     link: https://github.com/intitni/CopilotForXcode
     description: The missing GitHub Copilot and ChatGPT Xcode Source Editor Extension
@@ -2568,6 +2856,20 @@ items:
         pull requests using ChatGPT. It has a roadmap for improvements, examples of
         successful PRs, and limitations that need to be addressed.
     created_at: 2023-05-03T11:32:35.209213+03:00
+    is_new: true
+  - name: iryna-kondr/scikit-llm
+    link: https://github.com/iryna-kondr/scikit-llm
+    description: Seamlessly integrate powerful language models like ChatGPT into scikit-learn
+        for enhanced text analysis tasks.
+    ignore: false
+    ignore_reason: ""
+    category: Python
+    language: Python
+    ai_category: Python
+    ai_category_confidence: 0.9
+    ai_description: Seamlessly integrate powerful language models like ChatGPT into
+        scikit-learn for enhanced text analysis tasks.
+    created_at: 2023-06-10T19:34:28.073562+03:00
     is_new: true
   - name: ismartcoding/plain-app
     link: https://github.com/ismartcoding/plain-app
@@ -2612,6 +2914,22 @@ items:
         inference on Apple Silicon GPUs.
     created_at: 2023-05-01T20:10:12.110854+03:00
     is_new: true
+  - name: josStorer/RWKV-Runner
+    link: https://github.com/josStorer/RWKV-Runner
+    description: A RWKV management and startup tool, full automation, only 8MB. And
+        provides an interface compatible with the OpenAI API. RWKV is a large language
+        model that is fully open source and available for commercial use.
+    ignore: false
+    ignore_reason: ""
+    category: Other
+    language: TypeScript
+    ai_category: Desktop applications
+    ai_category_confidence: 0.95
+    ai_description: A RWKV management and startup tool, full automation, only 8MB.
+        And provides an interface compatible with the OpenAI API. RWKV is a large
+        language model that is fully open source and available for commercial use.
+    created_at: 2023-06-10T19:56:17.541933+03:00
+    is_new: true
   - name: josStorer/chatGPT-search-engine-extension
     link: https://github.com/josStorer/chatGPT-search-engine-extension
     description: A browser extension to display ChatGPT response alongside Search
@@ -2653,6 +2971,23 @@ items:
         ventures built with ChatGPT AI co-founder.
     created_at: 2023-04-30T18:58:40.936391+03:00
     is_new: true
+  - name: jtsang4/claude-to-chatgpt
+    link: https://github.com/jtsang4/claude-to-chatgpt
+    description: This project converts the API of Anthropic's Claude model to the
+        OpenAI Chat API format.
+    ignore: false
+    ignore_reason: ""
+    category: Python
+    language: Python
+    ai_category: Python
+    ai_category_confidence: 0.9
+    ai_description: This project is a Python library that helps to convert the API
+        of Anthropic's Claude model to the OpenAI Chat API format. It also supports
+        streaming response and the Claude-v1.3 and Claude-v1.3-100k models. It can
+        be deployed using Cloudflare Workers or Docker, and the API endpoint is /v1/chat/completions.
+        The project is licensed under the MIT License.
+    created_at: 2023-06-10T19:34:25.343106+03:00
+    is_new: true
   - name: jucasoliveira/terminalGPT
     link: https://github.com/jucasoliveira/terminalGPT
     description: Get GPT like chatGPT on your terminal
@@ -2678,6 +3013,18 @@ items:
     ai_description: Open source implementation for LLaMA-based ChatGPT runnable in
         a single GPU
     created_at: 2023-05-01T00:34:33.676286+03:00
+    is_new: true
+  - name: justjavac/openai-proxy
+    link: https://github.com/justjavac/openai-proxy
+    description: OpenAI/ChatGPT 免翻墙代理
+    ignore: true
+    ignore_reason: not-english
+    category: ""
+    language: TypeScript
+    ai_category: ""
+    ai_category_confidence: 0
+    ai_description: ""
+    created_at: 2023-06-10T19:34:23.054113+03:00
     is_new: true
   - name: kaixindelele/ChatPaper
     link: https://github.com/kaixindelele/ChatPaper
@@ -3356,6 +3703,60 @@ items:
         with OpenAI's ChatGPT.
     created_at: 2023-04-30T18:03:32.319749+03:00
     is_new: true
+  - name: obiscr/ChatGPT
+    link: https://github.com/obiscr/ChatGPT
+    description: This project is a plugin that supports ChatGPT running on JetBrains
+        series IDE.
+    ignore: false
+    ignore_reason: ""
+    category: Integrations
+    language: Java
+    ai_category: ChatGPT plugins
+    ai_category_confidence: 0.9
+    ai_description: This project is a plugin that supports ChatGPT running on JetBrains
+        series IDE.
+    created_at: 2023-06-10T19:34:23.054096+03:00
+    is_new: true
+  - name: openai-translator/bob-plugin-openai-polisher
+    link: https://github.com/openai-translator/bob-plugin-openai-polisher
+    description: 使用 ChatGPT API 给文本进行润色和语法纠错的 Bob 插件！完美代替 Grammarly！Licensed under
+        CC BY-NC-SA 4.0
+    ignore: true
+    ignore_reason: not-english
+    category: ""
+    language: JavaScript
+    ai_category: ""
+    ai_category_confidence: 0
+    ai_description: ""
+    created_at: 2023-06-10T19:34:28.073577+03:00
+    is_new: true
+  - name: openai-translator/bob-plugin-openai-translator
+    link: https://github.com/openai-translator/bob-plugin-openai-translator
+    description: 基于 ChatGPT API 的文本翻译、文本润色、语法纠错 Bob 插件，让我们一起迎接不需要巴别塔的新时代！Licensed
+        under CC BY-NC-SA 4.0
+    ignore: true
+    ignore_reason: not-english
+    category: ""
+    language: JavaScript
+    ai_category: ""
+    ai_category_confidence: 0
+    ai_description: ""
+    created_at: 2023-06-10T19:34:25.343119+03:00
+    is_new: true
+  - name: openai-translator/openai-translator
+    link: https://github.com/openai-translator/openai-translator
+    description: 基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用    -    Browser extension and
+        cross-platform desktop application for translation based on ChatGPT API.
+    ignore: false
+    ignore_reason: ""
+    category: ChatGPT-based applications
+    language: TypeScript
+    ai_category: Browser extensions
+    ai_category_confidence: 0.9
+    ai_description: Browser extension and cross-platform desktop application for translation
+        based on ChatGPT API.
+    created_at: 2023-06-10T19:34:25.343112+03:00
+    is_new: true
   - name: openai/chatgpt-retrieval-plugin
     link: https://github.com/openai/chatgpt-retrieval-plugin
     description: The ChatGPT Retrieval Plugin lets you easily search and find personal
@@ -3649,6 +4050,20 @@ items:
         for easy parsing and filtering.
     created_at: 2023-04-30T18:58:40.936406+03:00
     is_new: true
+  - name: psychic-api/psychic
+    link: https://github.com/psychic-api/psychic
+    description: Data integration platform for LLms. Connect to SaaS tools with turnkey
+        auth and sync documents from N data sources with only one integration
+    ignore: false
+    ignore_reason: ""
+    category: Other
+    language: TypeScript
+    ai_category: Integrations
+    ai_category_confidence: 0.9
+    ai_description: Data integration platform for LLms. Connect to SaaS tools with
+        turnkey auth and sync documents from N data sources with only one integration
+    created_at: 2023-06-10T19:56:17.541933+03:00
+    is_new: true
   - name: qunash/chatgpt-advanced
     link: https://github.com/qunash/chatgpt-advanced
     description: 'WebChatGPT: A browser extension that augments your ChatGPT prompts
@@ -3719,6 +4134,18 @@ items:
     ai_category_confidence: 1
     ai_description: An AutoGPT agent that controls Chrome on your desktop
     created_at: 2023-05-13T21:39:42.09982+03:00
+    is_new: true
+  - name: ricklamers/gpt-code-ui
+    link: https://github.com/ricklamers/gpt-code-ui
+    description: An open source implementation of OpenAI's ChatGPT Code interpreter
+    ignore: false
+    ignore_reason: ""
+    category: Desktop applications
+    language: Python
+    ai_category: Web applications
+    ai_category_confidence: 0.9
+    ai_description: An open source implementation of OpenAI's ChatGPT Code interpreter
+    created_at: 2023-06-10T19:34:25.34311+03:00
     is_new: true
   - name: riwigefi/light-gpt
     link: https://github.com/riwigefi/light-gpt
@@ -3968,6 +4395,34 @@ items:
         Twitter feed and sponsor Bytebase.
     created_at: 2023-04-30T18:58:40.936405+03:00
     is_new: true
+  - name: stulzq/azure-openai-proxy
+    link: https://github.com/stulzq/azure-openai-proxy
+    description: Azure OpenAI Service Proxy. Convert OpenAI official API request to
+        Azure OpenAI API request. Support GPT-4.
+    ignore: false
+    ignore_reason: ""
+    category: Integrations
+    language: Go
+    ai_category: Golang
+    ai_category_confidence: 0.9
+    ai_description: Azure OpenAI Service Proxy, convert OpenAI official API request
+        to Azure OpenAI API request, support all models, support GPT-4.
+    created_at: 2023-06-10T19:34:28.073567+03:00
+    is_new: true
+  - name: sunner/ChatALL
+    link: https://github.com/sunner/ChatALL
+    description: ' Concurrently chat with ChatGPT, Bing Chat, bard, Alpaca, Vicuna,
+        Claude, ChatGLM, MOSS, iFlytek Spark, ERNIE and more, discover the best answers'
+    ignore: false
+    ignore_reason: ""
+    category: Desktop applications
+    language: JavaScript
+    ai_category: Desktop applications
+    ai_category_confidence: 0.9
+    ai_description: Concurrently chat with ChatGPT, Bing Chat, bard, Alpaca, Vicuna,
+        Claude, ChatGLM, MOSS, iFlytek Spark, ERNIE and more, discover the best answers
+    created_at: 2023-06-10T19:34:28.073568+03:00
+    is_new: true
   - name: supabase-community/nextjs-openai-doc-search
     link: https://github.com/supabase-community/nextjs-openai-doc-search
     description: Template for building your own custom ChatGPT style doc search powered
@@ -3981,6 +4436,34 @@ items:
     ai_description: Template for building your own custom ChatGPT style doc search
         powered by Next.js, OpenAI, and Supabase.
     created_at: 2023-05-01T00:34:35.641255+03:00
+    is_new: true
+  - name: taishi-i/awesome-ChatGPT-repositories
+    link: https://github.com/taishi-i/awesome-ChatGPT-repositories
+    description: A curated list of resources dedicated to open source GitHub repositories
+        related to ChatGPT
+    ignore: false
+    ignore_reason: ""
+    category: Guides and examples
+    language: ""
+    ai_category: Guides and examples
+    ai_category_confidence: 0.9
+    ai_description: Curated list of resources dedicated to open source GitHub repositories
+        related to ChatGPT
+    created_at: 2023-06-10T19:34:25.34311+03:00
+    is_new: true
+  - name: talkingwallace/ChatGPT-Paper-Reader
+    link: https://github.com/talkingwallace/ChatGPT-Paper-Reader
+    description: 'This repo offers a simple interface that helps you to read&summerize
+        research papers in pdf format. You can ask some questions after reading. This
+        interface is developed based on openai API and using GPT-3.5-turbo model. '
+    ignore: true
+    ignore_reason: not-english
+    category: ""
+    language: Python
+    ai_category: ""
+    ai_category_confidence: 0
+    ai_description: ""
+    created_at: 2023-06-10T19:34:25.343106+03:00
     is_new: true
   - name: taranjeet/unofficial-chatgpt-api
     link: https://github.com/taranjeet/unofficial-chatgpt-api
@@ -4220,6 +4703,20 @@ items:
         a Node.js module, REST API server, and CLI app.
     created_at: 2023-04-30T18:03:32.319728+03:00
     is_new: true
+  - name: webwhiz-ai/webwhiz
+    link: https://github.com/webwhiz-ai/webwhiz
+    description: WebWhiz allows you to create an AI chatbot that knows everything
+        about your product and can instantly respond to your customer's queries.
+    ignore: false
+    ignore_reason: ""
+    category: ChatGPT-based applications
+    language: TypeScript
+    ai_category: Web applications
+    ai_category_confidence: 0.85
+    ai_description: Train ChatGPT on Your Website Data and Build an AI Chatbot that
+        can instantly answer your customers queries.
+    created_at: 2023-06-10T19:34:28.073569+03:00
+    is_new: true
   - name: whitead/paper-qa
     link: https://github.com/whitead/paper-qa
     description: LLM Chain for answering questions from documents with citations
@@ -4235,6 +4732,18 @@ items:
         Modeling Middleware) to generate answers. It is available on PyPI and is licensed
         under MIT license.
     created_at: 2023-04-30T18:49:42.238016+03:00
+    is_new: true
+  - name: whyiyhw/chatgpt-wechat
+    link: https://github.com/whyiyhw/chatgpt-wechat
+    description: 企业微信/微信 安全使用的 ChatGPT 个人助手应用
+    ignore: true
+    ignore_reason: not-english
+    category: ""
+    language: Go
+    ai_category: ""
+    ai_category_confidence: 0
+    ai_description: ""
+    created_at: 2023-06-10T19:34:23.054113+03:00
     is_new: true
   - name: wieslawsoltes/ChatGPT
     link: https://github.com/wieslawsoltes/ChatGPT
@@ -4352,6 +4861,20 @@ items:
         of summarization in natural language processing.
     created_at: 2023-05-01T00:34:35.641256+03:00
     is_new: true
+  - name: xenodium/chatgpt-shell
+    link: https://github.com/xenodium/chatgpt-shell
+    description: "ChatGPT and DALL-E Emacs shells + Org babel \U0001F984 + a shell
+        maker for other providers"
+    ignore: false
+    ignore_reason: ""
+    category: Other UIs
+    language: Emacs Lisp
+    ai_category: Desktop applications
+    ai_category_confidence: 0.9
+    ai_description: "ChatGPT and DALL-E Emacs shells + Org babel \U0001F984 + a shell
+        maker for other providers"
+    created_at: 2023-06-10T19:34:25.343114+03:00
+    is_new: true
   - name: xiangsx/gpt4free-ts
     link: https://github.com/xiangsx/gpt4free-ts
     description: This is a replication project for the typescript version of xtekky/gpt4free
@@ -4448,6 +4971,20 @@ items:
         and has faster connection to API than official UI.
     created_at: 2023-04-30T18:03:32.319747+03:00
     is_new: true
+  - name: yaodongC/awesome-instruction-dataset
+    link: https://github.com/yaodongC/awesome-instruction-dataset
+    description: A collection of open-source dataset to train instruction-following
+        LLMs (ChatGPT,LLaMA,Alpaca)
+    ignore: false
+    ignore_reason: ""
+    category: Other
+    language: ""
+    ai_category: Guides and examples
+    ai_category_confidence: 0.85
+    ai_description: A collection of open-source dataset to train instruction-following
+        LLMs (ChatGPT,LLaMA,Alpaca)
+    created_at: 2023-06-10T19:34:28.073581+03:00
+    is_new: true
   - name: yaroslav-n/tweetGPT
     link: https://github.com/yaroslav-n/tweetGPT
     description: Chrome extension that generates tweets and replies using chatGPT
@@ -4513,6 +5050,18 @@ items:
     ai_description: ""
     created_at: 2023-05-01T20:10:06.676569+03:00
     is_new: true
+  - name: yokoffing/ChatGPT-Prompts
+    link: https://github.com/yokoffing/ChatGPT-Prompts
+    description: ChatGPT and Bing AI prompt curation
+    ignore: false
+    ignore_reason: ""
+    category: Guides and examples
+    language: ""
+    ai_category: Guides and examples
+    ai_category_confidence: 0.95
+    ai_description: Collection of prompt examples to be used with the ChatGPT model.
+    created_at: 2023-06-10T19:34:25.343116+03:00
+    is_new: true
   - name: yonggekkk/warp-yg
     link: https://github.com/yonggekkk/warp-yg
     description: warp多功能一键脚本CFwarp，支持warp在线监测守护、endpoint对端自选IP等功能，查看ChatGPT与Netflix的解锁情况
@@ -4539,6 +5088,22 @@ items:
         process, running the app, and configuration options as well as Docker support.
         It is licensed under MIT license.
     created_at: 2023-04-30T18:03:32.319736+03:00
+    is_new: true
+  - name: yzfly/LangGPT
+    link: https://github.com/yzfly/LangGPT
+    description: "LangGPT: Empowering everyone to become a prompt expert!\U0001F680
+        \ Structured Prompt，结构化提示词。"
+    ignore: false
+    ignore_reason: ""
+    category: Guides and examples
+    language: ""
+    ai_category: Guides and examples
+    ai_category_confidence: 0.9
+    ai_description: LangGPT is a structured prompt methodology for creating high-quality
+        prompts for large language models, with templates and commands. The repository
+        includes a Markdown-based LangGPT Helper tool for crafting powerful prompts
+        and a FitnessGPT example to help users get started with LangGPT.
+    created_at: 2023-06-10T19:56:17.541934+03:00
     is_new: true
   - name: yzfly/awesome-chatgpt-zh
     link: https://github.com/yzfly/awesome-chatgpt-zh
