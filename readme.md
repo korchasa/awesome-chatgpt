@@ -115,6 +115,7 @@ content creation, natural language processing, and programming.
 - [waylaidwanderer/PandoraAI](https://github.com/waylaidwanderer/PandoraAI) - PandoraAI is a web chat client powered by node-chatgpt-api, allowing users to easily chat with multiple AI systems while also offering support for custom presets. With its seamless and convenient design, PandoraAI provides an engaging conversational AI experience.
 - [yakGPT/yakGPT](https://github.com/yakGPT/yakGPT) - YakGPT is a simple, locally running ChatGPT UI that makes your text generation faster and chatting even more engaging! It runs on browser and has faster connection to API than official UI.
 - [ztjhz/BetterChatGPT](https://github.com/ztjhz/BetterChatGPT) - Better ChatGPT is a web-based UI for OpenAI's ChatGPT with desktop applications for Windows, MacOS, and Linux. It provides limitless and intelligent conversational AI chatbot experience with multiple features such as prompt library, filter chats, ShareGPT integration, and many more.
+- [DemoGPT](https://github.com/melih-unsal/DemoGPT) - 🧩 DemoGPT enables you to create quick demos by just using prompts on top of Langchain documentation.
 
 ### Messenger bots
 
