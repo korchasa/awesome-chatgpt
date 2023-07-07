@@ -101,7 +101,7 @@ content creation, natural language processing, and programming.
 - [wong2/chatgpt-google-extension](https://github.com/wong2/chatgpt-google-extension) - A browser extension that enhance search engines with ChatGPT
 
 ### Web applications
-
+- [LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features OpenAI, Bing, PaLM 2, AI model switching, message search, langchain, ChatGPT Plugins, OpenAI Functions, Multi-User System, Presets, completely open-source for self-hosting. More features in development
 - [Niek/chatgpt-web](https://github.com/Niek/chatgpt-web) - ChatGPT web interface using the OpenAI API
 - [SamurAIGPT/privateGPT](https://github.com/SamurAIGPT/privateGPT) - An app to interact privately with your documents using the power of GPT, 100% privately, no data leaks
 - [anse-app/anse](https://github.com/anse-app/anse) - Anse is a UI for AI chats with a powerful plugin system, session record saving, multiple session modes, improved UI experience, and one-click deployment. Written in TypeScript and optimized for ChatGPT, DALL-E, and Stable Diffusion.
