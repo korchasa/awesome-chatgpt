@@ -1,5 +1,5 @@
 updated_at: 2023-07-07T23:26:42.366792+03:00
-readme_generated_at: 2023-07-07T23:26:51.056647+03:00
+readme_generated_at: 2023-07-08T23:19:13.792883+03:00
 items:
   - name: 0xacx/chatGPT-shell-cli
     link: https://github.com/0xacx/chatGPT-shell-cli
@@ -148,7 +148,7 @@ items:
         documents with AI. Sources included.
     ignore: false
     ignore_reason: ""
-    category: Other sdk/libraries
+    category: Python
     language: Python
     ai_category: Python
     ai_category_confidence: 0.9
@@ -505,7 +505,7 @@ items:
     description: Drag & drop UI to build your customized LLM flow
     ignore: false
     ignore_reason: ""
-    category: Other sdk/libraries
+    category: JavaScript/Typescript
     language: JavaScript
     ai_category: Web applications
     ai_category_confidence: 0.8
@@ -771,7 +771,7 @@ items:
     description: "\U0001F49E Anyone can create GPT tools 人人都能创建 GPT 工具"
     ignore: false
     ignore_reason: ""
-    category: Other sdk/libraries
+    category: JavaScript/Typescript
     language: Vue
     ai_category: Web applications
     ai_category_confidence: 0.95
@@ -1079,7 +1079,7 @@ items:
         (支持DragGAN、ChatGPT、ImageBind、SAM的在线Demo系统)
     ignore: false
     ignore_reason: ""
-    category: Other sdk/libraries
+    category: Python
     language: Python
     ai_category: Python
     ai_category_confidence: 0.9
@@ -1319,7 +1319,7 @@ items:
     description: The Open Source Chatbot Framework in .NET
     ignore: false
     ignore_reason: ""
-    category: Other sdk/libraries
+    category: C#
     language: C#
     ai_category: Python
     ai_category_confidence: 0.6
@@ -1647,7 +1647,7 @@ items:
     description: OpenAI API client for Kotlin with multiplatform and coroutines capabilities.
     ignore: false
     ignore_reason: ""
-    category: Other sdk/libraries
+    category: Kotlin
     language: ""
     ai_category: Python
     ai_category_confidence: 0.8
@@ -1748,7 +1748,7 @@ items:
     description: This is a wrapper library around the ChatGPT and OpenAI HTTP API
     ignore: false
     ignore_reason: ""
-    category: Other sdk/libraries
+    category: Swift
     language: ""
     ai_category: Python
     ai_category_confidence: 0.95
@@ -2170,7 +2170,7 @@ items:
         SDK
     ignore: false
     ignore_reason: ""
-    category: Other sdk/libraries
+    category: C#
     language: ""
     ai_category: ""
     ai_category_confidence: 0.95
@@ -2220,7 +2220,7 @@ items:
     description: The open-source hub to build & deploy GPT/LLM Agents ⚡️
     ignore: false
     ignore_reason: ""
-    category: Other sdk/libraries
+    category: JavaScript/Typescript
     language: TypeScript
     ai_category: JavaScript/Typescript
     ai_category_confidence: 0.9
@@ -2283,7 +2283,7 @@ items:
     description: Simple and powerful ChatGPT-API-Server
     ignore: false
     ignore_reason: ""
-    category: Other sdk/libraries
+    category: Integrations
     language: ""
     ai_category: API usage
     ai_category_confidence: 0.9
@@ -2737,7 +2737,7 @@ items:
     description: A community Swift package used to interact with the OpenAI API
     ignore: false
     ignore_reason: ""
-    category: Other sdk/libraries
+    category: Swift
     language: Swift
     ai_category: Community
     ai_category_confidence: 0.8
@@ -3005,25 +3005,12 @@ items:
     ai_description: An unofficial Visual Studio Code - OpenAI ChatGPT integration
     created_at: 2023-04-30T18:03:32.319721+03:00
     is_new: true
-  - name: georgia-tech-db/eva
-    link: https://github.com/georgia-tech-db/eva
-    description: "\U0001F52E Database system for building simpler and faster AI-powered
-        applications \U0001F52E"
-    ignore: false
-    ignore_reason: ""
-    category: Other sdk/libraries
-    language: Python
-    ai_category: Python
-    ai_category_confidence: 0.9
-    ai_description: Database system for building simpler and faster AI-powered applications
-    created_at: 2023-05-13T21:39:42.099833+03:00
-    is_new: true
   - name: georgia-tech-db/evadb
     link: https://github.com/georgia-tech-db/evadb
     description: Database system for building simpler and faster AI-powered applications
     ignore: false
     ignore_reason: ""
-    category: Other
+    category: Python
     language: Python
     ai_category: Python
     ai_category_confidence: 0.9
@@ -5135,7 +5122,7 @@ items:
         with Stream Chat SDK for Compose."
     ignore: false
     ignore_reason: ""
-    category: Other sdk/libraries
+    category: Kotlin
     language: ""
     ai_category: ChatGPT-based applications
     ai_category_confidence: 0.9
@@ -5387,7 +5374,7 @@ items:
         Models)
     ignore: false
     ignore_reason: ""
-    category: Other sdk/libraries
+    category: Python
     language: Python
     ai_category: ""
     ai_category_confidence: 0.9
@@ -5823,7 +5810,7 @@ items:
     description: decentralising the Ai Industry, just some language model api's...
     ignore: false
     ignore_reason: ""
-    category: Other sdk/libraries
+    category: Python
     language: ""
     ai_category: API usage
     ai_category_confidence: 0.8

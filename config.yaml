@@ -36,8 +36,12 @@ root:
           prompt: JavaScript or Typescript library or sdk
         - title: Golang
           prompt: Golang library or sdk
-        - title: Dart
-          prompt: Dart library or sdk
+        - title: "C#"
+          prompt: "C# library or sdk"        
+        - title: Swift
+          prompt: Swift library or sdk        
+        - title: Kotlin
+          prompt: Kotlin library or sdk        
         - title: ChatGPT plugins
           prompt: ChatGPT plugins or extensions
         - title: Other sdk/libraries
