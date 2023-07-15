@@ -144,6 +144,7 @@ content creation, natural language processing, and programming.
 
 ### Other UIs
 
+- [ywkim/omgpt](https://github.com/ywkim/omgpt) - OMGpt Shell: Simplify and enhance your command-line experience with the power of AI. Write commands in plain language and let the AI handle the rest.
 - [0xacx/chatGPT-shell-cli](https://github.com/0xacx/chatGPT-shell-cli) - A simple, lightweight shell script to use OpenAI's chatGPT and DALL-E from the terminal without installing python or node.js
 - [IntelligenzaArtificiale/Free-Auto-GPT](https://github.com/IntelligenzaArtificiale/Free-Auto-GPT) - Free Auto GPT with NO paids API is a repository that offers a simple version of Auto GPT, an autonomous AI agent capable of performing tasks independently. Unlike other versions, our implementation does not rely on any paid OpenAI API, making it accessible to anyone.
 - [OkGoDoIt/OpenAI-API-dotnet](https://github.com/OkGoDoIt/OpenAI-API-dotnet) - An unofficial C#/.NET SDK for accessing the OpenAI GPT-3 API
