@@ -1,5 +1,7 @@
 # Awesome ChatGPT
 
+> **Note:** This repository contains an *automatically compiled* list of resources, tools, and information related to ChatGPT.
+
 A curated list of awesome ChatGPT and OpenAI software.
 
 - [Documentation and examples](##aaaa) 
