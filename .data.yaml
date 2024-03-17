@@ -35,7 +35,7 @@ items:
       ignore_reason: not-english
       category: ""
       language: TypeScript
-      tags: chatgpt, cross-platform, desktop, gemini, nextjs, react, tauri, tauri-app, vercel, webui
+      tags: chatgpt, cross-platform, desktop, fe, gemini, gemini-pro, gemini-server, gemini-ultra, groq, nextjs, ollama, react, tauri, tauri-app, vercel, webui
       ai_category: ""
       ai_category_rationale: ""
       ai_category_confidence: 0
@@ -115,7 +115,7 @@ items:
       ignore_reason: not-english
       category: ""
       language: Python
-      tags: ai, chatgpt, feishu-bot, gemini, gpt-4, linkai, llm, openai, python3, qwen, rag, wechat, wechat-bot, wenxinyiyan, xunfei-spark
+      tags: ai, chatglm-4, chatgpt, dingtalk, feishu-bot, gemini, glm, gpt-4, linkai, llm, openai, python3, qwen, rag, wechat, wechat-bot, wenxinyiyan, xunfei-spark
       ai_category: ""
       ai_category_rationale: ""
       ai_category_confidence: 0
@@ -941,7 +941,7 @@ items:
       ignore_reason: ""
       category: Guides and examples
       language: MDX
-      tags: chatgpt, docs, gpt-3, gpt-4, openai
+      tags: chatgpt, gpt-4, openai, openai-api
       ai_category: Guides and examples
       ai_category_rationale: ""
       ai_category_confidence: 0.9
@@ -1235,7 +1235,7 @@ items:
       ignore_reason: not-english
       category: ""
       language: Go
-      tags: gpt-3, gpt-4, wechat, wecom
+      tags: gemini, gpt-3, gpt-4, wechat, wecom
       ai_category: ""
       ai_category_rationale: ""
       ai_category_confidence: 0
@@ -1529,7 +1529,7 @@ items:
       ignore_reason: ""
       category: Prompt engineering
       language: ""
-      tags: academic-writing, ai-writing, chatgpt, chatgpt-prompts, gpt3, gpt35, gpt4, prompt, writing
+      tags: academic-writing, ai-writing, chatgpt, chatgpt-prompts, customgpt, gpt3, gpt35, gpt4, literature-review, prompt, writing
       ai_category: Prompt engineering
       ai_category_rationale: ""
       ai_category_confidence: 0.9
@@ -1963,7 +1963,7 @@ items:
       ignore_reason: ""
       category: Web applications
       language: TypeScript
-      tags: artificial-intelligence, chatgpt, large-language-models, llm, low-code, no-code
+      tags: artificial-intelligence, chatgpt, javascript, large-language-models, llm, low-code, no-code, react, typescript
       ai_category: Web applications
       ai_category_rationale: ""
       ai_category_confidence: 0.9
@@ -2299,7 +2299,7 @@ items:
       ignore_reason: ""
       category: CLI
       language: Go
-      tags: ai, chatbot, chatgpt, cli, go, golang, gpt3, gpt4, linux, llama, macos, terminal, windows
+      tags: ai, chatbot, chatgpt, cli, go, golang, gpt3, linux, llama, macos, mixtral, terminal, windows
       ai_category: CLI
       ai_category_rationale: ""
       ai_category_confidence: 0.9
@@ -3139,7 +3139,7 @@ items:
       ignore_reason: ""
       category: Integrations
       language: Swift
-      tags: chatgpt, codeium, copilot, github-copilot, githubcopilot, macos, openai, xcode, xcode-extension, xcode-extensions
+      tags: chat, chatgpt, code-completion, code-generation, codeium, copilot, github-copilot, githubcopilot, macos, openai, tabby, xcode, xcode-extension, xcode-extensions
       ai_category: ""
       ai_category_rationale: ""
       ai_category_confidence: 0.9
@@ -3195,7 +3195,7 @@ items:
       ignore_reason: ""
       category: Python
       language: Python
-      tags: ai, chatbots, chatgpt, hacktoberfest, hacktoberfest-accepted, llm, python
+      tags: ai, application, chatbots, chatgpt, embeddings, llm, python, rag, vector-database
       ai_category: Python
       ai_category_rationale: ""
       ai_category_confidence: 0.9
@@ -3461,7 +3461,7 @@ items:
       ignore_reason: ""
       category: Python
       language: Python
-      tags: chatgpt, gpt-3, huggingface, language-model, programming-language
+      tags: chatgpt, huggingface, language-model, programming-language
       ai_category: Python
       ai_category_rationale: ""
       ai_category_confidence: 0.8
@@ -3517,7 +3517,7 @@ items:
       ignore_reason: ""
       category: Desktop applications
       language: Rust
-      tags: ai, chatgpt, desktop, desktop-app, gpt-3, mac, macos, menu-bar, nextjs, openai, tauri, windows
+      tags: ai, chatgpt, chatgpt-desktop, chatgpt-desktop-app, desktop, desktop-app, gpt-3, mac, macos, menu-bar, nextjs, openai, tauri, windows
       ai_category: Desktop applications
       ai_category_rationale: ""
       ai_category_confidence: 0.9
@@ -3615,7 +3615,7 @@ items:
       ignore_reason: not-english
       category: ""
       language: Python
-      tags: bilibili, chatbot, chatgpt-api
+      tags: chatbot, chatglm, chatgpt-api, claude, dalle3, ernie, gemini, gemma, inspurai, llama, midjourney, minimax, moss, ollama, qwen, spark, stablelm
       ai_category: ""
       ai_category_rationale: ""
       ai_category_confidence: 0
@@ -3937,7 +3937,7 @@ items:
       ignore_reason: ""
       category: ChatGPT-based applications
       language: Go
-      tags: ai, chatgpt, iac, openai, pulumi, terraform
+      tags: ai, amazon-bedrock, chatgpt, iac, llms, ollama, openai, pulumi, terraform
       ai_category: Integrations
       ai_category_rationale: ""
       ai_category_confidence: 0.9
@@ -4133,7 +4133,7 @@ items:
       ignore_reason: ""
       category: ChatGPT-based applications
       language: JavaScript
-      tags: chatgpt-app, chroma, document-chat, langchain, langchain-app, llama, lmstudio, local-ai, localai, mistral-7b, ollama, ollama-app, ollama-gui, openai-chatgpt, pinecone, privategpt, rag, retrieval-augmented-generation, vector-database
+      tags: chatgpt-app, chroma, desktop-application, document-chat, langchain, langchain-app, llama, lmstudio, localai, milvus, mistral-7b, ollama, ollama-app, ollama-gui, openai-chatgpt, pinecone, privategpt, rag, retrieval-augmented-generation, vector-database
       ai_category: Browser extensions
       ai_category_rationale: ""
       ai_category_confidence: 0.9
@@ -4273,7 +4273,7 @@ items:
       ignore_reason: ""
       category: Browser extensions
       language: TypeScript
-      tags: bing, browser-extension, chatgpt, chrome, chrome-extension, firefox-addon, gpt-4
+      tags: bing, browser-extension, chatgpt, chrome, chrome-extension, copilot, copilot-chat, firefox-addon, gpt-4
       ai_category: Browser extensions
       ai_category_rationale: ""
       ai_category_confidence: 0.9
@@ -4329,7 +4329,7 @@ items:
       ignore_reason: ""
       category: CLI
       language: Rust
-      tags: ai, azure-openai, chat, chatgpt, chatgpt-cli, llm, localai
+      tags: ai, all-in-one, azure-openai, chat, chatbot, chatgpt, chatgpt-cli, claude, ernie, gemini, llama, llm, localai, mistral, ollama, openai, qianwen, repl, vertexai
       ai_category: CLI
       ai_category_rationale: ""
       ai_category_confidence: 1
@@ -4385,7 +4385,7 @@ items:
       ignore_reason: ""
       category: Browser extensions
       language: TypeScript
-      tags: ai, anthropic, api, azure, bing, chatgpt, chatgpt-clone, claude, clone, dall-e-3, dall-e3, gemini, google, gpt-4-vision, langchain, librechat, openai, plugins, search, vision
+      tags: ai, anthropic, assistant-api, azure, bing, chatgpt, chatgpt-clone, claude, clone, dall-e-3, gemini, google, gpt-4-vision, langchain, librechat, openai, plugins, search, vision, webui
       ai_category: Browser extensions
       ai_category_rationale: ""
       ai_category_confidence: 0.9
@@ -4609,7 +4609,7 @@ items:
       ignore_reason: ""
       category: Browser extensions
       language: TypeScript
-      tags: agent, ai, azure-openai, chat, chatbot, chatgpt, dalle-3, function-calling, gpt, gpt-4, gpt-4-vision, lobe-chat, lobehub, nextjs, openai, stt, tts
+      tags: ai, azure-openai, chat, chatglm, chatgpt, claude, dalle-3, function-calling, gemini, gpt, gpt-4, gpt-4-vision, llama2, nextjs, ollama, openai, tts
       ai_category: Browser extensions
       ai_category_rationale: ""
       ai_category_confidence: 0.85
@@ -4777,7 +4777,7 @@ items:
       ignore_reason: ""
       category: Integrations
       language: Go
-      tags: chatgpt, gpt-3, gpt-4, hacktoberfest, kubectl-plugins, kubernetes, openai
+      tags: ai, chatgpt, gpt-4, hacktoberfest, kubectl, kubectl-plugins, kubernetes, openai, openai-api
       ai_category: Golang
       ai_category_rationale: ""
       ai_category_confidence: 0
@@ -4973,7 +4973,7 @@ items:
       ignore_reason: ""
       category: ChatGPT-based applications
       language: Java
-      tags: ai, chatgpt, datagrip, dbeaver, gpt, h2, mysql, navicat, oracle, postgresql, redis, sqlserver
+      tags: ai, bi, chatgpt, database, datagrip, dbeaver, gpt, mysql, navicat, oracle, postgresql, redis, sqlserver
       ai_category: Desktop applications
       ai_category_rationale: ""
       ai_category_confidence: 0.9
@@ -5057,7 +5057,7 @@ items:
       ignore_reason: not-english
       category: ""
       language: Python
-      tags: artificial-intelligence, benchmark, ceval, chatgpt, chinese, gpt-4, huggingface, large-language-models, mmlu, natural-language-processing
+      tags: artificial-intelligence, benchmark, ceval, chinese, gpt-4, huggingface, natural-language-processing
       ai_category: ""
       ai_category_rationale: ""
       ai_category_confidence: 0
@@ -5141,7 +5141,7 @@ items:
       ignore_reason: ""
       category: Python
       language: Jupyter Notebook
-      tags: agent-based-framework, agent-oriented-programming, chat, chat-application, chatbot, chatgpt, gpt, gpt-35-turbo, gpt-4, llm-agent, llm-framework, llm-inference, llmops
+      tags: agent-based-framework, agent-oriented-programming, agentic, agentic-agi, chat, chat-application, chatbot, chatgpt, gpt, gpt-35-turbo, gpt-4, llm-agent, llm-framework, llm-inference, llmops
       ai_category: Python
       ai_category_rationale: ""
       ai_category_confidence: 0.9
@@ -5267,7 +5267,7 @@ items:
       ignore_reason: ""
       category: Lists, Guides and examples
       language: Python
-      tags: chatgpt, classification, clip, computer-vision, grounding-dino, open-vocabulary-detection, open-vocabulary-segmentation, openai, segment-anything, zero-shot
+      tags: ""
       ai_category: Lists, Guides and examples
       ai_category_rationale: ""
       ai_category_confidence: 0.9
@@ -5323,7 +5323,7 @@ items:
       ignore_reason: not-english
       category: ""
       language: JavaScript
-      tags: cdn, chatgpt, cloudflare, cloudflare-pages, cloudflare-workers, domain, edgetunnel, edtunnel, proxy, v2ray, vless, xray, ygkkk
+      tags: ""
       ai_category: ""
       ai_category_rationale: ""
       ai_category_confidence: 0
@@ -5351,7 +5351,7 @@ items:
       ignore_reason: not-english
       category: ""
       language: ""
-      tags: google-proxy, reverse-proxy
+      tags: github-proxy, google-proxy, openai-proxy, reverse-proxy, vercel, vercel-proxy
       ai_category: ""
       ai_category_rationale: ""
       ai_category_confidence: 0
@@ -5379,7 +5379,7 @@ items:
       ignore_reason: not-english
       category: ""
       language: Python
-      tags: ""
+      tags: chatgpt, docker, gpt, nodejs, openai, reatctjs, virtual, virtualwife, webui
       ai_category: ""
       ai_category_rationale: ""
       ai_category_confidence: 0
@@ -5435,7 +5435,7 @@ items:
       ignore_reason: ""
       category: Lists, Guides and examples
       language: ""
-      tags: ""
+      tags: awsome, chatgpt, gpt-4, kg, knowledge-graph, language-model, large-language-model, llm, survey
       ai_category: Lists, Guides and examples
       ai_category_rationale: The project is a collection of papers and resources about unifying large language models (LLMs) and knowledge graphs (KGs), providing a list of related surveys, frameworks, techniques, and applications.
       ai_category_confidence: 0.8
@@ -5449,7 +5449,7 @@ items:
       ignore_reason: ""
       category: Integrations
       language: Python
-      tags: bilingual, calibre, chatgpt, deepl, ebook, epub, google, kindle, translate, translator
+      tags: bilingual, calibre, chatgpt, deepl, ebook, epub, gemini, google, kindle, openai, translate, translator
       ai_category: Integrations
       ai_category_rationale: The project is a Calibre plugin that allows users to translate ebooks into a specified language. It integrates with Calibre, a popular ebook management software, to provide translation functionality.
       ai_category_confidence: 0.9
@@ -5505,7 +5505,7 @@ items:
       ignore_reason: ""
       category: Python
       language: Python
-      tags: ""
+      tags: bloom, chatbots, chatgpt, falcon, gpt, large-language-models, llama, llms, pytorch, transformers
       ai_category: Python
       ai_category_rationale: The project is a Python library that provides functionality for editing large language models
       ai_category_confidence: 0.9
@@ -5533,7 +5533,7 @@ items:
       ignore_reason: ""
       category: Web applications
       language: HTML
-      tags: ""
+      tags: chat-ui, chatgpt, chatgpt-ui, gpt, gpt-3, gpt-4, gpt-ui, lang-chain, lang-ui
       ai_category: Web applications
       ai_category_rationale: The project is a web-based user interface for AI and GPT projects, providing ready-to-use components to enhance the user interface of AI applications.
       ai_category_confidence: 0.75
@@ -5589,7 +5589,7 @@ items:
       ignore_reason: ""
       category: Python
       language: Python
-      tags: ""
+      tags: artificial-intelligence, attention, attention-is-all-you-need, attention-mechanisms, chatgpt, context-length, gpt3, gpt4, machine-learning, transformer
       ai_category: Python
       ai_category_rationale: The project is a Python library implementation of the LongNet model, which is a Transformer variant designed to scale sequence length up to more than 1 billion tokens without sacrificing performance on shorter sequences.
       ai_category_confidence: 0.9
@@ -5617,7 +5617,7 @@ items:
       ignore_reason: ""
       category: Other UIs
       language: TypeScript
-      tags: ""
+      tags: aiops, gpt-3, gpt-4, llm, llmops, mlops, nextjs, nodejs, open-source, openai, react, shadcn-ui, typescript
       ai_category: Prompt engineering
       ai_category_rationale: The project is a logging and analytics platform specifically designed for OpenAI's ChatGPT API. It provides features such as API analytics, logs, and user analytics, which are focused on improving prompts and analyzing costs. The project also includes documentation on how to install and configure the platform.
       ai_category_confidence: 0.9
@@ -5673,7 +5673,7 @@ items:
       ignore_reason: ""
       category: CLI
       language: Python
-      tags: chatgpt, cheat-sheet, cli, commands, gpt-3, gpt-4, linux, llm, openai, productivity, python, shell, terminal
+      tags: chatgpt, cheat-sheet, cli, commands, gpt-3, gpt-4, linux, llama, llm, ollama, openai, productivity, python, shell, terminal
       ai_category: CLI
       ai_category_rationale: The project is a command-line tool that provides productivity features powered by AI language models
       ai_category_confidence: 0.95
@@ -5701,7 +5701,7 @@ items:
       ignore_reason: not-english
       category: ""
       language: ""
-      tags: chatgpt, nginx, oneclick, replit, shadowsocks, socks, trojan, vless, vmess, xray-core, ygkkk
+      tags: argo, chatgpt, cloudflared, nginx, oneclick, replit, shadowsocks, socks, trojan, vless, vmess, xray-core, ygkkk
       ai_category: ""
       ai_category_rationale: ""
       ai_category_confidence: 0
@@ -5771,7 +5771,7 @@ items:
       ignore_reason: ""
       category: ChatGPT-based applications
       language: TypeScript
-      tags: ""
+      tags: chart, chart-gpt, chartgpt, chat2vis, chatgpt, gpt, text2vis, vega-lite, visualization, visualization-gpt
       ai_category: Web applications
       ai_category_rationale: The project is a web-based user interface that utilizes ChatGPT to generate visualizations from tabular datasets.
       ai_category_confidence: 0.85
@@ -5799,7 +5799,7 @@ items:
       ignore_reason: ""
       category: ChatGPT-based applications
       language: Python
-      tags: ""
+      tags: 3d-generation, chatgpt, gpt, language-model, motion, motion-generation, motiongpt, multi-modal, text-driven, text-to-motion
       ai_category: ChatGPT-based applications
       ai_category_rationale: The project is based on the use of language models to generate human motions. It focuses on a specific problem of generating high-quality motions and text descriptions on multiple motion tasks.
       ai_category_confidence: 0.9
@@ -5869,7 +5869,7 @@ items:
       ignore_reason: ""
       category: Integrations
       language: Python
-      tags: ""
+      tags: ai, chatgpt, copilot, developer-tools, intellij, jetbrains, llm, open-source, openai, pycharm, software-development, visual-studio-code, vscode
       ai_category: Desktop applications
       ai_category_rationale: The project is an open-source autopilot for VS Code and JetBrains, providing coding assistance and features like code autocompletion, code refactoring, and error explanation. It uses Large Language Models (LLMs) to enhance the coding experience.
       ai_category_confidence: 0.8
@@ -6005,7 +6005,7 @@ items:
       ignore_reason: ""
       category: Python
       language: Python
-      tags: apple-vision-pro, artificial-inteligence, chatgpt, deep-learning, egocentric-vision, embodied, embodied-ai, foundation-models, gpt-4, instruction-tuning, large-scale-models, machine-learning, multi-modality, visual-language-learning
+      tags: artificial-inteligence, chatgpt, deep-learning, embodied-ai, foundation-models, gpt-4, instruction-tuning, large-scale-models, machine-learning, multi-modality, visual-language-learning
       ai_category: Python
       ai_category_rationale: The project is a Python library that is not specific to any application
       ai_category_confidence: 0.9
@@ -6047,7 +6047,7 @@ items:
       ignore_reason: ""
       category: ChatGPT-based applications
       language: JavaScript
-      tags: ""
+      tags: chatbot, chatgpt, embedai, embeddings, generative, gpt, gpt4, gpt4all, langchain, models, openai, privategpt, vectorstore, whisper
       ai_category: Web applications
       ai_category_rationale: The project is a web-based application that allows users to interact with documents using the capabilities of GPT. It provides a user-friendly interface for querying and processing documents.
       ai_category_confidence: 0.85
@@ -6061,7 +6061,7 @@ items:
       ignore_reason: not-english
       category: ""
       language: ""
-      tags: android, appleid, chatgpt, clash, gfw, openai, shadowsocks, shadowsocksr, ssr, v2ray
+      tags: android, appleid, chatgpt, clash, gfw, openai, shadowsocks, shadowsocksr, ssr, tizi, v2ray
       ai_category: ""
       ai_category_rationale: ""
       ai_category_confidence: 0
@@ -6117,7 +6117,7 @@ items:
       ignore_reason: ""
       category: Browser extensions
       language: Python
-      tags: ai, chat, chatgpt, emacs, llm, markdown, obsidian-md, org-mode, personal-assistant, productivity, semantic-search, sentence-transformer
+      tags: agent, ai, chat, chatgpt, emacs, llm, markdown, mistral, obsidian-md, org-mode, productivity, pwa, rag, retrieval-augmented-generation, self-hosted, semantic-search, sentence-transformer, whatsapp-ai
       ai_category: Browser extensions
       ai_category_rationale: The project is a browser extension that provides an AI personal assistant for searching and chatting with personal knowledge base, which aligns with the category description.
       ai_category_confidence: 0.8
@@ -6187,7 +6187,7 @@ items:
       ignore_reason: not-english
       category: ""
       language: ""
-      tags: acme, argo, bbr, chatgpt, ipv4, ipv6, reality, shadowsocks2022, socks5, warp, wireguard, x-ui, xray-core, xtls-rprx-vision, ygkkk
+      tags: acme, argo, bbr, chatgpt, cloudflared, ipv4, ipv6, reality, socks5, warp, wireguard, x-ui, xray-core, xtls-rprx-vision, ygkkk
       ai_category: ""
       ai_category_rationale: ""
       ai_category_confidence: 0
@@ -6243,7 +6243,7 @@ items:
       ignore_reason: not-english
       category: ""
       language: C
-      tags: bpf, chatgpt, co-re, ebpf, gpt, libbpf, libbpf-go, libbpf-tools, linux, tutorial, webassemby
+      tags: bpf, chatgpt, co-re, ebpf, libbpf, llm, tutorial
       ai_category: ""
       ai_category_rationale: ""
       ai_category_confidence: 0
@@ -6341,7 +6341,7 @@ items:
       ignore_reason: miss
       category: ""
       language: TypeScript
-      tags: boilerplate, chatgpt, cva, eslint, jamstack, javascript-ai, next, next-js, next-theme, nextjs, nextjs13, radix-ui, react, react-enterprise-boilerplate, seo, starter-kit, starter-template, tailwindcss, typescript, vercel
+      tags: ""
       ai_category: JavaScript/Typescript
       ai_category_rationale: The project is a Next.js boilerplate written in TypeScript. It provides a set of features and tools to accelerate app development, making it suitable for developers working on various projects.
       ai_category_confidence: 0.98
@@ -6355,7 +6355,7 @@ items:
       ignore_reason: ""
       category: Mobile applications
       language: Python
-      tags: ""
+      tags: chatbot, chatgpt, chatpdf, chatwithpdf, gpt, gpt4, langchain, openai, pdf, pdf-chat-bot, pdfgpt, pdftochatbot
       ai_category: Mobile applications
       ai_category_rationale: The project is a mobile client that allows users to chat with PDF documents using AI.
       ai_category_confidence: 0.85
@@ -6649,7 +6649,7 @@ items:
       ignore_reason: ""
       category: ChatGPT-based applications
       language: TypeScript
-      tags: chatgpt, clickhouse, cockroachdb, mongodb, mssql, mysql, openai, oracle, postgres, redis, snowflake, sql, sqlclient, sqleditor, sqlite, sqlserver, text2sql, tidb
+      tags: chatgpt, clickhouse, cockroachdb, gpt, mongodb, mssql, mysql, openai, oracle, postgres, redis, snowflake, sql, sqlclient, sqleditor, sqlite, sqlserver, text-to-sql, text2sql, tidb
       ai_category: Browser extensions
       ai_category_rationale: The project is a client for ChatGPT that is designed as a browser extension, allowing regular users to interact with a chat-based SQL client using natural language.
       ai_category_confidence: 0.8
@@ -6677,7 +6677,7 @@ items:
       ignore_reason: ""
       category: Python
       language: Python
-      tags: ai, auto-gpt, autogpt, autogpt-no-paid-api, chatgpt, chatgpt-api, chatgpt-free, democratize-ai, free-autogpt, gpt-4, gpt-4-api, gpt4, open-source-auto-gpt, open-source-gpt, openai, python, reverse-engineering
+      tags: ""
       ai_category: Python
       ai_category_rationale: The project is a Python library that provides a simple version of Auto GPT, allowing developers to use AI agents without relying on any paid API.
       ai_category_confidence: 0.9
@@ -6747,7 +6747,7 @@ items:
       ignore_reason: ""
       category: Python
       language: Python
-      tags: agent, ai, chatbot, chatgpt, gpt, llm, magentic, openai, openai-api, prompt, pydantic
+      tags: ""
       ai_category: Python
       ai_category_rationale: The project is a Python library that allows seamless integration of Large Language Models (LLMs) as Python functions.
       ai_category_confidence: 0.9
@@ -6845,7 +6845,7 @@ items:
       ignore_reason: ""
       category: Browser extensions
       language: JavaScript
-      tags: ai, aigc, casibase, chatbot, chatgpt, claude, database, go, golang, gpt, huggingface, javascript, knowledge-base, knowledgebase, langchain, llm, openai, react, vector, vector-database
+      tags: ai, aigc, casibase, chatbot, chatgpt, claude, gemini, go, gpt, grok, huggingface, javascript, knowledge-base, langchain, llama, llama2, llm, openai, rag, react
       ai_category: Browser extensions
       ai_category_rationale: The project is a browser extension that provides a user interface for ChatGPT and allows regular users to interact with models like OpenAI, Azure, Google Gemini, HuggingFace, OpenRouter, ChatGLM, and local models.
       ai_category_confidence: 0.9
@@ -6915,7 +6915,7 @@ items:
       ignore_reason: ""
       category: Python
       language: Python
-      tags: chatgpt, foundation, gpt-4, gpt4v, instruction-tuning, internlm, lmm, mllm, multi-modality, multimodal, vision-language-model, visual-language-learning
+      tags: ""
       ai_category: Python
       ai_category_rationale: The project is a Python library that provides a vision-language large model for advanced text-image comprehension and composition. It is aimed at developers who want to utilize this model in their own applications.
       ai_category_confidence: 0.8
@@ -6929,7 +6929,7 @@ items:
       ignore_reason: ""
       category: Python
       language: Python
-      tags: ai, chatbot, chatgpt, fastapi, gpt-3, gpt-4, langchain, llama-index, llm, ml, openai, rasa, rasa-chatbot, rasa-core, rasa-nlu, telegram, telegram-bot
+      tags: ""
       ai_category: Python
       ai_category_rationale: The project is a Python library that provides a chatbot platform built on top of Rasa and Langchain.
       ai_category_confidence: 0.7
@@ -7041,7 +7041,7 @@ items:
       ignore_reason: ""
       category: JavaScript/Typescript
       language: JavaScript
-      tags: aichatbot, assistant-api, chatbot, chatbots, chatgpt, chatgpt-plugins, custom-gpt, customgpt, gpt, gpt-3, gpt-4, gpt3, gpt4, gpts, langchain, no-code, openai, openai-chatbot, openai-chatgpt
+      tags: ""
       ai_category: Browser extensions
       ai_category_rationale: The project provides a user-friendly solution to quickly set up and add a custom GPT to a website, similar to a browser extension for ChatGPT.
       ai_category_confidence: 0.9
@@ -7083,7 +7083,7 @@ items:
       ignore_reason: ""
       category: Lists, Guides and examples
       language: ""
-      tags: awesome-list, chatgpt, embodied-agent, embodied-ai, foundation-model, foundation-models, generative-agents, generative-ai, generative-model, generative-models, gpt-4, large-language-model, large-language-models, llm, llm-powered-agents, llms
+      tags: ""
       ai_category: Lists, Guides and examples
       ai_category_rationale: The project provides an exhaustive collection of resources and papers related to LLM-powered agents
       ai_category_confidence: 0.9
@@ -7097,7 +7097,7 @@ items:
       ignore_reason: ""
       category: Python
       language: Python
-      tags: agent, agents, ai, artificial-intelligence, autogpt, autonomous-agents, chatgpt, chatgpt-api, demo, gpt-4, gpt3-turbo, langchain, langchain-app, langchain-python, llama2, llms, openai, python, streamlit, streamlit-application
+      tags: ""
       ai_category: Python
       ai_category_rationale: The project is a Python library and framework that provides functionality for developers to create interactive Streamlit apps using prompts. It is not specific to any particular application.
       ai_category_confidence: 0.95
@@ -7125,7 +7125,7 @@ items:
       ignore_reason: not-english
       category: ""
       language: ""
-      tags: attention, autonomous-driving, awesome-list, chatgpt, fpga, gpt4, gui, large-language-models, llama2, object-detection, onnx, openvino, ros, small-object-detection, snn, spiking-neural-network, tensorrt, yolo, yolov5, yolov8
+      tags: attention, autonomous-driving, awesome-list, chatgpt, cuda, gpt, gui, llm, object-detection, onnx, openai, qt, snn, sora, spiking-neural-network, tensorrt, yolo, yolov5, yolov8, yolov9
       ai_category: ""
       ai_category_rationale: ""
       ai_category_confidence: 0
@@ -7167,7 +7167,7 @@ items:
       ignore_reason: ""
       category: Python
       language: Python
-      tags: alpaca, chatbot, chatgpt, damo, dialogue, gpt, gpt4, gpt4-api, huggingface, instruction-tuning, large-language-models, llama, mplug, mplug-owl, multimodal, pretraining, pytorch, transformer, video, visual-recognition
+      tags: ""
       ai_category: Python
       ai_category_rationale: The project is a Python library that implements mPLUG-Owl and mPLUG-Owl2, which are part of the Alibaba MLLM Family.
       ai_category_confidence: 0.8
@@ -7181,7 +7181,7 @@ items:
       ignore_reason: ""
       category: Python
       language: Python
-      tags: c-transformers, chatgpt, cpu, cpu-inference, deep-learning, document-qa, faiss, langchain, language-models, large-language-models, llama, llama-2, llm, machine-learning, natural-language-processing, nlp, open-source-llm, python, sentence-transformers, transformers
+      tags: ""
       ai_category: Integrations
       ai_category_rationale: The project focuses on running Llama 2 and other open-source LLMs on CPU inference locally. It provides a guide for integrating and using these models in a third-party application.
       ai_category_confidence: 0.8
@@ -7209,7 +7209,7 @@ items:
       ignore_reason: ""
       category: Browser extensions
       language: TypeScript
-      tags: anthropic, chatbot, chatgpt, claude, code-llama, codellama, cohere, docx, google-palm, gpt-3, gpt-4, huggingface, langchain, llama, localai, mistral, pdf, private-gpt, privategpt
+      tags: ""
       ai_category: Browser extensions
       ai_category_rationale: The project is a browser extension that allows regular users to create chatbots with ease using a personalized knowledge base.
       ai_category_confidence: 0.8
@@ -7251,7 +7251,7 @@ items:
       ignore_reason: ""
       category: Python
       language: Python
-      tags: ai, chatgpt, gpt-4, llm, llm-inference, llmops, llms, machine-learning, openai, prompt-engineering, python, question-answering, vector-database
+      tags: ""
       ai_category: Python
       ai_category_rationale: The project is a Python library/framework that provides abstractions and tools for building LLM applications. It does not seem to be associated with any specific application or use case.
       ai_category_confidence: 0.9
@@ -7265,7 +7265,7 @@ items:
       ignore_reason: ""
       category: ChatGPT-based applications
       language: Python
-      tags: ai, auto-readme, automated-readme, chatgpt, devtools, documentation, documentation-generator, generator, gpt-4, gpt-readme, llm, markdown, openai-api, python, readme, readme-generator, readme-md, readme-md-generator, shieldsio-badges
+      tags: ai, chatgpt, developer-tools, devtools, documentation, documentation-generator, gpt-4, large-language-models, markdown, markdown-generator, ollama, openai, python, readme, readme-badges, readme-generator, readme-md, readme-md-generator, readme-template, shieldsio-badges
       ai_category: Lists, Guides and examples
       ai_category_rationale: The project is used to generate README files and provide documentation on how to use and contribute to projects.
       ai_category_confidence: 0.9
@@ -7303,7 +7303,7 @@ items:
       ignore_reason: ""
       category: Lists, Guides and examples
       language: ""
-      tags: awesome, chatgpt, chinese-llama, gpt-4, large-language-models, llama, llama2, llms, rlhf, supervised-finetuning, survey
+      tags: ""
       ai_category: Lists, Guides and examples
       ai_category_rationale: The project is a survey of aligning large language models (LLMs) with human. It provides a comprehensive overview of alignment technologies and serves as a valuable resource for researchers and practitioners. It does not fall into any specific development category and is primarily focused on providing information and resources.
       ai_category_confidence: 0.9
@@ -7331,7 +7331,7 @@ items:
       ignore_reason: ""
       category: Python
       language: Python
-      tags: agents, ai, chatgpt, function-calling, gpt, gpt-4, gpt4, information-retrieval, language-model, llama, llm, llm-agent, llm-framework, local-llm, multi-agent-systems, openai-api, question-answering, rag, retrieval-augmented-generation
+      tags: agents, ai, gpt, gpt-4, information-retrieval, language-model, llama, multi-agent-systems, openai-api, question-answering, rag
       ai_category: Python
       ai_category_rationale: The project is a Python framework for building applications powered by LLMs, specifically focused on Multi-Agent Programming. It provides a set of tools and components to set up agents, assign tasks, and enable collaborative problem-solving through message exchange.
       ai_category_confidence: 0.8
@@ -7359,7 +7359,7 @@ items:
       ignore_reason: not-english
       category: ""
       language: Objective-C
-      tags: app, baidu, bing, deepl, dictionary, google, macos, ocr, shortcuts, tencent, translate, translator, volcano, youdao
+      tags: app, baidu, bing, deepl, dictionary, gemini, google, macos, ocr, shortcuts, tencent, translate, translator, youdao
       ai_category: ""
       ai_category_rationale: ""
       ai_category_confidence: 0
@@ -7373,7 +7373,7 @@ items:
       ignore_reason: ""
       category: Lists, Guides and examples
       language: Python
-      tags: awesome, awesome-list, awesome-lists, awesome-readme, awesome-resources, chatgpt, gpt, gpt-3, gpt-35-turbo, gpt-4, large-language-models, llm, openai, prompt, prompt-engineering, prompt-generator, prompt-learning, prompts, resources
+      tags: ""
       ai_category: Lists, Guides and examples
       ai_category_rationale: The project is a curated list of resources, tools, guides, and collections related to GPT prompt engineering.
       ai_category_confidence: 0.9
@@ -7387,7 +7387,7 @@ items:
       ignore_reason: ""
       category: Desktop applications
       language: Go
-      tags: bing, bing-ai, bing-chat, binggpt, chatbot, chatgpt, edge, edgegpt, go, golang, gpt, jailbreak, jailbroken, new-bing, reverse-engineering, sydney, wails, wails-app, wails2
+      tags: ""
       ai_category: Desktop applications
       ai_category_rationale: The project is a cross-platform desktop client for the Bing AI (Sydney version) and provides various features for interacting with the chatbot. It is designed for regular users who want to use the Bing AI chatbot on their desktop.
       ai_category_confidence: 0.9
@@ -7415,7 +7415,7 @@ items:
       ignore_reason: ""
       category: Python
       language: Python
-      tags: ai, chatgpt, data, data-engineering, database, embeddings, etl, llm, llmops, mlops, ops, pipeline, python, rag, retrieval, vector-database, vectors
+      tags: ""
       ai_category: Python
       ai_category_rationale: The project is a Python library that provides a framework for managing vector embeddings at large scale and includes features such as high throughput distributed architecture, built-in data connectors, real-time synchronization, customizable data pre-processing, and cohesive data management.
       ai_category_confidence: 0.9
@@ -7457,7 +7457,7 @@ items:
       ignore_reason: ""
       category: Other sdk/libraries
       language: C++
-      tags: ai, chatgpt, data, data-science, database, embeddings, embeddings-similarity, infrastructure, llms, machine-learning, neural-network, neural-search, rag, retrieval, search-engine, vector-database, vector-search
+      tags: ""
       ai_category: Other sdk/libraries
       ai_category_rationale: The project is a vector database management system written in C++ and provides a library and client for developers to interact with the database.
       ai_category_confidence: 0.8
@@ -7523,7 +7523,7 @@ items:
       ignore_reason: ""
       category: Other sdk/libraries
       language: Java
-      tags: azure-openai, chatgpt, chroma, embeddings, gpt, huggingface, java, langchain, langchain-java, llama, llama2, localai, milvus, onnx, openai, pinecone, spring, spring-boot, vector-database, weaviate
+      tags: ""
       ai_category: Python
       ai_category_rationale: The project is a Java version of LangChain and its goal is to simplify the integration of AI/LLM capabilities into Java applications. It provides a layer of abstractions and implementations for various LLMs and embedding stores.
       ai_category_confidence: 0.9
@@ -7838,3 +7838,727 @@ items:
       ai_summary: ""
       ai_description: ""
       ai_tags: ""
+    - name: neurogen-dev/NeuroAPI
+      link: https://github.com/neurogen-dev/NeuroAPI
+      summary: Free ChatGPT 3.5 / ChatGPT 4 | Free OpenAI / ChatGPT API
+      ignore: false
+      ignore_reason: ""
+      category: Browser extensions
+      language: TypeScript
+      tags: chatgpt, chatgpt-api, free-chatgpt, gpt-35-turbo, gpt-4, openai-api, reverse-api, reverse-proxy
+      ai_category: Browser extensions
+      ai_category_rationale: The project is a browser extension that provides access to ChatGPT, allowing regular users to interact with the AI model.
+      ai_category_confidence: 0.85
+      ai_summary: NeuroAPI is a free browser extension that provides access to ChatGPT and OpenAI API.
+      ai_description: NeuroAPI is a general-purpose browser extension that allows regular users to access ChatGPT and the OpenAI API. It provides a user-friendly interface for interacting with the AI model, enabling users to have conversations with ChatGPT. The extension supports multiple versions of ChatGPT, including GPT-3.5 Turbo and GPT-4. It also offers image generation capabilities through integration with VisionCraft. NeuroAPI is a freemium service with free usage limits and subscription tiers for extended limits and additional features. It is designed to be easy to use, making AI interaction accessible to all users.
+      ai_tags: browser-extension, chatgpt, chatgpt-api, free-chatgpt, gpt-35-turbo, gpt-4, openai-api, reverse-api, reverse-proxy
+    - name: chatgpt-web-dev/chatgpt-web
+      link: https://github.com/chatgpt-web-dev/chatgpt-web
+      summary: A third-party ChatGPT Web UI page built with Express and Vue3, through the official OpenAI completion API. / 用 Express 和 Vue3 搭建的第三方 ChatGPT 前端页面, 基于 OpenAI 官方 completion API.
+      ignore: true
+      ignore_reason: not-english
+      category: ""
+      language: Vue
+      tags: ai, chatgpt, chatgpt-web, cloud-sync, expressjs, ldap, naive-ui, oidc, openai, openai-api, openai-chatgpt, saml, sso, vue
+      ai_category: ""
+      ai_category_rationale: ""
+      ai_category_confidence: 0
+      ai_summary: ""
+      ai_description: ""
+      ai_tags: ""
+    - name: TheExplainthis/ChatGPT-Discord-Bot
+      link: https://github.com/TheExplainthis/ChatGPT-Discord-Bot
+      summary: This is a repository that allows you to integrate ChatGPT into Discord.
+      ignore: true
+      ignore_reason: not-english
+      category: ""
+      language: Python
+      tags: ""
+      ai_category: ""
+      ai_category_rationale: ""
+      ai_category_confidence: 0
+      ai_summary: ""
+      ai_description: ""
+      ai_tags: ""
+    - name: FujiwaraChoki/MoneyPrinter
+      link: https://github.com/FujiwaraChoki/MoneyPrinter
+      summary: Automate Creation of YouTube Shorts using MoviePy.
+      ignore: false
+      ignore_reason: ""
+      category: ChatGPT-based applications
+      language: Python
+      tags: automation, chatgpt, moviepy, python
+      ai_category: Other
+      ai_category_rationale: The project is an application that automates the creation of YouTube Shorts using MoviePy, which is not specific to ChatGPT or any other language model.
+      ai_category_confidence: 0.9
+      ai_summary: Automate the creation of YouTube Shorts using MoviePy
+      ai_description: MoneyPrinter is a Python application that automates the creation of YouTube Shorts using MoviePy. By providing a video topic to talk about, MoneyPrinter generates videos locally. It requires Python 3.11 to run effectively. To use MoneyPrinter, clone the repository, install the required dependencies, and run the backend and frontend servers. You can customize the music, fonts, and even automatically upload the generated videos to YouTube. MoneyPrinter provides an easy and efficient way to automate the creation of YouTube Shorts.
+      ai_tags: automate, automation, chatgpt, creation, moviepy, python, youtube-shorts
+    - name: 274056675/springboot-openai-chatgpt
+      link: https://github.com/274056675/springboot-openai-chatgpt
+      summary: !!binary |
+        6LaF57qnQUnlpKfohJHkuIDkuKrln7rkuo5TcHJpbmdDbG91ZOW+ruacjeWKoeaetuaehO
+        +8jOW3suWvueaOpUdQVC0zLjXjgIFHUFQtNC4w44CB55m+5bqm5paH5b+D5LiA6KiA44CB
+        c3RhYmxlIGRpZmZ1c2lvbiBBSee7mOWbvuOAgU1pZGpvdXJuZXnnu5jlm77nrYnjgILmlK
+        /mjIF3ZWLvvIxBbmRyb2lk77yMSU9T77yMSDXlpJrnq6/lupTnlKjvvIzkvb/nlKjkuoZP
+        cGVuQUnnmoRDaGF0R1BU5qih5Z6L5a6e546w5LqG5pm66IO96IGK5aSp5py65Zmo5Lq644
+        CC55So5oi35Y+v5Lul5Zyo55WM6Z2i5LiK5LiO6IGK5aSp5py65Zmo5Lq66L+b6KGM5a+5
+        6K+d77yM6IGK5aSp5py65Zmo5Lq65Lya5qC55o2u55So5oi355qE6L6T5YWl6Ieq5Yqo55
+        Sf5oiQ5Zue5aSN44CC5ZCM5pe25Lmf5pSv5oyB55S75Zu+77yM55So5oi36L6T5YWl5paH
+        5pys77yM5L6/5Y+v5Lul6Ieq5Yqo5Yi25L2c5paH55Sf5paH55Sf5Zu+44CC5oyB57ut5p
+        u05paw5Lit77yM5pu05aSa5Yqf6IO9562J550=
+      ignore: true
+      ignore_reason: not-english
+      category: ""
+      language: Java
+      tags: chatgpt, gpt-4, java, openai, rabittmq, springboot
+      ai_category: ""
+      ai_category_rationale: ""
+      ai_category_confidence: 0
+      ai_summary: ""
+      ai_description: ""
+      ai_tags: ""
+    - name: bravekingzhang/flutter_chat_box
+      link: https://github.com/bravekingzhang/flutter_chat_box
+      summary: Flutter开发的和ChatGPT聊天的App，全平台支持
+      ignore: true
+      ignore_reason: not-english
+      category: ""
+      language: Dart
+      tags: chatgpt, flutter
+      ai_category: ""
+      ai_category_rationale: ""
+      ai_category_confidence: 0
+      ai_summary: ""
+      ai_description: ""
+      ai_tags: ""
+    - name: PickleBoxer/dev-chatgpt-prompts
+      link: https://github.com/PickleBoxer/dev-chatgpt-prompts
+      summary: "\U0001F4DA Personal collection of ChatGPT prompts for developers!"
+      ignore: false
+      ignore_reason: ""
+      category: Prompt engineering
+      language: ""
+      tags: chatgpt, chatgpt4, code, copilot, faster, ia, prompts, smarter
+      ai_category: Lists, Guides and examples
+      ai_category_rationale: The project is a personal collection of ChatGPT prompts for developers, providing a list of prompts and tips to assist developers in generating ideas and finding solutions to problems.
+      ai_category_confidence: 0.9
+      ai_summary: A personal collection of powerful ChatGPT prompts for developers, offering prompts and tips to assist in generating creative solutions and problem-solving for coders, students, marketers, and content writers.
+      ai_description: This project is a personal collection of powerful ChatGPT prompts for developers. It provides a comprehensive list of prompts and tips that can help developers think outside the box, find new solutions to problems, and boost creativity. Whether you are a beginner or an experienced professional, this collection offers prompts for coders, students, marketers, and content writers. The prompts are divided into categories, making it easy to navigate and find relevant prompts for your profession. By using these prompts, developers can enhance their problem-solving skills and discover innovative approaches to their work.
+      ai_tags: chatgpt, chatgpt-prompts, chatgpt4, code, content-writers, copilot, creative-solutions, developers, documentation, examples, faster, guides, ia, marketers, personal-collection, powerful-prompts, problem-solving, prompts, prompts-for-coders, smarter, students
+    - name: click33/chatgpt---mirror-station-summary
+      link: https://github.com/click33/chatgpt---mirror-station-summary
+      summary: 汇总所有 chatgpt 镜像站，免费、付费、多模态、国内外大模型汇总等等 持续更新中……   个人能力有限，搜集到的不多，求大家多多贡献啊！众人拾柴火焰高！
+      ignore: true
+      ignore_reason: not-english
+      category: ""
+      language: ""
+      tags: chatgpt, chatgpt3
+      ai_category: ""
+      ai_category_rationale: ""
+      ai_category_confidence: 0
+      ai_summary: ""
+      ai_description: ""
+      ai_tags: ""
+    - name: OpenMOSS/MOSS
+      link: https://github.com/OpenMOSS/MOSS
+      summary: An open-source tool-augmented conversational language model from Fudan University
+      ignore: true
+      ignore_reason: not-english
+      category: ""
+      language: Python
+      tags: chatgpt, deep-learning, dialogue-systems, large-language-models, natural-language-processing, text-generation
+      ai_category: ""
+      ai_category_rationale: ""
+      ai_category_confidence: 0
+      ai_summary: ""
+      ai_description: ""
+      ai_tags: ""
+    - name: sturdy-dev/codereview.gpt
+      link: https://github.com/sturdy-dev/codereview.gpt
+      summary: Reviews your Pull/Merge Requests using ChatGPT
+      ignore: false
+      ignore_reason: ""
+      category: ChatGPT-based applications
+      language: JavaScript
+      tags: ai, chatgpt, chrome-extension, github, gitlab
+      ai_category: Browser extensions
+      ai_category_rationale: The project is a browser extension that allows users to review GitHub Pull Requests or GitLab Merge Requests using ChatGPT, making it a general-purpose browser extension for ChatGPT.
+      ai_category_confidence: 0.95
+      ai_summary: CodeReview.gpt is a browser extension that uses ChatGPT to review GitHub Pull Requests and GitLab Merge Requests.
+      ai_description: CodeReview.gpt is a browser extension for Chrome that allows users to review GitHub Pull Requests or GitLab Merge Requests using ChatGPT. By providing an OpenAI API token, users can receive code review comments from ChatGPT in a popup window. The extension considers the code changes, commit messages, and the description of the MR/PR. Running the review multiple times can produce different feedback. The extension does not post comments on the Pull Request page, but users can copy paste the output as PR comments if desired. CodeReview.gpt is a general-purpose tool that can help users spot bugs and learn best practices while reviewing code.
+      ai_tags: ai, chatgpt, chrome-extension, code-review, codereview.gpt, github, github-pull-requests, gitlab, gitlab-merge-requests, javascript
+    - name: weijunext/smart-excel-ai
+      link: https://github.com/weijunext/smart-excel-ai
+      summary: Generate the Excel formulas you need in seconds using ChatGPT.
+      ignore: false
+      ignore_reason: ""
+      category: ChatGPT-based applications
+      language: TypeScript
+      tags: ""
+      ai_category: Other
+      ai_category_rationale: The project uses ChatGPT API to generate Excel formulas, which falls under the category of applications for LLMs
+      ai_category_confidence: 0.9
+      ai_summary: Generate Excel formulas using AI-powered ChatGPT
+      ai_description: smart-excel-ai is a TypeScript project built with Next.js, TailwindCSS, and several other technologies. It leverages the ChatGPT API to generate Excel formulas in seconds. The project utilizes Next-auth for authentication, Postgres and Prisma for the database and storage, Upstash for Redis, Lemon Squeezy for payments, Google Analytics for analytics, and Docker for development storage. The application can be run locally or deployed on Vercel with a one-click deploy option.
+      ai_tags: ai, chatgpt, docker, excel-formulas, google-analytics, lemon-squeezy, next-auth, next.js, postgres, prisma, tailwindcss, typescript, upstash, vercel
+    - name: davideuler/architecture.of.internet-product
+      link: https://github.com/davideuler/architecture.of.internet-product
+      summary: 互联网公司技术架构，微信/淘宝/微博/腾讯/阿里/美团点评/百度/OpenAI/Google/Facebook/Amazon/eBay的架构，欢迎PR补充
+      ignore: true
+      ignore_reason: not-english
+      category: ""
+      language: HTML
+      tags: architecture, architecture-guidelines, architecture-of-internet-product, chatgpt, dall-e-3, gpt, gpt-4, internet-architecutre, llm, sora
+      ai_category: ""
+      ai_category_rationale: ""
+      ai_category_confidence: 0
+      ai_summary: ""
+      ai_description: ""
+      ai_tags: ""
+    - name: bclswl0827/ChatGemini
+      link: https://github.com/bclswl0827/ChatGemini
+      summary: ✨ ChatGemini 是一个基于 Google Gemini 的网页客户端，对标 ChatGPT 3.5，操作逻辑同 ChatGPT 3.5 一致，同时支持在聊天中上传图片，应用会自动调用 Gemini-Pro-Vision 模型进行识图。
+      ignore: true
+      ignore_reason: not-english
+      category: ""
+      language: TypeScript
+      tags: chatgpt, chatgpt3, gemini, gemini-api, reactjs, tailwindcss, typescript
+      ai_category: ""
+      ai_category_rationale: ""
+      ai_category_confidence: 0
+      ai_summary: ""
+      ai_description: ""
+      ai_tags: ""
+    - name: ai-boost/awesome-prompts
+      link: https://github.com/ai-boost/awesome-prompts
+      summary: Curated list of chatgpt prompts from the top-rated GPTs in the GPTs Store. Prompt Engineering, prompt attack & prompt protect. Advanced Prompt Engineering papers.
+      ignore: false
+      ignore_reason: ""
+      category: Prompt engineering
+      language: ""
+      tags: awesome, awesome-list, chatgpt, gpt4, gpts, gptstore, papers, prompt, prompt-engineering
+      ai_category: Lists, Guides and examples
+      ai_category_rationale: The project is mainly a curated list of prompts and resources related to prompt engineering and GPT models.
+      ai_category_confidence: 0.9
+      ai_summary: Curated list of chatGPT prompts and resources related to prompt engineering and GPT models.
+      ai_description: This project is a curated list of chatGPT prompts sourced from the top-rated GPTs in the GPTs Store. It includes prompts related to prompt engineering, prompt attack, prompt protect, and Advanced Prompt Engineering papers. The list serves as a valuable resource for anyone interested in exploring and utilizing prompts in their interactions with GPT models. It provides a wide range of prompts and showcases their application in various domains. Additionally, it offers resources and papers that delve into the intricacies of prompt engineering, making it a comprehensive guide for prompt-based interactions with GPT models.
+      ai_tags: advanced-prompt-engineering-papers, awesome, awesome-list, chatgpt, chatgpt-prompts, curated-list, gpt4, gpts, gpts-store, gptstore, papers, prompt, prompt-attack, prompt-engineering, prompt-protect, top-rated-gpts
+    - name: madox2/vim-ai
+      link: https://github.com/madox2/vim-ai
+      summary: AI-powered code assistant for Vim. OpenAI and ChatGPT plugin for Vim and Neovim.
+      ignore: false
+      ignore_reason: ""
+      category: Integrations
+      language: Vim Script
+      tags: chatgpt, code-generation, gpt-3, gpt-4, llm, neovim, openai, vim
+      ai_category: Integrations
+      ai_category_rationale: The project is a plugin for the Vim and Neovim text editors, enhancing them with artificial intelligence capabilities.
+      ai_category_confidence: 0.8
+      ai_summary: AI-powered code assistant plugin for Vim and Neovim
+      ai_description: vim-ai is a plugin for Vim and Neovim that adds artificial intelligence capabilities to the text editors. It allows users to generate code, edit text, and even have interactive conversations with GPT models, all powered by OpenAI's API. The plugin utilizes OpenAI's API for generating responses and requires users to set up an OpenAI account and obtain an API key. With vim-ai, users can enhance their coding experience by leveraging the power of AI to assist them in various tasks.
+      ai_tags: ai-powered, chatgpt, code-assistant, code-generation, gpt-3, gpt-4, llm, neovim, openai, plugin, vim
+    - name: p0n1/epub_to_audiobook
+      link: https://github.com/p0n1/epub_to_audiobook
+      summary: EPUB to audiobook converter, optimized for Audiobookshelf
+      ignore: false
+      ignore_reason: ""
+      category: ChatGPT-based applications
+      language: Python
+      tags: audiobooks, audiobookshelf, chatgpt, epub, openai, tts
+      ai_category: CLI
+      ai_category_rationale: The project is a command-line tool that converts EPUB ebooks into audiobooks, optimized for use with Audiobookshelf. It also mentions that the project is developed with the help of ChatGPT.
+      ai_category_confidence: 0.6
+      ai_summary: A command-line tool that converts EPUB ebooks into audiobooks, optimized for use with Audiobookshelf.
+      ai_description: This project is a command-line tool written in Python that allows users to convert EPUB ebooks into audiobooks. It supports both the Microsoft Azure Text-to-Speech API and the OpenAI Text-to-Speech API to generate the audio for each chapter in the ebook. The output audio files are optimized for use with Audiobookshelf, a related project. The tool also integrates with Audiobookshelf by extracting chapter titles from the EPUB files and including them as metadata in the generated MP3 files. The project is developed with the help of ChatGPT.
+      ai_tags: audiobooks, audiobookshelf, chatgpt, command-line-tool, edgetts, epub, epub-to-audiobook-converter, microsoft-azure-text-to-speech-api, openai, openai-text-to-speech-api, tts
+    - name: dqbd/tiktokenizer
+      link: https://github.com/dqbd/tiktokenizer
+      summary: Online playground for OpenAPI tokenizers
+      ignore: false
+      ignore_reason: ""
+      category: Other
+      language: TypeScript
+      tags: chatgpt, nextjs, openai, t3-stack, tiktoken, tokenizer
+      ai_category: Web applications
+      ai_category_rationale: The project is an online playground for OpenAPI tokenizers, which involves user interaction with a web-based interface for inputting prompts and calculating the number of tokens. This falls under the category of a user interface for ChatGPT
+      ai_category_confidence: 0.85
+      ai_summary: Online playground for OpenAPI tokenizers, allowing users to calculate the correct number of tokens for a given prompt
+      ai_description: Tiktokenizer is an online playground that provides a web-based interface for OpenAPI tokenizers. It allows users to input prompts and calculates the correct number of tokens. This tool is particularly useful for understanding and managing the tokenization process in OpenAPI models. With Tiktokenizer, users can efficiently calculate the number of tokens in a prompt, ensuring that their inputs adhere to the token limits of OpenAPI tokenizers. The project has been sponsored and guided by Diagram, and it makes use of the T3 Stack and the shadcn/ui library. The underlying tokenizer utilized in Tiktokenizer is the openai/tiktoken library.
+      ai_tags: chatgpt, nextjs, online-playground, openai, openapi-tokenizers, prompt-calculation, t3-stack, tiktoken, tokenizer, web-based-interface
+    - name: victordibia/autogen-ui
+      link: https://github.com/victordibia/autogen-ui
+      summary: Web UI for AutoGen (A Framework Multi-Agent LLM Applications)
+      ignore: false
+      ignore_reason: ""
+      category: Other sdk/libraries
+      language: TypeScript
+      tags: agent-based-framework, ai, ai-agents, autogen, chatgpt, deep-learning, visualization
+      ai_category: Browser extensions
+      ai_category_rationale: The project is a web-based UI for AutoGen, which uses ChatGPT-like agents to solve complex tasks. It is specifically designed for regular users to interact with the agents through a browser extension.
+      ai_category_confidence: 0.8
+      ai_summary: AutoGen UI is a browser extension that provides a web-based user interface for AutoGen, a framework for developing LLM applications using multiple ChatGPT-like agents. It allows regular users to interact with the agents, prototype, test, and debug agent flows, and inspect agent behaviors and outcomes.
+      ai_description: AutoGen UI is a web-based user interface for AutoGen, a framework that enables the development of LLM applications using multiple ChatGPT-like agents. It is specifically designed for regular users to interact with the agents through a browser extension. The UI is built using Next.js and the web APIs are built using FastApi. With AutoGen UI, users can rapidly prototype, test, and debug agent flows, define and compose agents, and inspect behaviors and outcomes. The browser extension provides a chat-based interface for users to communicate with the agents and supports features such as viewing the number of agent turns, appending conversation history, and displaying the cost of interactions. It also has a roadmap for future enhancements, including streaming of agent responses, a flow-based playground UI for creating and running agent flows, and exploring external integrations.
+      ai_tags: agent-based-framework, ai, ai-agents, autogen, browser-extension, chatgpt, deep-learning, fastapi, framework, multi-agent-llm-applications, next.js, visualization, web-ui
+    - name: RobustNLP/CipherChat
+      link: https://github.com/RobustNLP/CipherChat
+      summary: A framework to evaluate the generalization capability of safety alignment for LLMs
+      ignore: false
+      ignore_reason: ""
+      category: Python
+      language: Python
+      tags: alignment, chatgpt, gpt-4-0613, jailbreak, large-language-models, llm, security
+      ai_category: Python
+      ai_category_rationale: The project is a framework written in Python that provides a set of tools and methods to evaluate the generalization capability of safety alignment for Language Models (LLMs). It does not appear to be associated with any specific application.
+      ai_category_confidence: 0.9
+      ai_summary: CipherChat is a Python framework for evaluating the generalization capability of safety alignment for Language Models (LLMs).
+      ai_description: CipherChat is a novel framework that provides a set of tools and methods to systematically examine the generalizability of safety alignment to non-natural languages - ciphers. It presumes that using a human-unreadable cipher can potentially bypass the safety alignments effectively. The framework includes a rule-based decrypter to convert the model output from a cipher format into the natural language form. CipherChat is designed for research use only and aims to prevent misuse.
+      ai_tags: alignment, chatgpt, evaluation, framework, generalization-capability, gpt-4-0613, jailbreak, large-language-models, llm, llms, safety-alignment, security
+    - name: gotonote/Autopilot-Notes
+      link: https://github.com/gotonote/Autopilot-Notes
+      summary: 自动驾驶笔记，以解析各模块知识点、整合行业优秀解决方案进行阐述，以帮助自己及有需要的读者；包含深度学习、deeplearning、无人驾驶、BEV、Transformer、ADAS、CVPR、特斯拉AI DAY、大模型、chatgpt等内容。由于水平有限，文中不妥之处恳请广大读者批评指正。如有合作意向，请联系 931531133@qq.com
+      ignore: true
+      ignore_reason: not-english
+      category: ""
+      language: ""
+      tags: algorithms, autopilot, bev, chatgpt, deep-learning, self-driving-car, transformer, tutorial
+      ai_category: ""
+      ai_category_rationale: ""
+      ai_category_confidence: 0
+      ai_summary: ""
+      ai_description: ""
+      ai_tags: ""
+    - name: Anil-matcha/Chatbase
+      link: https://github.com/Anil-matcha/Chatbase
+      summary: ChatGPT for every website.Instantly answer your visitors' questions with a personalized chatbot trained on your website content. Alternative to Chatbase, SiteGPT, Dante AI
+      ignore: false
+      ignore_reason: ""
+      category: Web applications
+      language: Python
+      tags: botpress, botpress-alternative, botsonic, botsonic-alternative, chatbase, chatbase-alternative, chatbot, chatgpt, customgpt, customgpt-alternative, dante-ai, dante-ai-alternative, gpt, gpt4, langchain, openai, sitegpt, sitegpt-alternative, web-chatbot, website-chatbot
+      ai_category: Web applications
+      ai_category_rationale: The project is a web-based chatbot interface that allows users to instantly answer visitors' questions on their websites using a personalized chatbot trained on website content.
+      ai_category_confidence: 0.9
+      ai_summary: A web-based chatbot interface that allows users to instantly answer visitors' questions on their websites using a personalized ChatGPT trained on website content.
+      ai_description: Chatbase is a web-based user interface that utilizes ChatGPT to provide a personalized chatbot experience for every website. With this interface, users can create a chatbot that answers visitors' questions based on the content of their website. It serves as an alternative to Chatbase, SiteGPT, Dante AI, and other similar services. By following a few simple steps, users can set up the chatbot and customize it to their specific needs. With Chatbase, website owners can enhance their visitors' experience by providing instant and accurate responses to their inquiries.
+      ai_tags: alternative, botpress, botpress-alternative, botsonic, botsonic-alternative, chatbase, chatbase-alternative, chatbot, chatgpt, customgpt, customgpt-alternative, dante-ai, dante-ai-alternative, gpt, gpt4, langchain, openai, personalized, questions, sitegpt, sitegpt-alternative, visitors, web-chatbot, website, website-chatbot
+    - name: pkoukk/tiktoken-go
+      link: https://github.com/pkoukk/tiktoken-go
+      summary: go version of tiktoken
+      ignore: false
+      ignore_reason: ""
+      category: Golang
+      language: Go
+      tags: chatgpt, go, golang, gpt-35-turbo, gpt-4, openai, tiktoken
+      ai_category: Golang
+      ai_category_rationale: The project is a Golang library for tokenizing text using the OpenAI tiktoken algorithm. It is meant for general-purpose use in Go applications and does not have specific associations with any particular application.
+      ai_category_confidence: 1
+      ai_summary: Golang library for tokenizing text using OpenAI's tiktoken algorithm
+      ai_description: tiktoken-go is a Golang library that provides fast BPE tokenization for use with OpenAI's models. It is a port of the original tiktoken project and offers similar functionality. This library can be used to tokenize text using the provided encodings and models, allowing developers to work with OpenAI's tiktoken algorithm. It includes features such as caching and alternative BPE loaders, and it provides examples and benchmarks for testing and performance evaluation.
+      ai_tags: chatgpt, go, golang, gpt-35-turbo, gpt-4, openai, openai-models, tiktoken, tokeniser
+    - name: QuivrHQ/quivr
+      link: https://github.com/QuivrHQ/quivr
+      summary: "Your GenAI Second Brain \U0001F9E0  A personal productivity assistant (RAG) ⚡️\U0001F916 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, Groq  that you can share with users !  Local & Private alternative to OpenAI GPTs & ChatGPT powered by retrieval-augmented generation."
+      ignore: false
+      ignore_reason: ""
+      category: Browser extensions
+      language: TypeScript
+      tags: ai, api, chatbot, chatgpt, database, docker, frontend, groq, html, javascript, llm, openai, postgresql, privacy, rag, react, rest-api, security, typescript, vector
+      ai_category: Browser extensions
+      ai_category_rationale: The project is a browser extension that serves as a personal productivity assistant using generative AI
+      ai_category_confidence: 0.8
+      ai_summary: Quivr is a browser extension that functions as your personal productivity assistant, allowing you to chat with your documents and applications using generative AI.
+      ai_description: Quivr is a browser extension that acts as a personal productivity assistant powered by generative AI. It enables users to chat with their documents in various formats such as PDF and CSV, as well as interact with their applications. The extension harnesses technologies like Langchain, GPT, Private, Anthropic, VertexAI, Ollama, LLMs, and Groq to provide a local and private alternative to OpenAI GPTs and ChatGPT. Quivr offers features like fast and efficient data access, data security, compatibility with different file types, open-source nature, public/private sharing options, a marketplace for productivity enhancement, and an offline mode for seamless data access anytime and anywhere.
+      ai_tags: ai, anthropic, api, chat, chatbot, chatgpt, csv, database, docker, docs, frontend, genai, gpt, groq, html, javascript, langchain, llm, llms, ollama, openai, pdf, postgresql, privacy, private, productivity-assistant, rag, react, rest-api, retrieval-augmented-generation, second-brain, security, typescript, vector, vertexai
+    - name: Deeptrain-Community/chatnio
+      link: https://github.com/Deeptrain-Community/chatnio
+      summary: "\U0001F680 Next Generation AI One-Stop Internationalization Solution. \U0001F680 下一代 AI 一站式解决方案，一站式 Chat + 中转 API 站点，支持 OpenAI，Midjourney，Claude，讯飞星火，Stable Diffusion，DALL·E，ChatGLM，通义千问，腾讯混元，360 智脑，百川 AI，火山方舟，新必应，Gemini，Moonshot 等模型，支持对话分享，自定义预设，云端同步，模型市场，支持弹性计费和订阅计划模式，支持图片解析，支持联网搜索，"
+      ignore: false
+      ignore_reason: ""
+      category: Browser extensions
+      language: TypeScript
+      tags: ""
+      ai_category: Browser extensions
+      ai_category_rationale: The project is a browser extension that provides a next generation AI one-stop internationalization solution and supports various AI models for chat conversations, markdown support, message menu, multi-platform adaptation, dialogue memory, full model file parsing, online search, large text editing, model marketplace, preset support, site announcements, preference settings, and internationalization support.
+      ai_category_confidence: 0.8
+      ai_summary: Chat Nio is a browser extension that offers a next generation AI one-stop internationalization solution, supporting various AI models for chat conversations, markdown support, message menu, multi-platform adaptation, dialogue memory, full model file parsing, online search, large text editing, model marketplace, preset support, site announcements, preference settings, and internationalization support.
+      ai_description: Chat Nio is a next generation AI one-stop internationalization solution in the form of a browser extension. It provides support for various AI models, allowing users to have chat conversations, with features such as markdown support, message menu, multi-platform adaptation, dialogue memory, full model file parsing, online search, large text editing, model marketplace, preset support, site announcements, preference settings, and internationalization support. The extension supports a wide range of AI models and offers a user-friendly interface for an enhanced chat experience.
+      ai_tags: adaptation, ai, chat, conversation, file-parsing, internationalization, internationalization-support, large-text-editing, markdown, message-menu, model-marketplace, models, multi-platform, online-search, preference-settings, preset, site-announcements, solution
+    - name: rubberduck-ai/rubberduck-vscode
+      link: https://github.com/rubberduck-ai/rubberduck-vscode
+      summary: Use AI-powered code edits, explanations, code generation, error diagnosis, and chat in Visual Studio Code with the official OpenAI API.
+      ignore: false
+      ignore_reason: ""
+      category: Browser extensions
+      language: TypeScript
+      tags: ai, chatbot, chatgpt, gpt3, openai, visual-studio-code, vscode, vscode-extension
+      ai_category: Browser extensions
+      ai_category_rationale: The project is a browser extension that allows users to use AI-powered code edits, explanations, code generation, error diagnosis, and chat in Visual Studio Code.
+      ai_category_confidence: 0.8
+      ai_summary: Rubberduck is a browser extension that brings AI-powered code editing, explanations, code generation, error diagnosis, and chat functionalities to Visual Studio Code.
+      ai_description: Rubberduck is a browser extension that integrates with Visual Studio Code to provide AI-powered features for code editing and development. It allows users to chat with an AI assistant about their code, generate code snippets, edit code, explain code, generate tests, find bugs, and diagnose errors. Rubberduck requires an OpenAI API key for authentication and utilizes AI models for performing various tasks. The extension offers customization options, such as defining custom conversation templates. It is built with Typescript and incorporates libraries and frameworks like ModelFusion, Prism.js, and React for AI processing, syntax highlighting, and UI rendering.
+      ai_tags: ai, chat, chatbot, chatgpt, code-edits, code-generation, error-diagnosis, explanations, gpt3, openai, openai-api, visual-studio-code, vscode, vscode-extension
+    - name: shadowcz007/comfyui-mixlab-nodes
+      link: https://github.com/shadowcz007/comfyui-mixlab-nodes
+      summary: Workflow-to-APP、ScreenShare&FloatingVideo、GPT & 3D、SpeechRecognition&TTS
+      ignore: true
+      ignore_reason: not-english
+      category: ""
+      language: JavaScript
+      tags: ""
+      ai_category: ""
+      ai_category_rationale: ""
+      ai_category_confidence: 0
+      ai_summary: ""
+      ai_description: ""
+      ai_tags: ""
+    - name: CMKRG/QiZhenGPT
+      link: https://github.com/CMKRG/QiZhenGPT
+      summary: 'QiZhenGPT: An Open Source Chinese Medical Large Language Model｜一个开源的中文医疗大语言模型'
+      ignore: true
+      ignore_reason: not-english
+      category: ""
+      language: Python
+      tags: alpaca, chatgpt, chinese-medical, disease, gpt, llama, llm, medicine
+      ai_category: ""
+      ai_category_rationale: ""
+      ai_category_confidence: 0
+      ai_summary: ""
+      ai_description: ""
+      ai_tags: ""
+    - name: gaboolic/cloudflare-reverse-proxy
+      link: https://github.com/gaboolic/cloudflare-reverse-proxy
+      summary: cloudflare反向代理|OpenAI/ChatGPT 免翻墙代理|github免翻墙代理|github下载加速|google代理|cloudflare万能代理
+      ignore: true
+      ignore_reason: not-english
+      category: ""
+      language: JavaScript
+      tags: chatgpt-proxy, cloudflare, cloudflare-proxy, cloudflare-reverse-proxy, github-proxy, google-proxy, openai-proxy, reverse-proxy
+      ai_category: ""
+      ai_category_rationale: ""
+      ai_category_confidence: 0
+      ai_summary: ""
+      ai_description: ""
+      ai_tags: ""
+    - name: wasp-lang/open-saas
+      link: https://github.com/wasp-lang/open-saas
+      summary: A free, open-source SaaS app starter for React & Node.js with superpowers. Production-ready. Community-driven.
+      ignore: false
+      ignore_reason: ""
+      category: JavaScript/Typescript
+      language: TypeScript
+      tags: ""
+      ai_category: JavaScript/Typescript
+      ai_category_rationale: The project is a TypeScript library for building SaaS apps with React and Node.js. It provides a starter template for building production-ready SaaS applications.
+      ai_category_confidence: 0.85
+      ai_summary: A free, open-source TypeScript library for building SaaS apps with React and Node.js that provides a starter template with superpowers, ready for production and led by the community.
+      ai_description: Open SaaS is a free, open-source TypeScript library that offers developers a powerful set of tools and frameworks for building SaaS (Software as a Service) applications. It provides a production-ready starter template for building SaaS apps with React and Node.js, empowering developers with numerous features out of the box. The library is focused on using free, open-source services where possible. It leverages the Wasp framework, Astro, Stripe, Plausible or Google Analytics, OpenAI API or Replicate (coming soon), AWS S3 for file uploads, and SendGrid, MailGun, or SMTP for email sending. With full-stack authentication, end-to-end type safety, background jobs, and one-command deploy options, Open SaaS enables developers to build SaaS apps quickly and efficiently. The project also offers access to the Wasp community for support and collaboration. Contributors are welcome to help improve and refine the library for even more functionality.
+      ai_tags: community-driven, node.js, open-saas, production-ready, react, saas, superpowers
+    - name: octimot/StoryToolkitAI
+      link: https://github.com/octimot/StoryToolkitAI
+      summary: An editing tool that uses AI to transcribe, understand content and search for anything in your footage,  integrated with ChatGPT and other AI models
+      ignore: false
+      ignore_reason: ""
+      category: ChatGPT-based applications
+      language: Python
+      tags: ai, chatgpt, davinci-resolve, editing, film-editing, filmmaking, gpt, sentence-transformers, speech-recognition, video-processing
+      ai_category: Other
+      ai_category_rationale: The project is a film editing tool integrated with AI models like ChatGPT and OpenAI GPT-4. It has features such as video indexing, automatic transcriptions, translation, story generation, speaker detection, project file management, and integration with DaVinci Resolve Studio 18. It also mentions compatibility with OpenAI Whisper, Sentence Transformers, pyannote.audio, speechbrain, spaCy, and other packages.
+      ai_category_confidence: 0.7
+      ai_summary: StoryToolkitAI is a film editing tool that uses AI to transcribe, understand content, and search for anything in your footage. It is integrated with ChatGPT and OpenAI GPT-4 and offers features such as video indexing, automatic transcriptions, translation, story generation, and speaker detection. The tool works locally on your machine and also integrates with DaVinci Resolve Studio 18.
+      ai_description: StoryToolkitAI is a film editing tool that harnesses the power of AI to transcribe, understand content, and search for specific elements in your footage. With its integration of ChatGPT and OpenAI GPT-4, it offers a wide range of features including full video indexing and search, free automatic transcriptions and translation, intuitive content search, story editing capabilities, and speaker detection in transcripts. The tool operates locally on your machine, ensuring data privacy, and can also be linked with DaVinci Resolve Studio 18 for seamless integration. It also boasts planned features such as automatic topic classification and integration with other AI tools, making it a comprehensive solution for filmmakers and editors.
+      ai_tags: ai, ai-models, automatic-transcriptions, chatgpt, davinci-resolve, davinci-resolve-studio-18, editing, editing-tool, edl, film-editing, filmmaking, footage, gpt, integration, openai-gpt-4, project-file-management, pyannote.audio, search, sentence-transformers, spacy, speaker-detection, speech-recognition, speechbrain, story-generation, transcribe, translation, understand-content, video-indexing, video-processing, whisper, xml
+    - name: lencx/Noi
+      link: https://github.com/lencx/Noi
+      summary: "\U0001F680 Power Your World with AI - Explore, Extend, Empower."
+      ignore: true
+      ignore_reason: not-english
+      category: ""
+      language: JavaScript
+      tags: ""
+      ai_category: ""
+      ai_category_rationale: ""
+      ai_category_confidence: 0
+      ai_summary: ""
+      ai_description: ""
+      ai_tags: ""
+    - name: protectai/llm-guard
+      link: https://github.com/protectai/llm-guard
+      summary: The Security Toolkit for LLM Interactions
+      ignore: false
+      ignore_reason: ""
+      category: Python
+      language: Python
+      tags: ""
+      ai_category: Python
+      ai_category_rationale: The project is a Python library that provides a comprehensive toolkit for fortifying the security of Large Language Models (LLMs). It offers features such as sanitization, detection of harmful language, prevention of data leakage, and resistance against prompt injection attacks. It is intended for developers to integrate and deploy in production environments.
+      ai_category_confidence: 0.9
+      ai_summary: LLM Guard is a Python library that provides a comprehensive security toolkit for Large Language Models (LLMs). It offers features such as sanitization, detection of harmful language, prevention of data leakage, and resistance against prompt injection attacks, helping developers fortify the security of LLM interactions.
+      ai_description: LLM Guard is a Python library that provides a comprehensive security toolkit for Large Language Models (LLMs). It offers features such as sanitization, detection of harmful language, prevention of data leakage, and resistance against prompt injection attacks, ensuring that interactions with LLMs remain safe and secure. The library is designed for easy integration and deployment in production environments. It is constantly updated and supports Python version 3.9 or higher. LLM Guard can be used by developers to fortify the security of their LLM interactions in various applications.
+      ai_tags: data-leakage, detection, harmful-language, integration, large-language-models, llm, production-environments, prompt-injection-attacks, sanitization, security, toolkit
+    - name: devisasari/awesome-gpt-store
+      link: https://github.com/devisasari/awesome-gpt-store
+      summary: A curated list of awesome GPTs in the GPT Store
+      ignore: false
+      ignore_reason: ""
+      category: Lists, Guides and examples
+      language: ""
+      tags: ""
+      ai_category: Lists, Guides and examples
+      ai_category_rationale: The project is a curated list of awesome GPTs, serving as a resource for AI enthusiasts to find and showcase GPTs.
+      ai_category_confidence: 0.9
+      ai_summary: A curated list of awesome GPTs in the GPT Store for AI enthusiasts.
+      ai_description: This project is a curated list of awesome GPTs available in the GPT Store. It serves as a resource for AI enthusiasts worldwide to discover and showcase GPTs created by AI enthusiasts worldwide. The list covers various categories, including AI art, business, social media, music, video, writing, and more. Each GPT is accompanied by a short description and a link for easy access. This project aims to create a vibrant community by encouraging contribution, recognition, and engagement from users through stars and recommendations.
+      ai_tags: ai-enthusiasts, awesome, curated-list, gpt-store, gpts
+    - name: Bryley/neoai.nvim
+      link: https://github.com/Bryley/neoai.nvim
+      summary: Neovim plugin for intracting with GPT models from OpenAI
+      ignore: false
+      ignore_reason: ""
+      category: Integrations
+      language: Lua
+      tags: chatgpt, gpt, gpt-4, gpt3-turbo, neovim, neovim-plugin, nvim, nvim-plugin, openai
+      ai_category: Other sdk/libraries
+      ai_category_rationale: The project is a Neovim plugin written in Lua that allows users to interact with GPT models from OpenAI. It provides features to generate code, rewrite text, and get suggestions. The primary motivation behind this plugin is to integrate AI chat-assistants into the Neovim coding workflow, prioritizing efficiency and productivity.
+      ai_category_confidence: 1
+      ai_summary: Neovim plugin for interacting with GPT models from OpenAI, providing code generation, text rewriting, and suggestions to enhance efficiency and productivity in the coding workflow.
+      ai_description: NeoAI is a Neovim plugin written in Lua that brings the power of OpenAI's GPT models directly to your editor. This plugin allows you to generate code, rewrite text, and get suggestions in-context with your code. It is designed to integrate seamlessly into your Neovim coding workflow, prioritizing efficiency and productivity. With a user-friendly interface, NeoAI makes it easy to interact with the AI and receive the assistance you need. Save time and enhance your coding experience with NeoAI.
+      ai_tags: chat-assistants, chatgpt, code-generation, coding-workflow, efficiency, gpt, gpt-4, gpt-models, gpt3-turbo, neovim, neovim-plugin, nvim, nvim-plugin, openai, plugin, productivity, suggestions, text-rewriting
+    - name: xxxily/hello-ai
+      link: https://github.com/xxxily/hello-ai
+      summary: 'It''s not AI that takes away your job, but the people who master the use of AI tools. The most deadly attack is a dimension-reducing strike: destroying you has nothing to do with you - from "The Three-Body Problem".         中文说明： 抢走你工作的不是AI，而是掌握使用AI工具的人。 降维打击最为致命：毁灭你，与你何干《三体》'
+      ignore: false
+      ignore_reason: ""
+      category: Lists, Guides and examples
+      language: JavaScript
+      tags: agi, ai, aigc, chatgpt, claude-3, gemini, gpt-4, hello-ai, openai, stable-diffusion
+      ai_category: Lists, Guides and examples
+      ai_category_rationale: The project provides AI-related resources, including guides and collections for ChatGPT projects and global AI websites.
+      ai_category_confidence: 0.9
+      ai_summary: A project providing AI-related resources, including guides for ChatGPT and collections of AI projects and websites.
+      ai_description: Hello-AI is a project aimed at connecting individuals to the world of AI. It provides various AI resources, such as guides for ChatGPT in Chinese, a collection of open-source ChatGPT projects, and a compilation of global AI websites. The project also offers recommendations for free AI service websites, prioritizing foreign service providers. It is maintained during business hours and welcomes contributions and feedback from users. Join the project to explore the vast world of AI and access valuable resources and information.
+      ai_tags: agi, ai, aigc, chatgpt, claude-3, gemini, gpt-4, guides, hello-ai, openai, projects, resources, stable-diffusion, websites
+    - name: tolinkshare/freenode
+      link: https://github.com/tolinkshare/freenode
+      summary: "\U0001F680 免费节点,\U0001F680免费节点订阅,\U0001F680v2ray免费节点,ssr免费节点订阅,clash免费节点订阅,免费梯子,免费翻墙,免费科学上网,免费ss/v2ray/trojan节点,谷歌商店,翻墙梯子,ChatGPT,Shadowrocket,Quantumult X"
+      ignore: true
+      ignore_reason: ""
+      category: ""
+      language: ""
+      tags: chatgpt, clash, fanqiang, shadowshare, ssr, tizi, v2ray, vmess
+      ai_category: Other
+      ai_category_rationale: The project does not fit into any specific category mentioned in the prompt
+      ai_category_confidence: 0.9
+      ai_summary: A project that provides free nodes for various protocols like v2ray, ssr, and clash, along with other related tools such as ChatGPT and Shadowrocket
+      ai_description: The tolinkshare/freenode project offers free nodes for different protocols, including v2ray, ssr, and clash, allowing users to access the internet freely and securely. It also provides tools like ChatGPT and Shadowrocket for enhanced functionality. Additionally, the project includes resources for free VPN services, tutorials, and guides on setting up and using these nodes. Users can find various packages with different monthly data limits and discounts for longer subscription periods. With a wide range of supported protocols and tools, this project offers a comprehensive solution for users looking to bypass internet restrictions and enjoy free and secure browsing.
+      ai_tags: chatgpt, clash, clash免费节点订阅, fanqiang, freenode, quantumult-x, shadowrocket, shadowshare, ssr, ssr免费节点订阅, tizi, v2ray, v2ray免费节点, vmess, 免费ss/v2ray/trojan节点, 免费梯子, 免费科学上网, 免费翻墙, 免费节点, 免费节点订阅, 翻墙梯子, 谷歌商店
+    - name: Guru322/GURU-BOT
+      link: https://github.com/Guru322/GURU-BOT
+      summary: "A SIMPLE YET COMPLICATED WHATSAPP BOT LOADED WITH FEATURES\U0001F6A9"
+      ignore: false
+      ignore_reason: ""
+      category: Messenger bots
+      language: JavaScript
+      tags: ai, automation, baileys, baileys-bot, baileys-md, bot, chatgpt, chatgpt-bot, guru, guru-multidevice, openai, openai-whatsapp-bot, qrcode, termux, whatsapp, whatsapp-bot, whatsapp-bot-md, whatsapp-web, whatsappbot
+      ai_category: Messenger bots
+      ai_category_rationale: The project is a WhatsApp bot that provides various features
+      ai_category_confidence: 0.8
+      ai_summary: GURU-BOT is a JavaScript-based WhatsApp bot with multiple features
+      ai_description: GURU-BOT is a WhatsApp bot written in JavaScript that allows users to perform various tasks on WhatsApp. It is a feature-rich bot that provides functionalities such as sending messages, media, and files, automating tasks, and much more. The bot can be set up by forking the repository and obtaining a session ID from either Server 1 or Server 2. The bot can be deployed to platforms like Heroku, Koyeb, Railway, or Replit. The project is actively maintained by the main developer, Guru322, and has contributions from other developers as well. Please note that misusing the bot may result in a ban on your WhatsApp account.
+      ai_tags: ai, automation, baileys, baileys-bot, baileys-md, bot, chatgpt, chatgpt-bot, features, guru, guru-multidevice, openai, openai-whatsapp-bot, qrcode, termux, whatsapp, whatsapp-bot, whatsapp-bot-md, whatsapp-web, whatsappbot
+    - name: yangjiakai/lux-admin-vuetify3
+      link: https://github.com/yangjiakai/lux-admin-vuetify3
+      summary: Create the best admin based on Vue3.2, Vite4.1, TypeScript, Vuetify3, Chat GPT,Firebase etc.
+      ignore: false
+      ignore_reason: ""
+      category: ChatGPT-based applications
+      language: Vue
+      tags: chatgpt, firebase, firebase-auth, markdown, mockjs, openai, pinia, typscript, vite, vue3, vuetify, vuetify3
+      ai_category: Desktop applications
+      ai_category_rationale: The project description mentions the integration of ChatGPT, which suggests that it is a desktop client for regular users to interact with the ChatGPT model.
+      ai_category_confidence: 0.9
+      ai_summary: A desktop admin template based on Vue3.2, Vite4.1, TypeScript, Vuetify3, ChatGPT, and Firebase for creating efficient and intelligent admin interfaces.
+      ai_description: This project is a desktop admin template that aims to create the best Vuetify 3 admin interface. It is built on top of Vue3.2, Vite4.1, TypeScript, and Vuetify3, providing a clear and efficient project structure. The template includes features such as component auto importing, Pinia for state management, and the use of icons from various icon sets. It also integrates Firebase for authentication, Echarts and ApexChart for data visualization, and ChatGPT for an AI assistant. The admin interface is designed to be responsive and adaptive across multiple platforms.
+      ai_tags: admin, chat-gpt, chatgpt, firebase, firebase-auth, markdown, mockjs, openai, pinia, typescript, typscript, vite, vite4.1, vue3, vue3.2, vuetify, vuetify3
+    - name: EmbraceAGI/LifeReloaded
+      link: https://github.com/EmbraceAGI/LifeReloaded
+      summary: A life simulation Game powered by GPT-4's “Advanced Data Analysis” function , offering you a second chance at life.                  由GPT4的Advanced Data Analysis功能驱动的人生重来模拟器，给您人生第二春。
+      ignore: true
+      ignore_reason: not-english
+      category: ""
+      language: Python
+      tags: ""
+      ai_category: ""
+      ai_category_rationale: ""
+      ai_category_confidence: 0
+      ai_summary: ""
+      ai_description: ""
+      ai_tags: ""
+    - name: yesmore/inke
+      link: https://github.com/yesmore/inke
+      summary: "\U0001F4D6 A WYSIWYG notebook with AI assisted writing and real-time collaboration. Support self hosting.  一个所见即所得的Markdown笔记本，支持AI辅助写作和多人协作，支持自部署，使用IndexedDB存储笔记。"
+      ignore: false
+      ignore_reason: ""
+      category: Browser extensions
+      language: TypeScript
+      tags: ""
+      ai_category: Browser extensions
+      ai_category_rationale: The project is a browser extension that provides a WYSIWYG notebook with AI assisted writing and real-time collaboration, which aligns with the category of a general-purpose browser extension for ChatGPT for regular users.
+      ai_category_confidence: 0.78
+      ai_summary: A browser extension that provides a WYSIWYG notebook with AI assisted writing and real-time collaboration.
+      ai_description: Inke is a browser extension that allows users to create a WYSIWYG notebook with AI assisted writing and real-time collaboration. It supports self hosting and is built using TypeScript. The extension provides features such as WYSIWYG editing, efficient shortcut inputs, AI-powered text autocomplete, local data storage, image uploads, cloud storage for notes, and export options for json, image, and markdown formats. Users can also install Inke as a PWA app to their desktop. The project can be set up locally by cloning the repository and setting up the required environment variables. Inke is built on Next.js framework, Tiptap text editor, OpenAI for AI completions, Vercel AI SDK, Vercel for deployments, and TailwindCSS for styles. The project is licensed under Apache-2.0 and is developed by yesmore.
+      ai_tags: ai-assisted-writing, real-time-collaboration, self-hosting, typescript, wysiwyg-notebook
+    - name: cubxxw/awesome-cs-cloudnative-blockchain
+      link: https://github.com/cubxxw/awesome-cs-cloudnative-blockchain
+      summary: "\U0001F4DA 菜鸟成长手册\U0001F680  CS系列 、云原生系列、区块链系列、web3系列\U0001F525、Golang系列\U0001F4A1......"
+      ignore: true
+      ignore_reason: not-english
+      category: ""
+      language: HTML
+      tags: awesome, blockchain, chatgpt, cloudnative, docker, fabric, git, go, k8s, kubernetes, linux, mysql, sora, web
+      ai_category: ""
+      ai_category_rationale: ""
+      ai_category_confidence: 0
+      ai_summary: ""
+      ai_description: ""
+      ai_tags: ""
+    - name: ekkinox/yai
+      link: https://github.com/ekkinox/yai
+      summary: Your AI powered terminal assistant.
+      ignore: false
+      ignore_reason: ""
+      category: CLI
+      language: Go
+      tags: artificial-intelligence, chatgpt, cli, command-line-tool, golang, gpt-3, gpt-4, openai, terminal, tui
+      ai_category: CLI
+      ai_category_rationale: The project provides an AI-powered terminal assistant using OpenAI ChatGPT for command-line interaction, making it a command-line(shell) interface for regular users
+      ai_category_confidence: 0.9
+      ai_summary: Yai is an AI-powered terminal assistant that uses OpenAI ChatGPT to streamline the command-line experience
+      ai_description: Yai is an AI-powered terminal assistant that utilizes OpenAI ChatGPT to build and execute commands in the terminal. By describing commands in everyday language, users can leverage the power of artificial intelligence to automate tasks and get assistance without leaving their terminal. Yai is aware of the user's operating system, distribution, username, shell, home directory, and preferred editor, providing a personalized experience. Users can also fine-tune their experience by specifying additional preferences. The project provides comprehensive documentation, and installation is simple using the provided script. Yai is a command-line(shell) interface for regular users, bringing the capabilities of ChatGPT to the command-line environment.
+      ai_tags: ai, artificial-intelligence, assistant, chatgpt, cli, command-line, command-line-tool, golang, gpt-3, gpt-4, openai, openai-chatgpt, shell, terminal, tui
+    - name: zhudotexe/kani
+      link: https://github.com/zhudotexe/kani
+      summary: kani (カニ) is a highly hackable microframework for chat-based language models with tool use/function calling. (NLP-OSS @ EMNLP 2023)
+      ignore: false
+      ignore_reason: ""
+      category: Python
+      language: Python
+      tags: ""
+      ai_category: Python
+      ai_category_rationale: The project is a Python library/framework that provides a lightweight and highly customizable microframework for chat-based language models.
+      ai_category_confidence: 0.9
+      ai_summary: kani is a highly hackable microframework for chat-based language models with tool use/function calling.
+      ai_description: kani is a lightweight and highly hackable framework for chat-based language models with tool usage/function calling. It is less opinionated and offers more fine-grained customizability over the parts of the control flow that matter, making it the perfect choice for NLP researchers, hobbyists, and developers alike. kani comes with support for various models out of the box and allows for easy integration with many more. It provides features such as lightweight and high-level implementation, automatic chat memory management, function calling with model feedback and retry, and more.
+      ai_tags: chat-based, emnlp-2023, function-calling, hackable, language-models, microframework, nlp-oss, tool-use
+    - name: abdulmannaan1/SAMAIChatBot
+      link: https://github.com/abdulmannaan1/SAMAIChatBot
+      summary: Hello Guys, This is a simple AI ChatBot connected with CHATGPT through API keys
+      ignore: false
+      ignore_reason: ""
+      category: Python
+      language: Python
+      tags: ""
+      ai_category: Python
+      ai_category_rationale: The project is a Python-based AI chatbot that interacts with users using artificial intelligence techniques. It is designed to be modular and extensible, allowing developers to customize and extend its functionality. The project does not appear to be associated with any specific application or use case.
+      ai_category_confidence: 0.8
+      ai_summary: A Python library for building AI chatbots that utilize natural language processing algorithms, with a modular and extensible design.
+      ai_description: This repository contains the source code for a Python library that enables developers to build AI chatbots. The chatbot utilizes state-of-the-art natural language processing (NLP) algorithms for understanding and generating responses. It is designed with a modular and extensible architecture, allowing developers to easily customize and extend its functionality. The chatbot provides a user-friendly interface and can be run locally, interacting with users through a command line interface. Contributions to the project are welcome, and it is licensed under the MIT License.
+      ai_tags: ai-chatbot, developers, extensible, modular, natural-language-processing, nlp, python
+    - name: atfortes/Awesome-LLM-Reasoning
+      link: https://github.com/atfortes/Awesome-LLM-Reasoning
+      summary: 'Papers and resources on Reasoning in Language Models (LLMs), including Chain-of-Thought, Instruction-Tuning, Multimodality. '
+      ignore: false
+      ignore_reason: ""
+      category: Lists, Guides and examples
+      language: ""
+      tags: awesome, chain-of-thought, chatgpt, cot, gpt, gpt-4, in-context-learning, language-models, mllm, multimodal, papers, prompt, prompt-engineering, question-answering, reasoning, vllm
+      ai_category: Lists, Guides and examples
+      ai_category_rationale: The project is a curated collection of papers and resources related to Reasoning in Language Models (LLMs), providing information and references rather than developing a specific application or library.
+      ai_category_confidence: 0.9
+      ai_summary: Curated collection of papers and resources on reasoning in Language Models (LLMs), including chain-of-thought, instruction-tuning, and multimodality.
+      ai_description: Awesome LLM Reasoning is a curated collection of papers, resources, and references focused on Reasoning in Language Models (LLMs). It covers various topics such as chain-of-thought, instruction-tuning, and multimodality. The purpose of the project is to provide a comprehensive guide and exploration into unlocking the reasoning abilities of LLMs, including but not limited to solving arithmetic and commonsense problems. This collection is a valuable resource for researchers and practitioners interested in understanding and advancing the capabilities of LLMs in reasoning tasks.
+      ai_tags: awesome, chain-of-thought, chatgpt, cot, gpt, gpt-4, in-context-learning, instruction-tuning, language-models, llms, mllm, multimodal, multimodality, papers, prompt, prompt-engineering, question-answering, reasoning, vllm
+    - name: Azure/GPT-RAG
+      link: https://github.com/Azure/GPT-RAG
+      summary: Sharing the learning along the way we been gathering to enable Azure OpenAI at enterprise scale in a secure manner. GPT-RAG core is a Retrieval-Augmented Generation pattern running in Azure, using Azure Cognitive Search for retrieval and Azure OpenAI large language models to power ChatGPT-style and Q&A experiences.
+      ignore: false
+      ignore_reason: ""
+      category: Python
+      language: Bicep
+      tags: ""
+      ai_category: Python
+      ai_category_rationale: The project is a Python library that enables developers to use the GPT-RAG core for retrieval-augmented generation patterns and integration with Azure Cognitive Search and Azure OpenAI large language models.
+      ai_category_confidence: 0.8
+      ai_summary: Azure/GPT-RAG is a Python library for retrieval-augmented generation patterns, enabling developers to integrate Azure OpenAI and Azure Cognitive Search for ChatGPT-style and Q&A experiences at enterprise scale in a secure manner.
+      ai_description: Azure/GPT-RAG is a Python library that facilitates the integration of Azure OpenAI and Azure Cognitive Search for retrieval-augmented generation patterns. It enables developers to use large language models to power ChatGPT-style and Q&A experiences. The library is designed for enterprise-scale deployment, ensuring grounded responses and following zero-trust security and responsible AI principles. It offers a robust architecture tailored for organizations transitioning from exploration and proof of concept stages to full-scale production and minimum viable products. With Azure/GPT-RAG, developers can leverage the reasoning capabilities of large language models without the need for fine-tuning, streamlining the integration process.
+      ai_tags: azure, azure-cognitive-search, azure-openai, chatgpt-style, enterprise-scale, gpt-rag, python, q&a, retrieval-augmented-generation, secure
+    - name: RageAgainstThePixel/OpenAI-DotNet
+      link: https://github.com/RageAgainstThePixel/OpenAI-DotNet
+      summary: A Non-Official OpenAI RESTful API Client for DotNet
+      ignore: false
+      ignore_reason: ""
+      category: C#
+      language: C#
+      tags: ai, api-proxy, chat-gpt, chatgpt, csharp, dall-e, dall-e-3, dotnet, dotnet-core, dotnet-standard, dotnetcore, gpt, gpt-3, gpt-35-turbo, gpt-4, gpt-turbo, machine-learning, openai, openai-api
+      ai_category: C#
+      ai_category_rationale: The project is a C# library that serves as a client for the OpenAI RESTful API. It provides a simple interface for developers to interact with the OpenAI API in their .NET applications.
+      ai_category_confidence: 0.9
+      ai_summary: A non-official C# library for interacting with the OpenAI RESTful API in .NET applications.
+      ai_description: OpenAI-DotNet is a non-official C# library that provides a simple client interface for interacting with the OpenAI RESTful API in .NET applications. It allows developers to easily make requests to the OpenAI API and receive responses in a structured manner. This library is independently developed and is not affiliated with OpenAI. It supports various features of the OpenAI API, such as authentication, handling models, chat completions, and more. It is designed to work across different platforms and frameworks, including console apps, WinForms, WPF, ASP.NET, and across Windows, Linux, and Mac operating systems. Developers can install this library via NuGet and access the documentation for usage instructions.
+      ai_tags: ai, api-client, api-proxy, chat-gpt, chatgpt, csharp, dall-e, dall-e-3, dotnet, dotnet-core, dotnet-standard, dotnetcore, gpt, gpt-3, gpt-35-turbo, gpt-4, gpt-turbo, independent, machine-learning, openai, openai-api, restful
+    - name: leochen-g/wechat-assistant-pro
+      link: https://github.com/leochen-g/wechat-assistant-pro
+      summary: 智能微秘书，一个全能的微信机器人管理平台，最简单的方式接入 ChatGPT，FastGPT，Dify知识库，支持绘图，联网查询，语音识别，各种定时任务，支持企微、个微、公众号、5G 消息、WhatsApp
+      ignore: true
+      ignore_reason: not-english
+      category: ""
+      language: JavaScript
+      tags: chatrobot, wechat, wechatbot, wechaty, whatsapp-bot
+      ai_category: ""
+      ai_category_rationale: ""
+      ai_category_confidence: 0
+      ai_summary: ""
+      ai_description: ""
+      ai_tags: ""
+    - name: selefra/selefra
+      link: https://github.com/selefra/selefra
+      summary: The open-source policy-as-code software that provides analysis for Multi-Cloud and SaaS environments, you can get insight with natural language (powered by OpenAI).
+      ignore: true
+      ignore_reason: ""
+      category: ""
+      language: Go
+      tags: aws, azure, chatgpt, cloud, cspm, devops, finops, gcp, golang, google, infrastructure-as-code, kubernetes, openai, policy-as-code, terraform
+      ai_category: Golang
+      ai_category_rationale: The project is a Go-based open-source software that provides analysis for multi-cloud and SaaS environments.
+      ai_category_confidence: 0.95
+      ai_summary: Selefra is an open-source policy-as-code software that provides analysis for multi-cloud and SaaS environments, powered by OpenAI's natural language processing.
+      ai_description: Selefra is a Go-based open-source policy-as-code software that allows users to analyze multi-cloud and SaaS environments. It provides analysis for over 30 services including AWS, GCP, Azure, Alibaba Cloud, Kubernetes, Github, Cloudflare, and Slack. With Selefra, users can engage in conversations with GPT models, which analyze information and provide relevant suggestions for security, cost, and architecture checks. The software helps users manage cloud resources, enhance security, reduce costs, and optimize architecture design. Selefra also offers custom analysis policies, multi-cloud and multi-SaaS configuration, version control, and automation capabilities.
+      ai_tags: analysis, aws, azure, chatgpt, cloud, cspm, devops, finops, gcp, golang, google, infrastructure-as-code, kubernetes, multi-cloud, natural-language, openai, policy-as-code, saas, terraform
+    - name: gitbito/CLI
+      link: https://github.com/gitbito/CLI
+      summary: Bito CLI (Command Line Interface) provides a command line interface to the Bito AI chat functionality. Over time, CLI will add more functions and new command options to support complex automation and workflows.  This is a very early Alpha version. We would love to get your feedback on the new features or improvements.
+      ignore: false
+      ignore_reason: ""
+      category: Other
+      language: ""
+      tags: ai, automation, bash, chatgpt, cli, command-line, command-line-tool, developer-tool, developer-tools, gpt, gpt-3, gpt-4, gptchat, linux, macos, prompt-engineering, shell, terminal, windows
+      ai_category: CLI
+      ai_category_rationale: The project provides a command line interface (CLI) for using Bito AI chat functionality, allowing users to interact with the chatbot through the command line.
+      ai_category_confidence: 0.9
+      ai_summary: Bito CLI provides a command line interface for the Bito AI chat functionality, enabling users to automate tasks and workflows.
+      ai_description: Bito CLI (Command Line Interface) is a project that offers a command line interface for the Bito AI chat functionality. It allows users to interact with the Bito chatbot directly from the command line, providing support for automation and complex workflows. The CLI is still in its early alpha version and will continue to add more functions and command options in the future. Users are encouraged to provide feedback on new features or improvements to the project.
+      ai_tags: ai, ai-chat, automation, bash, bito, chatgpt, cli, command-line, command-line-interface, command-line-tool, developer-tool, developer-tools, feedback, gpt, gpt-3, gpt-4, gptchat, linux, macos, prompt-engineering, shell, terminal, windows, workflows
+    - name: kyegomez/swarms
+      link: https://github.com/kyegomez/swarms
+      summary: 'Build, Deploy, and Scale Reliable Swarms of Autonomous Agents for Workflow Automation. Join our Community: https://discord.gg/DbjBMJTSWD'
+      ignore: false
+      ignore_reason: ""
+      category: Python
+      language: Python
+      tags: ""
+      ai_category: Python
+      ai_category_rationale: The project is a Python library that provides a framework for building, deploying, and scaling swarms of autonomous agents for workflow automation.
+      ai_category_confidence: 0.85
+      ai_summary: Build, Deploy, and Scale Reliable Swarms of Autonomous Agents for Workflow Automation
+      ai_description: The `swarms` project is a Python library that provides a framework for building, deploying, and scaling reliable swarms of autonomous agents for workflow automation. It allows users to create structures such as agents, swarms, and workflows, which are composed of different types of tasks. With `swarms`, users can create fully plug-and-play autonomous agents powered by a long-term memory database and equipped with function calling for tool usage. The library also includes features such as extreme customization, import of documents in various formats, and a long-term memory database with RAG (ChromaDB, Pinecone, Qdrant). Additionally, `swarms` supports the Sequential Workflow, which enables users to sequentially execute tasks with agents and pass the output to the next agent, making it suitable for real-world business tasks.
+      ai_tags: autonomous-agents, build, deploy, reliable, scale, swarms, workflow-automation
