@@ -1,4 +1,5 @@
 .idea
 .DS_Store
-.env
-.data.tmp.yaml
+.data.yaml
+.readme.tmpl
+config.yaml
