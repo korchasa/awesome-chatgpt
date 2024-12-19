@@ -5,8 +5,8 @@
 A curated list of awesome ChatGPT and OpenAI software.
 
 - [Documentation and examples](#documentation-and-examples) 
-    - [Documentation, lists, guides, or examples](#documentation,-lists,-guides,-or-examples) (53)
-    - [Information about prompt engineering](#information-about-prompt-engineering) (29)
+    - [Documentation, lists, guides, or examples](#documentation,-lists,-guides,-or-examples) (54)
+    - [Information about prompt engineering](#information-about-prompt-engineering) (30)
 - [UIs](#uis) 
     - [Desktop applications](#desktop-applications) (16)
     - [Browser extensions](#browser-extensions) (25)
@@ -15,17 +15,18 @@ A curated list of awesome ChatGPT and OpenAI software.
     - [Mobile applications](#mobile-applications) (9)
     - [Command-line(shell) interface](#command-line(shell)-interface) (29)
     - [Other user interfaces](#other-user-interfaces) (4)
-- [Addons, extensions, plug-ins for integrating LLM into  third-party applications](#addons,-extensions,-plug-ins-for-integrating-llm-into--third-party-applications) (36)
+- [Addons, extensions, plug-ins for integrating LLM into  third-party applications](#addons,-extensions,-plug-ins-for-integrating-llm-into--third-party-applications) (41)
 - [SDK, Libraries, Frameworks](#sdk,-libraries,-frameworks) 
-    - [Python library, sdk or frameworks](#python-library,-sdk-or-frameworks) (41)
+    - [Python library, sdk or frameworks](#python-library,-sdk-or-frameworks) (42)
     - [JavaScript/Typescript library, sdk or frameworks](#javascripttypescript-library,-sdk-or-frameworks) (5)
     - [Golang library, sdk or frameworks](#golang-library,-sdk-or-frameworks) (5)
     - [C# library, sdk or frameworks](#c#-library,-sdk-or-frameworks) (4)
     - [Swift library, sdk or frameworks](#swift-library,-sdk-or-frameworks) (3)
     - [Kotlin library, sdk or frameworks](#kotlin-library,-sdk-or-frameworks) (2)
+    - [PHP library, sdk or frameworks](#php-library,-sdk-or-frameworks) (1)
     - [ChatGPT plugins](#chatgpt-plugins) (11)
-    - [Other sdk/libraries](#other-sdklibraries) (5)
-- [ChatGPT-based applications for regular users and specialized problems](#chatgpt-based-applications-for-regular-users-and-specialized-problems) (106)
+    - [Other sdk/libraries](#other-sdklibraries) (6)
+- [ChatGPT-based applications for regular users and specialized problems](#chatgpt-based-applications-for-regular-users-and-specialized-problems) (107)
 - [Other applications](#other-applications) (28)
 - [Other LLMs, other models and other not included in other categories](#other-llms,-other-models-and-other-not-included-in-other-categories) (26)
 
@@ -80,6 +81,7 @@ A curated list of awesome ChatGPT and OpenAI software.
 - [saharmor/awesome-chatgpt](https://github.com/saharmor/awesome-chatgpt) - The 'saharmor/awesome-chatgpt' repository is a comprehensive list of ChatGPT resources which includes demos, articles, tools, and more.
 - [sindresorhus/awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) - The 'sindresorhus/awesome-chatgpt' repository is a compiled list of resources and applications related to the ChatGPT AI developed by OpenAI.
 - [snwfdhmp/awesome-gpt-prompt-engineering](https://github.com/snwfdhmp/awesome-gpt-prompt-engineering) - A curated list of awesome resources, tools, and other shiny things for GPT prompt engineering.
+- [superiorlu/AITreasureBox](https://github.com/superiorlu/AITreasureBox) - AI TreasureBox is a collection of practical AI repositories, tools, websites, papers, and tutorials.
 - [taranjeet/awesome-gpts](https://github.com/taranjeet/awesome-gpts) - Awesome GPTs is a collection of all the GPTs created by the community.
 - [travistangvh/ChatGPT-Data-Science-Prompts](https://github.com/travistangvh/ChatGPT-Data-Science-Prompts) - ChatGPT-Data-Science-Prompts is a repository of diverse data science prompts for the ChatGPT model, covering a broad range of topics within the data science field.
 - [voidful/awesome-chatgpt-dataset](https://github.com/voidful/awesome-chatgpt-dataset) - Voidful's 'awesome-chatgpt-dataset' repository is a collection of varied datasets for training Large Language Models like ChatGPT.
@@ -95,6 +97,7 @@ A curated list of awesome ChatGPT and OpenAI software.
 - [0xk1h0/ChatGPT_DAN](https://github.com/0xk1h0/ChatGPT_DAN) - ChatGPT DAN is a project exploring various ways to bypass standard AI limitations and maximizing the capabilities of ChatGPT through utilizing creative prompts.
 - [CyberAlbSecOP/Awesome_GPT_Super_Prompting](https://github.com/CyberAlbSecOP/Awesome_GPT_Super_Prompting) - This project is a collection of resources and techniques related to prompt engineering, focusing on ChatGPT jailbreaks, security, and various prompt manipulations.
 - [Denis2054/Transformers-for-NLP-2nd-Edition](https://github.com/Denis2054/Transformers-for-NLP-2nd-Edition) - The project provides an extensive resource for working with transformer models, focusing on prompt engineering and practical applications.
+- [DenisSergeevitch/chatgpt-custom-instructions](https://github.com/DenisSergeevitch/chatgpt-custom-instructions) - A project that provides optimized custom instructions for improving ChatGPT's performance through detailed guidelines and performance testing.
 - [EgoAlpha/prompt-in-context-learning](https://github.com/EgoAlpha/prompt-in-context-learning) - A comprehensive resource for mastering in-context learning and prompt engineering with a focus on large language models like ChatGPT.
 - [GaryYufei/AlignLLMHumanSurvey](https://github.com/GaryYufei/AlignLLMHumanSurvey) - This repository serves as a comprehensive survey on aligning large language models with human expectations.
 - [Instruction-Tuning-with-GPT-4/GPT-4-LLM](https://github.com/Instruction-Tuning-with-GPT-4/GPT-4-LLM) - This project focuses on instruction tuning with GPT-4 to create better instruction-following large language models.
@@ -316,6 +319,7 @@ A curated list of awesome ChatGPT and OpenAI software.
 - [abielzulio/chatgpt-raycast](https://github.com/abielzulio/chatgpt-raycast) - ChatGPT Raycast extension integrates ChatGPT interaction into the Raycast command bar.
 - [ahmadbilaldev/langui](https://github.com/ahmadbilaldev/langui) - LangUI is an open-source collection of beautifully designed Tailwind components specifically created for AI and LLM projects.
 - [ai-genie/chatgpt-vscode](https://github.com/ai-genie/chatgpt-vscode) - An AI-driven pair programming extension utilizing ChatGPT for Visual Studio Code.
+- [bookfere/Ebook-Translator-Calibre-Plugin](https://github.com/bookfere/Ebook-Translator-Calibre-Plugin) - A Calibre plugin that translates ebooks into multiple languages using various translation engines.
 - [bramses/chatgpt-md](https://github.com/bramses/chatgpt-md) - 'ChatGPT-MD' is an add-on for Obsidian that integrates the AI chat capabilities of ChatGPT into markdown notes.
 - [brianpetro/obsidian-smart-connections](https://github.com/brianpetro/obsidian-smart-connections) - Smart Connections is an AI-powered plugin for Obsidian that helps users organize, link, and chat with their notes effortlessly.
 - [cesarhuret/docGPT](https://github.com/cesarhuret/docGPT) - docGPT allows users to integrate ChatGPT directly into Google Docs and MS Word as an Editor Add-on.
@@ -335,11 +339,15 @@ A curated list of awesome ChatGPT and OpenAI software.
 - [nhaouari/obsidian-textgenerator-plugin](https://github.com/nhaouari/obsidian-textgenerator-plugin) - The Text Generator Plugin for Obsidian allows users to generate text content using GPT-3, enhancing knowledge creation and organization.
 - [obiscr/ChatGPT](https://github.com/obiscr/ChatGPT) - ChatGPT is a JetBrains IDE plugin that supports the usage of ChatGPT for various tasks such as error-fixing, providing a diff mode, and more.
 - [openai/chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin) - ChatGPT Retrieval Plugin, an add-on for ChatGPT, enables semantic search and retrieval of personal or work documents using natural language questions.
+- [papersgpt/papersgpt-for-zotero](https://github.com/papersgpt/papersgpt-for-zotero) - PapersGPT for Zotero is an AI-powered plugin that enhances PDF reading and research efficiency through conversation and insights extraction from documents.
 - [sozercan/kubectl-ai](https://github.com/sozercan/kubectl-ai) - Kubectl plugin for generating and applying Kubernetes manifests using OpenAI's GPT.
 - [srcnalt/OpenAI-Unity](https://github.com/srcnalt/OpenAI-Unity) - The OpenAI Unity Package is an unofficial tool that enables direct integration of the OpenAI API within the Unity game engine.
 - [stulzq/azure-openai-proxy](https://github.com/stulzq/azure-openai-proxy) - This project provides a proxy solution to convert OpenAI API requests to Azure OpenAI API requests, facilitating easy access to Azure services.
+- [tensorchord/pgvecto.rs](https://github.com/tensorchord/pgvecto.rs) - pgvecto.rs is a scalable vector database plugin for PostgreSQL written in Rust, designed to enhance vector similarity search capabilities for LLMs.
+- [toolkit-ai/toolkit-ai](https://github.com/toolkit-ai/toolkit-ai) - Toolkit AI is a project that simplifies the generation and use of AI plugins, particularly for LangChain and ChatGPT.
 - [xiangsx/gpt4free-ts](https://github.com/xiangsx/gpt4free-ts) - This project is a TypeScript implementation of a free API for OpenAI's GPT-4, allowing users to access various GPT models easily.
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - gpt4free is a repository designed to demonstrate an API package that integrates various powerful language models.
+- [yamadashy/repomix](https://github.com/yamadashy/repomix) - Repomix is a tool designed to pack repositories into an AI-friendly format for use with Large Language Models.
 - [your-papa/obsidian-Smart2Brain](https://github.com/your-papa/obsidian-Smart2Brain) - Your Smart Second Brain is an Obsidian plugin that enhances knowledge management by interacting with various large language models while prioritizing user privacy.
 - [zhu327/gemini-openai-proxy](https://github.com/zhu327/gemini-openai-proxy) - Gemini-OpenAI-Proxy allows applications to convert the OpenAI API protocol to the Google Gemini protocol.
 
@@ -353,6 +361,7 @@ A curated list of awesome ChatGPT and OpenAI software.
 - [NeumTry/NeumAI](https://github.com/NeumTry/NeumAI) - Neum AI is a robust framework for managing and synchronizing vector embeddings at scale, enhancing data integration for large language models.
 - [OptimalScale/LMFlow](https://github.com/OptimalScale/LMFlow) - LMFlow is an extensible toolkit designed for finetuning and inference of large foundation models.
 - [Torantulino/AI-Functions](https://github.com/Torantulino/AI-Functions) - AI Functions is a Python library that simplifies function execution using GPT models, allowing developers to automate coding tasks easily.
+- [brainlid/langchain](https://github.com/brainlid/langchain) - Elixir LangChain is a framework that facilitates the integration of AI services and self-hosted models into Elixir applications.
 - [chain-ml/council](https://github.com/chain-ml/council) - Council is an open-source platform for the rapid development and robust deployment of customized generative AI applications.
 - [chapyter/chapyter](https://github.com/chapyter/chapyter) - Chapyter is a JupyterLab extension that connects GPT model to the coding environment, translating natural language descriptions into Python code and auto-executing them.
 - [elastic/elasticsearch-labs](https://github.com/elastic/elasticsearch-labs) - This project offers notebooks and example applications for utilizing Elasticsearch in search and AI applications.
@@ -424,6 +433,10 @@ A curated list of awesome ChatGPT and OpenAI software.
 - [aallam/openai-kotlin](https://github.com/aallam/openai-kotlin) - OpenAI API client for Kotlin with multiplatform and coroutines capabilities.
 - [anasfik/openai](https://github.com/anasfik/openai) - Dart/Flutter SDK for integrating ChatGPT and all OpenAI APIs.
 
+### PHP library, sdk or frameworks
+
+- [orhanerday/open-ai](https://github.com/orhanerday/open-ai) - This repository offers a PHP SDK for integrating with OpenAI's GPT-3 and DALL-E APIs.
+
 ### ChatGPT plugins
 
 - [OpenBMB/BMTools](https://github.com/OpenBMB/BMTools) - BMTools is an open-source platform that facilitates the integration and use of tools and plugins with language models like ChatGPT.
@@ -440,6 +453,7 @@ A curated list of awesome ChatGPT and OpenAI software.
 
 ### Other sdk/libraries
 
+- [alexrudall/ruby-openai](https://github.com/alexrudall/ruby-openai) - A Ruby SDK that interacts with the OpenAI API for various AI functionalities.
 - [confident-ai/deepeval](https://github.com/confident-ai/deepeval) - DeepEval is an open-source evaluation framework for testing large-language model outputs.
 - [e2b-dev/awesome-ai-sdks](https://github.com/e2b-dev/awesome-ai-sdks) - A database of SDKs, frameworks, libraries, and tools for creating, monitoring, debugging and deploying autonomous AI agents.
 - [jtsang4/claude-to-chatgpt](https://github.com/jtsang4/claude-to-chatgpt) - Claude to ChatGPT is a project for converting Anthropic's Claude model API into OpenAI Chat API format.
@@ -505,6 +519,7 @@ A curated list of awesome ChatGPT and OpenAI software.
 - [iuiaoin/wechat-gptbot](https://github.com/iuiaoin/wechat-gptbot) - Wechat-GPTBot is a stable WeChat robot powered by ChatGPT that provides smart replies and image generation features.
 - [janhq/jan](https://github.com/janhq/jan) - Jan is an open-source alternative to ChatGPT that runs 100% offline on your computer.
 - [josStorer/RWKV-Runner](https://github.com/josStorer/RWKV-Runner) - RWKV Runner is a lightweight automation tool for managing and deploying the RWKV large language model seamlessly.
+- [jtmuller5/The-HustleGPT-Challenge](https://github.com/jtmuller5/The-HustleGPT-Challenge) - The HustleGPT Challenge promotes using AI to develop and grow entrepreneurial ventures.
 - [kennethleungty/Llama-2-Open-Source-LLM-CPU-Inference](https://github.com/kennethleungty/Llama-2-Open-Source-LLM-CPU-Inference) - This project enables users to run Llama 2 and other open-source LLMs for document question-and-answer tasks on local CPU infrastructure.
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Khoj is an AI copilot that enables users to search and chat with their personal knowledge base online or offline.
 - [leetcode-mafia/cheetah](https://github.com/leetcode-mafia/cheetah) - Cheetah is an AI-powered macOS app designed to assist users during remote software engineering interviews by providing real-time, discreet coaching and live coding platform integration.
