@@ -17,7 +17,7 @@ A curated list of awesome ChatGPT and OpenAI software.
     - [Other user interfaces](#other-user-interfaces) (4)
 - [Addons, extensions, plug-ins for integrating LLM into third-party applications](#addons,-extensions,-plug-ins-for-integrating-llm-into-third-party-applications) (42)
 - [SDK, Libraries, Frameworks](#sdk,-libraries,-frameworks) 
-    - [Python library, sdk or frameworks](#python-library,-sdk-or-frameworks) (43)
+    - [Python library, sdk or frameworks](#python-library,-sdk-or-frameworks) (44)
     - [JavaScript/Typescript library, sdk or frameworks](#javascripttypescript-library,-sdk-or-frameworks) (5)
     - [Golang library, sdk or frameworks](#golang-library,-sdk-or-frameworks) (5)
     - [C# library, sdk or frameworks](#c#-library,-sdk-or-frameworks) (4)
@@ -26,7 +26,7 @@ A curated list of awesome ChatGPT and OpenAI software.
     - [PHP library, sdk or frameworks](#php-library,-sdk-or-frameworks) (1)
     - [ChatGPT plugins](#chatgpt-plugins) (11)
     - [Other sdk/libraries](#other-sdklibraries) (6)
-- [ChatGPT-based applications for regular users and specialized problems](#chatgpt-based-applications-for-regular-users-and-specialized-problems) (108)
+- [ChatGPT-based applications for regular users and specialized problems](#chatgpt-based-applications-for-regular-users-and-specialized-problems) (111)
 - [Other applications](#other-applications) (28)
 - [Other LLMs, other models and other not included in other categories](#other-llms,-other-models-and-other-not-included-in-other-categories) (26)
 
@@ -363,6 +363,7 @@ A curated list of awesome ChatGPT and OpenAI software.
 - [NeumTry/NeumAI](https://github.com/NeumTry/NeumAI) - Neum AI is a robust framework for managing and synchronizing vector embeddings at scale, enhancing data integration for large language models.
 - [OptimalScale/LMFlow](https://github.com/OptimalScale/LMFlow) - LMFlow is an extensible toolkit designed for finetuning and inference of large foundation models.
 - [Torantulino/AI-Functions](https://github.com/Torantulino/AI-Functions) - AI Functions is a Python library that simplifies function execution using GPT models, allowing developers to automate coding tasks easily.
+- [Upsonic/Upsonic](https://github.com/Upsonic/Upsonic) - Upsonic is an AI agent framework designed for orchestrating large language model tasks for digital workers and vertical AI agents, focusing on scalability and task-oriented design.
 - [brainlid/langchain](https://github.com/brainlid/langchain) - Elixir LangChain is a framework that facilitates the integration of AI services and self-hosted models into Elixir applications.
 - [chain-ml/council](https://github.com/chain-ml/council) - Council is an open-source platform for the rapid development and robust deployment of customized generative AI applications.
 - [chapyter/chapyter](https://github.com/chapyter/chapyter) - Chapyter is a JupyterLab extension that connects GPT model to the coding environment, translating natural language descriptions into Python code and auto-executing them.
@@ -475,6 +476,7 @@ A curated list of awesome ChatGPT and OpenAI software.
 - [Anil-matcha/Chatbase-Alternative](https://github.com/Anil-matcha/Chatbase-Alternative) - This project enables the deployment of a personalized ChatGPT-based chatbot for any website, allowing instant answers to visitor queries.
 - [Azure-Samples/chat-with-your-data-solution-accelerator](https://github.com/Azure-Samples/chat-with-your-data-solution-accelerator) - A Solution Accelerator for the RAG pattern running in Azure, utilizing Azure AI Search and OpenAI models for chat and Q&A experiences.
 - [ChatBot-All/chatbot-app](https://github.com/ChatBot-All/chatbot-app) - ChatBot is an AI application supporting multiple models like GPT and Gemini.
+- [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - NextChat offers a cross-platform AI assistant with a user-friendly web interface, supporting multiple AI models.
 - [FunAudioLLM/CosyVoice](https://github.com/FunAudioLLM/CosyVoice) - CosyVoice is a multi-lingual large voice generation model providing complete inference, training, and deployment capabilities.
 - [GPTGenius/chatgpt-vercel](https://github.com/GPTGenius/chatgpt-vercel) - ChatGPT-Vercel allows you to create a free, private ChatGPT website using Vercel, supported with text and image generation capabilities using OpenAI API GPT-4/3.5 models.
 - [GauravSingh9356/J.A.R.V.I.S](https://github.com/GauravSingh9356/J.A.R.V.I.S) - J.A.R.V.I.S is a versatile personal assistant built using Python that can perform tasks like sending emails, recognizing text, and reporting news through voice commands.
@@ -495,6 +497,7 @@ A curated list of awesome ChatGPT and OpenAI software.
 - [StanGirard/quivr](https://github.com/StanGirard/quivr) - Quivr is a personal productivity assistant that uses Generative AI to allow users to chat with their documents and applications.
 - [TBXark/ChatGPT-Telegram-Workers](https://github.com/TBXark/ChatGPT-Telegram-Workers) - ChatGPT-Telegram-Workers enables users to easily deploy their own Telegram ChatGPT bot on Cloudflare Workers.
 - [THUDM/WebGLM](https://github.com/THUDM/WebGLM) - WebGLM is an efficient web-enhanced question answering system aimed at improving the accuracy and engagement of responses.
+- [TencentQQGYLab/AppAgent](https://github.com/TencentQQGYLab/AppAgent) - AppAgent is a multimodal agent framework based on LLM for operating smartphone applications through mimicked human interactions.
 - [Upsonic/gpt-computer-assistant](https://github.com/Upsonic/gpt-computer-assistant) - GCA is an open-source AI agent framework to automate computer tasks across multiple operating systems.
 - [adrianhajdin/project_openai_codex](https://github.com/adrianhajdin/project_openai_codex) - The project offers a buildable and deployable ChatGPT AI application to assist developers in coding.
 - [ai-shifu/ChatALL](https://github.com/ai-shifu/ChatALL) - ChatALL allows users to chat concurrently with multiple AI bots to find the best responses.
@@ -511,6 +514,7 @@ A curated list of awesome ChatGPT and OpenAI software.
 - [embedchain/embedchain](https://github.com/embedchain/embedchain) - Mem0 is an open-source memory layer that enhances AI interactions by allowing assistants to remember user preferences and adapt over time.
 - [enricoros/big-AGI](https://github.com/enricoros/big-AGI) - Big-AGI is a personal AI application powered by GPT-4 that offers a wide range of advanced features for professional users.
 - [feder-cr/Jobs_Applier_AI_Agent](https://github.com/feder-cr/Jobs_Applier_AI_Agent) - AIHawk is an AI-powered tool that automates the job application process, making it easier and faster for users.
+- [feder-cr/Jobs_Applier_AI_Agent_AIHawk](https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk) - Jobs_Applier_AI_Agent_AIHawk automates the job application process using AI, assisting users in efficiently applying for jobs in a personalized manner.
 - [finaldie/auto-news](https://github.com/finaldie/auto-news) - Auto-News is a personal news aggregator utilizing LLM technology to effectively filter and summarize information from multiple sources.
 - [finic-ai/rag-stack](https://github.com/finic-ai/rag-stack) - RAGstack is a solution for deploying a private alternative to ChatGPT that integrates with organizational knowledge bases.
 - [fuergaosi233/wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt) - wechat-chatgpt is a project that enables ChatGPT to be used on WeChat through the wechaty framework.
