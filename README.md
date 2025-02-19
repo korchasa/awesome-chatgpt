@@ -28,7 +28,7 @@ A curated list of awesome ChatGPT and OpenAI software.
     - [Other sdk/libraries](#other-sdklibraries) (6)
 - [ChatGPT-based applications for regular users and specialized problems](#chatgpt-based-applications-for-regular-users-and-specialized-problems) (111)
 - [Other applications](#other-applications) (28)
-- [Other LLMs, other models and other not included in other categories](#other-llms,-other-models-and-other-not-included-in-other-categories) (26)
+- [Other LLMs, other models and other not included in other categories](#other-llms,-other-models-and-other-not-included-in-other-categories) (27)
 
 
 
@@ -614,6 +614,7 @@ A curated list of awesome ChatGPT and OpenAI software.
 - [BAAI-DCAI/Bunny](https://github.com/BAAI-DCAI/Bunny) - Bunny is a family of lightweight multimodal models designed for enhanced vision-language capabilities.
 - [BlinkDL/ChatRWKV](https://github.com/BlinkDL/ChatRWKV) - ChatRWKV is an open-source language model similar to ChatGPT but powered by the RWKV (100% RNN) language model.
 - [ConnectAI-E/Awesome-One-Click-Deployment](https://github.com/ConnectAI-E/Awesome-One-Click-Deployment) - Awesome-One-Click-Deployment is a tool for one-click deployment of various open-source AI projects on GitHub.
+- [EvolvingLMMs-Lab/Otter](https://github.com/EvolvingLMMs-Lab/Otter) - Otter is a multi-modal model built on OpenFlamingo that offers improved instruction-following and in-context learning abilities.
 - [Farama-Foundation/chatarena](https://github.com/Farama-Foundation/chatarena) - ChatArena is a multi-agent language game environment designed for enhancing communication and collaboration capabilities of AI through the development and training of language models.
 - [Luodian/Otter](https://github.com/Luodian/Otter) - Otter is a multi-modal model based on OpenFlamingo, designed for enhanced instruction-following and in-context learning, particularly using the MIMIC-IT dataset.
 - [NExT-GPT/NExT-GPT](https://github.com/NExT-GPT/NExT-GPT) - NExT-GPT is an advanced multimodal large language model designed for any-to-any processing of text, image, video, and audio.
