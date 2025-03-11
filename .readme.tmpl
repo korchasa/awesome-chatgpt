@@ -1,0 +1,41 @@
+{{- define "CategoryTOC" -}}
+{{- range . }}
+{{- if or .Items .Categories }}
+{{- $indent := mul .Depth 4 }}{{- printf "%*s" $indent "" }}- [{{ .Title }}](#{{ .Title | lower | replace " " "-" }}) {{ if .Items -}}({{ len .Items }}){{- end }}
+{{ if .Categories -}}
+{{ template "CategoryTOC" .Categories }}
+{{- end -}}
+{{- end }}
+{{ end -}}
+{{- end -}}
+
+{{- define "CategoryView" -}}
+{{- range . }}
+{{- if or .Items .Categories }}
+##{{- repeat .Depth "#" }} {{ .Title }}
+{{ if .Items -}}
+{{- range .Items }}
+- [{{ .Name }}]({{ .Link }}) (★{{ .Stars }} {{ .Language }}) - {{ .Summary }}
+{{- end }}
+{{- end }}
+{{ if .Categories -}}
+{{ template "CategoryView" .Categories }}
+{{- end -}}
+{{- end }}
+{{ end -}}
+{{- end -}}
+
+# {{ .Config.Project.Name }}
+
+> **Note:** {{ .Config.Project.Note }}
+
+{{ .Config.Project.Description | safeHTML }}
+
+Table of Contents:
+{{ template "CategoryTOC" .Categories }}
+
+{{ template "CategoryView" .Categories }}
+
+## License
+
+[<img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg">](https://creativecommons.org/publicdomain/zero/1.0/)

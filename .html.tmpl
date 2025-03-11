@@ -1,0 +1,314 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="{{ .Config.Project.Description }}">
+    <meta name="keywords" content="{{ .Config.Project.Website.Keywords }}">
+    <meta name="author" content="{{ .Config.Project.Website.Author }}">
+    <meta property="og:title" content="{{ .Config.Project.Name }}">
+    <meta property="og:description" content="{{ .Config.Project.Description }}">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="{{ .Config.Project.Website.URL }}">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="{{ .Config.Project.Name }}">
+    <meta name="twitter:description" content="{{ .Config.Project.Description }}">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;600&family=Roboto+Mono:wght@400;600&display=swap" rel="stylesheet">
+
+    <!-- Favicon and mobile icons -->
+    <link rel="icon" href="{{ .Config.Project.Website.Icons.Favicon }}" sizes="any">
+    <link rel="icon" href="{{ .Config.Project.Website.Icons.SVG }}" type="image/svg+xml">
+    <link rel="apple-touch-icon" href="{{ .Config.Project.Website.Icons.Apple }}">
+    <link rel="manifest" href="{{ .Config.Project.Website.Icons.Manifest }}">
+    <meta name="theme-color" content="{{ .Config.Project.Website.ThemeColor }}">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="default">
+
+    <title>{{ .Config.Project.Name }}</title>
+    <style>
+        body {
+            font-family: 'JetBrains Mono', 'Roboto Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace;
+            background-color: #f9f9f9;
+            color: #333;
+            margin: 0;
+            padding: 20px;
+            line-height: 1.8;
+            font-size: 16px;
+        }
+        h1, h2, h3, h4, h5, h6 {
+            margin: 2rem 0 1.2rem;
+            font-weight: 600;
+            line-height: 1.4;
+        }
+        h1 {
+            font-size: 2.5em;
+            margin: 1rem 0 2rem;
+            border-bottom: 2px solid #eaecef;
+            padding-bottom: 10px;
+        }
+        h2 {
+            font-size: 2em;
+            margin: 2.5rem 0 1.5rem;
+            border-bottom: 1px solid #eaecef;
+            padding-bottom: 8px;
+        }
+        h3 {
+            font-size: 1.25em;
+            margin: 2rem 0 1rem;
+        }
+        h4 {
+            font-size: 1em;
+            margin: 1.5rem 0 0.8rem;
+        }
+        p {
+            margin: 0 0 1.5rem;
+            max-width: 85ch;
+        }
+        ul {
+            list-style: none;
+            padding: 0;
+            margin: 0 0 2rem;
+        }
+        li {
+            margin: 1rem 0;
+            padding-left: 1em;
+            position: relative;
+            line-height: 1.6;
+        }
+        li::before {
+            content: "•";
+            position: absolute;
+            left: 0;
+            color: #0366d6;
+        }
+        a {
+            color: {{ .Config.Project.Website.ThemeColor }};
+            text-decoration: none;
+            border-bottom: 1px dotted transparent;
+            transition: border-color 0.2s ease;
+        }
+        a:hover {
+            border-bottom-color: {{ .Config.Project.Website.ThemeColor }};
+            text-decoration: none;
+        }
+        .note {
+            background-color: #e7f3fe;
+            border-left: 4px solid #007acc;
+            padding: 15px;
+            margin: 2.5rem 0;
+            border-radius: 4px;
+            font-size: 0.95em;
+        }
+        .license {
+            margin-top: 4rem;
+            margin-bottom: 2rem;
+            text-align: center;
+            padding: 1rem;
+            border-top: 1px solid #eee;
+        }
+        .stars {
+            color: #4d88ff;
+            font-weight: bold;
+            display: inline-block;
+            margin-right: 5px;
+            font-size: 0.9em;
+        }
+        .language {
+            color: #6a737d;
+            font-size: 0.9em;
+            display: inline-block;
+            margin-right: 8px;
+            margin-left: 3px;
+            background-color: #f1f1f1;
+            padding: 0.1rem 0.4rem;
+            border-radius: 3px;
+        }
+        .container {
+            max-width: 960px;
+            margin: 0 auto;
+            background: #fff;
+            padding: 40px 50px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+            border-radius: 8px;
+        }
+        header, nav, main, footer {
+            margin-bottom: 3rem;
+            padding: 0 15px;
+        }
+        section {
+            padding-bottom: 1rem;
+        }
+        section + section {
+            border-top: 1px dashed #eee;
+            padding-top: 1.5rem;
+        }
+        /* More compact TOC */
+        nav ul li {
+            margin: 0.3rem 0;
+            font-size: 0.95em;
+            line-height: 1.4;
+        }
+        /* Nested TOC elements */
+        nav ul ul {
+            margin: 0.3rem 0 0.3rem 0.8rem;
+        }
+        /* Style for item count in TOC */
+        nav ul li span {
+            color: #666;
+            font-size: 0.85em;
+        }
+        main ul li:hover {
+            border-left-color: #007acc;
+            background: #f5f9ff;
+        }
+        /* Styles for static menu */
+        .main-menu {
+            margin-bottom: 1rem;
+        }
+        .main-menu ul {
+            list-style: none;
+            padding: 0;
+            margin: 0;
+            display: flex;
+            gap: 1rem;
+        }
+        .main-menu li {
+            margin: 0;
+        }
+        .main-menu a {
+            color: #0366d6;
+            text-decoration: none;
+            font-weight: 500;
+        }
+        .main-menu a:hover {
+            text-decoration: underline;
+        }
+        /* Styles for back to TOC link */
+        .back-to-toc {
+            text-align: right;
+            font-size: 0.85em;
+            margin-top: 1rem;
+        }
+        .back-to-toc a {
+            color: #0366d6;
+            text-decoration: none;
+        }
+        .back-to-toc a:hover {
+            text-decoration: underline;
+        }
+    </style>
+
+    <!-- Schema.org markup for Google -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "{{ .Config.Project.Name }}",
+        "description": "{{ .Config.Project.Description }}",
+        "publisher": {
+            "@type": "Organization",
+            "name": "{{ .Config.Project.Website.Author }}"
+        },
+        "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "about": {
+            "@type": "ItemList",
+            "itemListElement": [
+                {
+                    "@type": "ListItem",
+                    "position": 1,
+                    "name": "Sharing contextual information with language models"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 2,
+                    "name": "Exposing tools and capabilities to AI systems"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 3,
+                    "name": "Building composable integrations and workflows"
+                }
+            ]
+        }
+    }
+    </script>
+</head>
+<body>
+    <div class="container">
+        <header role="banner">
+            <h1 id="awesome-ai-agents">{{ .Config.Project.Name }}</h1>
+            <nav class="main-menu">
+                <ul>
+                    <li><a href="https://github.com/{{ .Config.Project.Repository }}">GitHub</a></li>
+                </ul>
+            </nav>
+            <div class="note" role="note" aria-label="Important note about this repository">
+                <strong>Note:</strong> {{ .Config.Project.Note }}
+            </div>
+            <div>
+                {{ .Config.Project.Description | safeHTML }}
+            </div>
+        </header>
+
+        <nav role="navigation" aria-labelledby="toc-heading">
+            <h2 id="toc-heading">Table of Contents</h2>
+            {{- define "CategoryTOC" -}}
+            <ul>
+            {{- range . }}
+                <li style="margin-left: {{ mul .Depth 15 }}px;">
+                    <a href="#{{ .Title | lower | replace " " "-" }}" aria-label="Go to {{ .Title }} section">{{ .Title }}</a> {{ if .Items -}}<span aria-label="{{ len .Items }} items">({{ len .Items }})</span>{{- end }}
+                    {{ if .Categories -}}
+                    {{ template "CategoryTOC" .Categories }}
+                    {{- end -}}
+                </li>
+            {{ end -}}
+            </ul>
+            {{- end -}}
+            {{ template "CategoryTOC" .Categories }}
+        </nav>
+
+        <main role="main">
+            {{- define "CategoryView" -}}
+            {{- range . }}
+            <section aria-labelledby="{{ .Title | lower | replace " " "-" }}">
+                {{- $headingLevel := add 2 .Depth -}}
+                {{- if gt $headingLevel 6 -}}
+                    {{- $headingLevel = 6 -}}
+                {{- end -}}
+                <h{{ $headingLevel }} id="{{ .Title | lower | replace " " "-" }}">{{ .Title }}</h{{ $headingLevel }}>
+                {{ if .Items -}}
+                <ul aria-label="List of {{ .Title }} items">
+                {{- range .Items }}
+                    <li>
+                        <a href="{{ .Link }}" aria-label="{{ .Name }} - {{ .Stars }} stars, {{ .Language }}" target="_blank" rel="noopener">{{ .Name }}</a>
+                        <span class="stars" aria-hidden="true">⭐ {{ .Stars }}</span>
+                        <span class="language" aria-hidden="true">{{ .Language }}</span> -
+                        <span>{{ .Summary }}</span>
+                    </li>
+                {{- end }}
+                </ul>
+                <p class="back-to-toc"><a href="#toc-heading">↑ Back to TOC</a></p>
+                {{- end }}
+                {{ if .Categories -}}
+                {{ template "CategoryView" .Categories }}
+                {{- end -}}
+            </section>
+            {{ end -}}
+            {{- end -}}
+            {{ template "CategoryView" .Categories }}
+        </main>
+
+        <footer role="contentinfo">
+            <div class="license">
+                <h2 id="license">License</h2>
+                <a href="https://creativecommons.org/publicdomain/zero/1.0/" aria-label="Creative Commons Zero License">
+                    <img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg" alt="CC0 License" width="88" height="31" loading="lazy">
+                </a>
+            </div>
+        </footer>
+    </div>
+</body>
+</html>
