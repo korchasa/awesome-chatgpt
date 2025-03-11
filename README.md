@@ -89,7 +89,7 @@ Table of Contents:
 - [imaurer/awesome-decentralized-llm](https://github.com/imaurer/awesome-decentralized-llm) (★0 ) - This project is a collection of resources dedicated to using Large Language Models (LLMs) for creating owned products and conducting reproducible research.
 - [luban-agi/Awesome-AIGC-Tutorials](https://github.com/luban-agi/Awesome-AIGC-Tutorials) (★4094 ) - Awesome AIGC Tutorials is a curated collection of tutorials and resources focused on Large Language Models, AI Painting, and related topics.
 - [mattnigh/ChatGPT3-Free-Prompt-List](https://github.com/mattnigh/ChatGPT3-Free-Prompt-List) (★2152 Ruby) - A comprehensive guide and framework for engineering prompts with the language model ChatGPT3, created by @mattnigh.
-- [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) (★74668 Jupyter Notebook) - A comprehensive course consisting of 21 lessons to guide beginners in building Generative AI applications.
+- [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) (★74669 Jupyter Notebook) - A comprehensive course consisting of 21 lessons to guide beginners in building Generative AI applications.
 - [ml-tooling/best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python) (★19784 ) - This project is a ranked list of remarkable machine learning libraries for Python, updated weekly.
 - [nichtdax/awesome-totally-open-chatgpt](https://github.com/nichtdax/awesome-totally-open-chatgpt) (★4597 ) - A curated list of open alternatives to ChatGPT, providing detailed information about each project and a guideline for contributors.
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) (★62178 MDX) - The openai/openai-cookbook is a repository containing examples and guides for using the OpenAI API.
@@ -214,7 +214,7 @@ Table of Contents:
 - [Zero6992/chatGPT-discord-bot](https://github.com/Zero6992/chatGPT-discord-bot) (★2697 Python) - A Discord bot integrating ChatGPT for interactive AI conversations.
 - [askrella/whatsapp-chatgpt](https://github.com/askrella/whatsapp-chatgpt) (★3576 TypeScript) - The 'whatsapp-chatgpt' project by Askrella is a WhatsApp bot that uses OpenAI's GPT and DALL-E 2, allowing users to interact and get responses for their voice messages.
 - [codigoencasa/bot-whatsapp](https://github.com/codigoencasa/bot-whatsapp) (★0 JavaScript) - The 'bot-whatsapp' project allows users to create a WhatsApp chatbot effortlessly.
-- [codigoencasa/builderbot](https://github.com/codigoencasa/builderbot) (★2559 TypeScript) - BuilderBot is an open-source tool for quickly creating chatbots for WhatsApp.
+- [codigoencasa/builderbot](https://github.com/codigoencasa/builderbot) (★2560 TypeScript) - BuilderBot is an open-source tool for quickly creating chatbots for WhatsApp.
 
 
 ### Mobile applications
@@ -464,7 +464,7 @@ Table of Contents:
 - [PawanOsman/ChatGPT](https://github.com/PawanOsman/ChatGPT) (★5707 JavaScript) - The project by PawanOsman offers a free and self-hosted API access to the ChatGPT model.
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) (★19702 Python) - Haystack is an orchestration framework designed to build customizable, production-ready LLM applications.
 - [different-ai/obsidian-ava](https://github.com/different-ai/obsidian-ava) (★0 TypeScript) - AVA is an AI assistant designed to enhance note formatting in the Obsidian application.
-- [georgia-tech-db/evadb](https://github.com/georgia-tech-db/evadb) (★2658 Python) - EvaDB is a database system designed for building AI-powered applications with a simple SQL API.
+- [georgia-tech-db/evadb](https://github.com/georgia-tech-db/evadb) (★2659 Python) - EvaDB is a database system designed for building AI-powered applications with a simple SQL API.
 - [gmpetrov/databerry](https://github.com/gmpetrov/databerry) (★2930 TypeScript) - Databerry is a no-code platform for building custom LLM Agents.
 - [gridaco/assistant](https://github.com/gridaco/assistant) (★0 TypeScript) - Grida Assistant is a tool designed to bring Figma design and development workflows to the next level by converting designs into high-quality code.
 - [karthink/gptel](https://github.com/karthink/gptel) (★2163 Emacs Lisp) - gptel is a simple LLM client for Emacs providing multi-model support and integration.
