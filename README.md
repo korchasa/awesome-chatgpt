@@ -7,19 +7,19 @@ A curated list of awesome ChatGPT and OpenAI software.
 
 Table of Contents:
 - [Documentation and examples](#documentation-and-examples) 
-    - [Documentation, lists, guides, or examples](#documentation,-lists,-guides,-or-examples) (35)
+    - [Documentation, lists, guides, or examples](#documentation,-lists,-guides,-or-examples) (30)
 
-    - [Information about prompt engineering](#information-about-prompt-engineering) (19)
+    - [Information about prompt engineering](#information-about-prompt-engineering) (17)
 
 
 - [UIs](#uis) 
-    - [Desktop applications](#desktop-applications) (13)
+    - [Desktop applications](#desktop-applications) (12)
 
-    - [Browser extensions](#browser-extensions) (14)
+    - [Browser extensions](#browser-extensions) (13)
 
-    - [Web applications](#web-applications) (41)
+    - [Web applications](#web-applications) (30)
 
-    - [Messenger bots](#messenger-bots) (5)
+    - [Messenger bots](#messenger-bots) (4)
 
     - [Mobile applications](#mobile-applications) (4)
 
@@ -28,33 +28,31 @@ Table of Contents:
     - [Other user interfaces](#other-user-interfaces) (2)
 
 
-- [Addons, extensions, plug-ins for integrating LLM into third-party applications](#addons,-extensions,-plug-ins-for-integrating-llm-into-third-party-applications) (30)
+- [Addons, extensions, plug-ins for integrating LLM into third-party applications](#addons,-extensions,-plug-ins-for-integrating-llm-into-third-party-applications) (25)
 
 - [SDK, Libraries, Frameworks](#sdk,-libraries,-frameworks) 
-    - [Python library, sdk or frameworks](#python-library,-sdk-or-frameworks) (29)
+    - [Python library, sdk or frameworks](#python-library,-sdk-or-frameworks) (26)
 
     - [JavaScript/Typescript library, sdk or frameworks](#javascript/typescript-library,-sdk-or-frameworks) (4)
 
     - [Golang library, sdk or frameworks](#golang-library,-sdk-or-frameworks) (2)
 
-    - [C# library, sdk or frameworks](#c#-library,-sdk-or-frameworks) (3)
+    - [C# library, sdk or frameworks](#c#-library,-sdk-or-frameworks) (2)
 
-    - [Swift library, sdk or frameworks](#swift-library,-sdk-or-frameworks) (2)
+    - [Swift library, sdk or frameworks](#swift-library,-sdk-or-frameworks) (1)
 
     - [Kotlin library, sdk or frameworks](#kotlin-library,-sdk-or-frameworks) (1)
 
-    - [PHP library, sdk or frameworks](#php-library,-sdk-or-frameworks) (1)
+    - [ChatGPT plugins](#chatgpt-plugins) (2)
 
-    - [ChatGPT plugins](#chatgpt-plugins) (4)
-
-    - [Other sdk/libraries](#other-sdk/libraries) (5)
+    - [Other sdk/libraries](#other-sdk/libraries) (3)
 
 
-- [ChatGPT-based applications for regular users and specialized problems](#chatgpt-based-applications-for-regular-users-and-specialized-problems) (74)
+- [ChatGPT-based applications for regular users and specialized problems](#chatgpt-based-applications-for-regular-users-and-specialized-problems) (56)
 
-- [Other applications](#other-applications) (22)
+- [Other applications](#other-applications) (15)
 
-- [Other LLMs, other models and other not included in other categories](#other-llms,-other-models-and-other-not-included-in-other-categories) (19)
+- [Other LLMs, other models and other not included in other categories](#other-llms,-other-models-and-other-not-included-in-other-categories) (18)
 
 
 
@@ -73,20 +71,16 @@ Table of Contents:
 - [ahmetbersoz/chatgpt-prompts-for-academic-writing](https://github.com/ahmetbersoz/chatgpt-prompts-for-academic-writing) (★3637 ) - A GitHub repository that provides a variety of ChatGPT prompts assisting users in academic writing tasks, including brainstorming research ideas, improving language, conducting literature reviews, and developing research plans.
 - [ai-boost/Awesome-GPTs](https://github.com/ai-boost/Awesome-GPTs) (★3183 ) - Awesome-GPTs is a curated repository of innovative GPT models on the OpenAI platform.
 - [ai-boost/awesome-prompts](https://github.com/ai-boost/awesome-prompts) (★5811 ) - This repository is a curated collection of top-rated ChatGPT prompts for various applications.
-- [awesome-assistants/awesome-assistants](https://github.com/awesome-assistants/awesome-assistants) (★0 HTML) - Awesome assistants is a curated repository of various AI assistants available to help users with their daily tasks.
 - [awesome-gptX/awesome-gpt](https://github.com/awesome-gptX/awesome-gpt) (★1023 ) - An awe-inspiring collection of resources related to ChatGPT.
 - [billmei/every-chatgpt-gui](https://github.com/billmei/every-chatgpt-gui) (★3209 ) - A repository listing various front-end GUI clients for accessing the ChatGPT API.
 - [cedrickchee/awesome-transformer-nlp](https://github.com/cedrickchee/awesome-transformer-nlp) (★1082 ) - A curated repository of resources focused on NLP, specifically Transformer networks and related models.
-- [daveshap/ChatGPT_Custom_Instructions](https://github.com/daveshap/ChatGPT_Custom_Instructions) (★0 ) - This repository offers a collection of custom instructions that users can apply within ChatGPT.
 - [devisasari/awesome-gpt-store](https://github.com/devisasari/awesome-gpt-store) (★2008 ) - A curated list of amazing GPTs available in the GPT Store.
 - [eon01/awesome-chatgpt](https://github.com/eon01/awesome-chatgpt) (★2274 ) - A curated list of awesome ChatGPT resources, including libraries, SDKs, APIs, tools, and more.
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) (★121356 HTML) - The 'Awesome ChatGPT Prompts' is a curated collection of prompts for the ChatGPT model.
 - [filipecalegario/awesome-generative-ai](https://github.com/filipecalegario/awesome-generative-ai) (★2722 ) - A curated list of Generative AI tools, works, models, and references.
-- [formulahendry/awesome-gpt](https://github.com/formulahendry/awesome-gpt) (★0 ) - A curated list of awesome projects and resources related to GPT, ChatGPT, OpenAI, LLM, and more.
 - [humanloop/awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt) (★8215 ) - The 'humanloop/awesome-chatgpt' is a curated collection of tools, APIs, demo projects, documentation, and tutorials related to ChatGPT and OpenAI's GPT-3.
 - [hyp1231/awesome-llm-powered-agent](https://github.com/hyp1231/awesome-llm-powered-agent) (★1895 ) - This repository is a curated collection of resources about LLM-powered agents, highlighting key papers, repositories, and methodologies.
 - [ikaijua/Awesome-AITools](https://github.com/ikaijua/Awesome-AITools) (★4721 ) - This project is a collection of various AI-related utilities and tools.
-- [imaurer/awesome-decentralized-llm](https://github.com/imaurer/awesome-decentralized-llm) (★0 ) - This project is a collection of resources dedicated to using Large Language Models (LLMs) for creating owned products and conducting reproducible research.
 - [luban-agi/Awesome-AIGC-Tutorials](https://github.com/luban-agi/Awesome-AIGC-Tutorials) (★4094 ) - Awesome AIGC Tutorials is a curated collection of tutorials and resources focused on Large Language Models, AI Painting, and related topics.
 - [mattnigh/ChatGPT3-Free-Prompt-List](https://github.com/mattnigh/ChatGPT3-Free-Prompt-List) (★2152 Ruby) - A comprehensive guide and framework for engineering prompts with the language model ChatGPT3, created by @mattnigh.
 - [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) (★74669 Jupyter Notebook) - A comprehensive course consisting of 21 lessons to guide beginners in building Generative AI applications.
@@ -97,7 +91,6 @@ Table of Contents:
 - [sindresorhus/awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) (★5416 ) - The 'sindresorhus/awesome-chatgpt' repository is a compiled list of resources and applications related to the ChatGPT AI developed by OpenAI.
 - [snwfdhmp/awesome-gpt-prompt-engineering](https://github.com/snwfdhmp/awesome-gpt-prompt-engineering) (★1199 Python) - A curated list of awesome resources, tools, and other shiny things for GPT prompt engineering.
 - [taranjeet/awesome-gpts](https://github.com/taranjeet/awesome-gpts) (★1288 ) - Awesome GPTs is a collection of all the GPTs created by the community.
-- [xcfcode/Summarization-Papers](https://github.com/xcfcode/Summarization-Papers) (★0 TeX) - Summarization Papers is a comprehensive collection of resources and research on text summarization.
 - [xxxily/hello-ai](https://github.com/xxxily/hello-ai) (★1027 JavaScript) - This project serves as a comprehensive resource hub for connecting individuals with reliable AI tools and services.
 
 
@@ -118,10 +111,8 @@ Table of Contents:
 - [promptslab/Awesome-Prompt-Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering) (★4237 Python) - Awesome Prompt Engineering is a repository containing a hand-curated collection of resources focused on prompt engineering techniques for generative AI models.
 - [roboflow/awesome-openai-vision-api-experiments](https://github.com/roboflow/awesome-openai-vision-api-experiments) (★1677 Python) - A resource hub for experimenting with and building on the OpenAI Vision API, featuring various innovative applications and techniques.
 - [successfulstudy/promptoftheyear](https://github.com/successfulstudy/promptoftheyear) (★1470 ) - This project is a curated collection of effective prompts designed for various applications of Large Language Models (LLMs) across different domains.
-- [tg12/gpt_jailbreak_status](https://github.com/tg12/gpt_jailbreak_status) (★0 HTML) - This repository aims to provide timely updates on the status of jailbreaking the OpenAI GPT language model.
 - [trigaten/Learn_Prompting](https://github.com/trigaten/Learn_Prompting) (★4378 TeX) - Learn Prompting is a community-driven guide focused on Prompt Engineering, Generative AI, and LLMs.
 - [verazuo/jailbreak_llms](https://github.com/verazuo/jailbreak_llms) (★2997 Jupyter Notebook) - This project presents a dataset of jailbreak prompts collected for analyzing their impact on ChatGPT.
-- [yaodongC/awesome-instruction-dataset](https://github.com/yaodongC/awesome-instruction-dataset) (★0 ) - This project is a curated collection of open-source datasets for training instruction-following language models like ChatGPT and LLaMA.
 
 
 
@@ -133,7 +124,6 @@ Table of Contents:
 - [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) (★33080 TypeScript) - Chatbox is a desktop client for ChatGPT, Claude, and many other LLMs, available on Windows, Mac, and Linux.
 - [ItsPi3141/alpaca-electron](https://github.com/ItsPi3141/alpaca-electron) (★1308 JavaScript) - Alpaca Electron is the simplest way to run Alpaca (and other LLaMA-based local LLMs) on your own computer.
 - [Synaptrix/ChatGPT-Desktop](https://github.com/Synaptrix/ChatGPT-Desktop) (★1710 Vue) - ChatGPT-Desktop is a desktop client for the ChatGPT API designed to enhance productivity with a collection of useful features.
-- [chat2db/Chat2DB](https://github.com/chat2db/Chat2DB) (★0 Java) - Chat2DB is an intelligent SQL client and reporting tool that integrates ChatGPT capabilities for versatile database management.
 - [clidey/whodb](https://github.com/clidey/whodb) (★2932 TypeScript) - WhoDB is a lightweight, next-generation data explorer and database management tool that allows users to interact with multiple types of databases through a chat interface.
 - [dice2o/BingGPT](https://github.com/dice2o/BingGPT) (★9198 JavaScript) - BingGPT is a desktop application that provides access to Bing's AI-powered chat on Windows, macOS, and Linux.
 - [gnehs/subtitle-translator-electron](https://github.com/gnehs/subtitle-translator-electron) (★1636 ) - Subtitle Translator is a desktop application that translates subtitles using ChatGPT.
@@ -154,7 +144,6 @@ Table of Contents:
 - [interstellard/chatgpt-advanced](https://github.com/interstellard/chatgpt-advanced) (★6488 TypeScript) - WebChatGPT is a browser extension that enhances ChatGPT prompts with web results.
 - [josStorer/chatGPTBox](https://github.com/josStorer/chatGPTBox) (★10416 JavaScript) - ChatGPTBox is a browser extension that provides deep integration of ChatGPT into your browser, for free.
 - [kodu-ai/claude-coder](https://github.com/kodu-ai/claude-coder) (★1747 TypeScript) - Claude Coder is an AI-powered coding agent integrated into VSCode that assists users in turning their ideas into functional software applications.
-- [liady/ChatGPT-pdf](https://github.com/liady/ChatGPT-pdf) (★0 JavaScript) - ChatGPT Export and Share is a Chrome extension for downloading ChatGPT history to PNG, PDF, or a shareable link.
 - [nicepkg/aide](https://github.com/nicepkg/aide) (★2518 TypeScript) - Aide is a Visual Studio Code extension that streamlines code transformations and enhancements using AI.
 - [openai-translator/openai-translator](https://github.com/openai-translator/openai-translator) (★24262 TypeScript) - OpenAI Translator is a browser extension and cross-platform desktop application for translating and summarizing text across 55 languages using ChatGPT API.
 - [pionxzh/chatgpt-exporter](https://github.com/pionxzh/chatgpt-exporter) (★1479 TypeScript) - ChatGPT Exporter is a tool that enables the export of your ChatGPT conversation history.
@@ -171,29 +160,19 @@ Table of Contents:
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) (★36069 TypeScript) - Flowise is a web-based application that allows users to create customized LLM flows via a user-friendly drag & drop interface.
 - [FujiwaraChoki/MoneyPrinter](https://github.com/FujiwaraChoki/MoneyPrinter) (★11517 Python) - MoneyPrinter is a tool that automates the creation of YouTube Shorts by allowing users to input a video topic.
 - [GerevAI/gerev](https://github.com/GerevAI/gerev) (★2769 Python) - Gerev is an AI-powered enterprise search engine for efficiently finding documents and conversations within organizations.
-- [KnowledgeCanvas/knowledge](https://github.com/KnowledgeCanvas/knowledge) (★0 TypeScript) - Knowledge is a versatile tool designed for managing and interacting with various online content through saving, searching, and chat functionalities.
-- [ObservedObserver/viz-gpt](https://github.com/ObservedObserver/viz-gpt) (★0 TypeScript) - VizGPT is a chat interface tool that generates contextual data visualizations from tabular datasets using natural language queries.
 - [OvidijusParsiunas/deep-chat](https://github.com/OvidijusParsiunas/deep-chat) (★1873 TypeScript) - Deep Chat is a fully customizable AI chat component that can be easily integrated into your website.
-- [Ryan-yang125/ChatLLM-Web](https://github.com/Ryan-yang125/ChatLLM-Web) (★0 JavaScript) - ChatLLM Web is a web-based application designed for chatting with language models like Vicuna directly in the browser.
-- [SkywalkerDarren/chatWeb](https://github.com/SkywalkerDarren/chatWeb) (★0 Python) - ChatWeb is a web application that can crawl and extract content from web pages and various document formats to answer questions and generate summaries.
 - [TavernAI/TavernAI](https://github.com/TavernAI/TavernAI) (★2341 JavaScript) - TavernAI is a frontend platform that enhances storytelling and chat interactions with multiple AI language models.
 - [WongSaang/chatgpt-ui](https://github.com/WongSaang/chatgpt-ui) (★1592 Vue) - WongSaang/chatgpt-ui is a web-based client for ChatGPT, supporting multiple users, languages, and database connections for persistent data storage.
-- [YaoApp/yao](https://github.com/YaoApp/yao) (★0 Go) - Yao is a performance app engine that allows developers to efficiently create web services and applications using AI and a visual interface.
 - [abinthomasonline/repo2txt](https://github.com/abinthomasonline/repo2txt) (★1168 JavaScript) - This project is a web-based tool that converts GitHub repository contents into a single formatted text file.
-- [adrianhajdin/threads](https://github.com/adrianhajdin/threads) (★0 TypeScript) - A full-stack clone of the messaging app Threads built with Next.js 13, featuring community management and dynamic user interactions.
 - [all-in-aigc/gpts-works](https://github.com/all-in-aigc/gpts-works) (★1575 TypeScript) - GPTs Works is a third-party GPTs store that enables users to explore and search for various GPT models.
 - [anse-app/anse](https://github.com/anse-app/anse) (★1919 TypeScript) - Anse is a web application providing an improved user interface for AI chats, notably featuring support for ChatGPT, DALL-E, and Stable Diffusion.
 - [anse-app/chatgpt-demo](https://github.com/anse-app/chatgpt-demo) (★8021 TypeScript) - The project is a minimal web interface for the OpenAI GPT-3.5 Turbo ChatGPT API, providing an easy way to interact with the conversational AI model.
-- [bitswired/rustgpt](https://github.com/bitswired/rustgpt) (★0 Rust) - RustGPT is a web-based ChatGPT UI built with Rust and HTMX that emphasizes performance and simplicity.
 - [coaidev/coai](https://github.com/coaidev/coai) (★8034 TypeScript) - CoAI is a next-generation AI one-stop internationalization solution that supports multiple AI models with rich features.
-- [dillionverma/llm.report](https://github.com/dillionverma/llm.report) (★0 TypeScript) - llm.report is an open-source logging and analytics platform for analyzing OpenAI's ChatGPT API requests and costs.
 - [dqbd/tiktokenizer](https://github.com/dqbd/tiktokenizer) (★1009 TypeScript) - Tiktokenizer is a web-based tool for calculating tokens using OpenAI's tiktoken tokenizer.
 - [guangzhengli/ChatFiles](https://github.com/guangzhengli/ChatFiles) (★3311 TypeScript) - ChatFiles is a web application to chat with uploaded files using GPT and Embeddings, managed with Vercel.
 - [hahahumble/speechgpt](https://github.com/hahahumble/speechgpt) (★2760 TypeScript) - SpeechGPT is a web application that allows users to converse with ChatGPT, enhancing language skills and providing fun interaction.
-- [homanp/langchain-ui](https://github.com/homanp/langchain-ui) (★0 JavaScript) - LangChain UI is an open-source, no-code toolkit for creating and hosting chatbots.
 - [infiniflow/ragflow](https://github.com/infiniflow/ragflow) (★43752 Python) - RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine that leverages deep document understanding to provide accurate question-answering capabilities.
 - [microsoft/HydraLab](https://github.com/microsoft/HydraLab) (★1103 Java) - Hydra Lab is an intelligent framework for easily building and managing cloud testing infrastructures.
-- [miurla/babyagi-ui](https://github.com/miurla/babyagi-ui) (★0 TypeScript) - BabyAGI UI is a web application designed to provide an easy interface for running and developing BabyAGI.
 - [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) (★14899 TypeScript) - WebLLM is an in-browser inference engine that brings large language model capabilities directly to web applications without requiring server support.
 - [pashpashpash/vault-ai](https://github.com/pashpashpash/vault-ai) (★3322 JavaScript) - OP Vault is a web application that allows users to upload custom documents and interact with them through AI-driven question and answer capabilities.
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) (★33043 TypeScript) - SiYuan is a privacy-first, self-hosted personal knowledge management software designed for efficient information handling.
@@ -203,7 +182,6 @@ Table of Contents:
 - [steven-tey/novel](https://github.com/steven-tey/novel) (★14113 TypeScript) - Novel is an open-source Notion-style WYSIWYG editor featuring AI-powered autocompletion.
 - [supabase-community/nextjs-openai-doc-search](https://github.com/supabase-community/nextjs-openai-doc-search) (★1629 TypeScript) - A template for building a custom ChatGPT-style documentation search using Next.js, OpenAI, and Supabase.
 - [wasp-lang/open-saas](https://github.com/wasp-lang/open-saas) (★9752 TypeScript) - Open SaaS is a free, open-source SaaS app starter template for developers using React and Node.js.
-- [waylaidwanderer/PandoraAI](https://github.com/waylaidwanderer/PandoraAI) (★0 Vue) - PandoraAI is a web chat client that enables users to communicate with multiple AI systems using a seamless interface.
 - [xtekky/chatgpt-clone](https://github.com/xtekky/chatgpt-clone) (★3521 Python) - The ChatGPT Clone project is aiming to build a better user interface for the original ChatGPT model.
 - [ztjhz/BetterChatGPT](https://github.com/ztjhz/BetterChatGPT) (★8334 TypeScript) - BetterChatGPT is a web and desktop application aimed at enhancing user interaction with OpenAI's ChatGPT through a host of utility features.
 
@@ -213,7 +191,6 @@ Table of Contents:
 - [RafalWilinski/telegram-chatgpt-concierge-bot](https://github.com/RafalWilinski/telegram-chatgpt-concierge-bot) (★1134 TypeScript) - A Telegram bot that allows interaction with ChatGPT and converts voice to text and the other way round.
 - [Zero6992/chatGPT-discord-bot](https://github.com/Zero6992/chatGPT-discord-bot) (★2697 Python) - A Discord bot integrating ChatGPT for interactive AI conversations.
 - [askrella/whatsapp-chatgpt](https://github.com/askrella/whatsapp-chatgpt) (★3576 TypeScript) - The 'whatsapp-chatgpt' project by Askrella is a WhatsApp bot that uses OpenAI's GPT and DALL-E 2, allowing users to interact and get responses for their voice messages.
-- [codigoencasa/bot-whatsapp](https://github.com/codigoencasa/bot-whatsapp) (★0 JavaScript) - The 'bot-whatsapp' project allows users to create a WhatsApp chatbot effortlessly.
 - [codigoencasa/builderbot](https://github.com/codigoencasa/builderbot) (★2560 TypeScript) - BuilderBot is an open-source tool for quickly creating chatbots for WhatsApp.
 
 
@@ -253,17 +230,13 @@ Table of Contents:
 ## Addons, extensions, plug-ins for integrating LLM into third-party applications
 
 - [0x676e67/ninja](https://github.com/0x676e67/ninja) (★1711 Rust) - The project is a reverse engineered ChatGPT proxy offering various functionalities.
-- [KoushikNavuluri/Claude-API](https://github.com/KoushikNavuluri/Claude-API) (★0 Python) - This project provides an unofficial API for Claude AI, allowing users to access and interact with Claude AI.
 - [PhoebusSi/Alpaca-CoT](https://github.com/PhoebusSi/Alpaca-CoT) (★2701 Jupyter Notebook) - Alpaca-CoT is a platform designed for easy integration and instruction-tuning of large language models.
-- [SciSharp/BotSharp](https://github.com/SciSharp/BotSharp) (★0 SCSS) - BotSharp is an open source machine learning framework for creating AI bot applications in the .NET ecosystem.
 - [ShishirPatil/gorilla](https://github.com/ShishirPatil/gorilla) (★11871 Python) - Gorilla is an innovative API store that empowers Large Language Models to effectively connect and invoke a wide range of APIs.
 - [WPeace-HcH/WPeChatGPT](https://github.com/WPeace-HcH/WPeChatGPT) (★1079 Python) - WPeChatGPT is an IDA plugin that enhances binary file analysis using OpenAI's gpt-3.5-turbo model.
-- [ahmadbilaldev/langui](https://github.com/ahmadbilaldev/langui) (★0 HTML) - LangUI is an open-source collection of beautifully designed Tailwind components specifically created for AI and LLM projects.
 - [ai-genie/chatgpt-vscode](https://github.com/ai-genie/chatgpt-vscode) (★1247 ) - An AI-driven pair programming extension utilizing ChatGPT for Visual Studio Code.
 - [bookfere/Ebook-Translator-Calibre-Plugin](https://github.com/bookfere/Ebook-Translator-Calibre-Plugin) (★1884 Python) - A Calibre plugin that translates ebooks into multiple languages using various translation engines.
 - [brianpetro/obsidian-smart-connections](https://github.com/brianpetro/obsidian-smart-connections) (★3389 JavaScript) - Smart Connections is an AI-powered plugin for Obsidian that helps users organize, link, and chat with their notes effortlessly.
 - [continuedev/continue](https://github.com/continuedev/continue) (★24336 Python) - Continue is an open-source autopilot for VS Code and JetBrains, designed to enhance coding with any LLM.
-- [diemus/azure-openai-proxy](https://github.com/diemus/azure-openai-proxy) (★0 Go) - A proxy for Azure OpenAI API that can convert an OpenAI request into an Azure OpenAI request.
 - [gencay/vscode-chatgpt](https://github.com/gencay/vscode-chatgpt) (★3500 TypeScript) - An unofficial VS Code extension that integrates OpenAI ChatGPT into the programming environment.
 - [hiyouga/FastEdit](https://github.com/hiyouga/FastEdit) (★1318 Python) - FastEdit is a tool for editing large language models within a rapid 10-second timeframe.
 - [intitni/CopilotForXcode](https://github.com/intitni/CopilotForXcode) (★8024 Swift) - Copilot for Xcode is an extension that integrates AI coding assistants like GitHub Copilot, Codeium, and ChatGPT into the Xcode development environment.
@@ -278,10 +251,9 @@ Table of Contents:
 - [sozercan/kubectl-ai](https://github.com/sozercan/kubectl-ai) (★1066 Go) - Kubectl plugin for generating and applying Kubernetes manifests using OpenAI's GPT.
 - [stulzq/azure-openai-proxy](https://github.com/stulzq/azure-openai-proxy) (★1349 Go) - This project provides a proxy solution to convert OpenAI API requests to Azure OpenAI API requests, facilitating easy access to Azure services.
 - [tensorchord/pgvecto.rs](https://github.com/tensorchord/pgvecto.rs) (★1953 Rust) - pgvecto.rs is a scalable vector database plugin for PostgreSQL written in Rust, designed to enhance vector similarity search capabilities for LLMs.
-- [toolkit-ai/toolkit-ai](https://github.com/toolkit-ai/toolkit-ai) (★0 TypeScript) - Toolkit AI is a project that simplifies the generation and use of AI plugins, particularly for LangChain and ChatGPT.
 - [xiangsx/gpt4free-ts](https://github.com/xiangsx/gpt4free-ts) (★7757 TypeScript) - This project is a TypeScript implementation of a free API for OpenAI's GPT-4, allowing users to access various GPT models easily.
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) (★63779 Python) - gpt4free is a repository designed to demonstrate an API package that integrates various powerful language models.
-- [yamadashy/repomix](https://github.com/yamadashy/repomix) (★12761 TypeScript) - Repomix is a tool designed to pack repositories into an AI-friendly format for use with Large Language Models.
+- [yamadashy/repomix](https://github.com/yamadashy/repomix) (★12762 TypeScript) - Repomix is a tool designed to pack repositories into an AI-friendly format for use with Large Language Models.
 
 
 ## SDK, Libraries, Frameworks
@@ -293,15 +265,13 @@ Table of Contents:
 - [BlinkDL/RWKV-LM](https://github.com/BlinkDL/RWKV-LM) (★13330 Python) - RWKV is a novel RNN architecture that achieves transformer-level performance while being fully attention-free and parallelizable for both training and inference.
 - [Chainlit/chainlit](https://github.com/Chainlit/chainlit) (★8804 TypeScript) - Chainlit is an open-source framework that allows developers to build scalable Conversational AI applications rapidly.
 - [OptimalScale/LMFlow](https://github.com/OptimalScale/LMFlow) (★8370 Python) - LMFlow is an extensible toolkit designed for finetuning and inference of large foundation models.
-- [Torantulino/AI-Functions](https://github.com/Torantulino/AI-Functions) (★0 Python) - AI Functions is a Python library that simplifies function execution using GPT models, allowing developers to automate coding tasks easily.
 - [Upsonic/Upsonic](https://github.com/Upsonic/Upsonic) (★6136 Python) - Upsonic is an AI agent framework designed for orchestrating large language model tasks for digital workers and vertical AI agents, focusing on scalability and task-oriented design.
 - [eth-sri/lmql](https://github.com/eth-sri/lmql) (★3851 Python) - LMQL is a programming language designed for efficient and constraint-guided interactions with large language models.
 - [farizrahman4u/loopgpt](https://github.com/farizrahman4u/loopgpt) (★1446 Python) - L♾️pGPT is a modular Auto-GPT framework designed for creating extensible and customizable AI agents.
 - [h2oai/h2o-llmstudio](https://github.com/h2oai/h2o-llmstudio) (★4209 Python) - H2O LLM Studio is a no-code framework for fine-tuning large language models.
 - [jackmpcollins/magentic](https://github.com/jackmpcollins/magentic) (★2219 Python) - Magentic is a Python library that enables seamless integration of Large Language Models into Python code using decorators.
-- [kyegomez/LongNet](https://github.com/kyegomez/LongNet) (★0 Python) - LongNet is an implementation of a Transformer architecture capable of scaling to 1 billion tokens for enhanced sequence processing.
 - [kyegomez/swarms](https://github.com/kyegomez/swarms) (★4691 Python) - Swarms is a multi-agent orchestration framework for building and managing reliable swarms of autonomous agents in workflow automation.
-- [langflow-ai/langflow](https://github.com/langflow-ai/langflow) (★50985 Python) - Langflow is a low-code app builder for creating RAG and multi-agent AI applications with a Python-based, flexible workflow management system.
+- [langflow-ai/langflow](https://github.com/langflow-ai/langflow) (★50986 Python) - Langflow is a low-code app builder for creating RAG and multi-agent AI applications with a Python-based, flexible workflow management system.
 - [langroid/langroid](https://github.com/langroid/langroid) (★3130 Python) - Langroid is a Python framework that enables developers to harness LLMs through a multi-agent programming approach.
 - [lifeiteng/vall-e](https://github.com/lifeiteng/vall-e) (★2101 Python) - This project is a PyTorch implementation of VALL-E, a zero-shot text-to-speech synthesizer.
 - [marqo-ai/marqo](https://github.com/marqo-ai/marqo) (★4793 Python) - Marqo is an end-to-end vector search engine for text and images, simplifying the process of vector generation, storage, and retrieval through a single API.
@@ -316,7 +286,6 @@ Table of Contents:
 - [shroominic/codeinterpreter-api](https://github.com/shroominic/codeinterpreter-api) (★3825 Python) - An open source Python library providing ChatGPT Code Interpreter functionalities on top of LangChain, with sandboxed Python code execution using CodeBoxes as backend.
 - [snowby666/poe-api-wrapper](https://github.com/snowby666/poe-api-wrapper) (★1031 Python) - A Python API wrapper that provides free access to various AI models like GPT-4 and Claude.
 - [sobelio/llm-chain](https://github.com/sobelio/llm-chain) (★1446 Rust) - `llm-chain` is a powerful Rust crate for building chains in large language models to summarize text and complete complex tasks.
-- [voidful/TextRL](https://github.com/voidful/TextRL) (★0 Python) - TextRL is a Python library that utilizes reinforcement learning to enhance text generation across various models.
 - [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache) (★7446 Python) - GPTCache is a Python library that creates a semantic cache for optimizing queries to large language models.
 
 
@@ -337,14 +306,12 @@ Table of Contents:
 ### C# library, sdk or frameworks
 
 - [OkGoDoIt/OpenAI-API-dotnet](https://github.com/OkGoDoIt/OpenAI-API-dotnet) (★1884 C#) - An unofficial C#/.NET SDK for accessing the OpenAI GPT-3 API.
-- [SciSharp/LLamaSharp](https://github.com/SciSharp/LLamaSharp) (★0 C#) - LLamaSharp is a library that enables efficient local execution of LLaMA and GPT AI models using C#.
 - [betalgo/openai](https://github.com/betalgo/openai) (★2940 C#) - A .NET library for accessing OpenAI's API, assisting developers in integrating OpenAI capabilities into their applications.
 
 
 ### Swift library, sdk or frameworks
 
 - [adamrushy/OpenAISwift](https://github.com/adamrushy/OpenAISwift) (★1668 Swift) - OpenAISwift is a Swift library providing a convenient wrapper around the OpenAI HTTP API for easy integration into apps.
-- [dylanshine/openai-kit](https://github.com/dylanshine/openai-kit) (★0 Swift) - OpenAIKit is a Swift package used to communicate with the OpenAI API.
 
 
 ### Kotlin library, sdk or frameworks
@@ -352,25 +319,16 @@ Table of Contents:
 - [aallam/openai-kotlin](https://github.com/aallam/openai-kotlin) (★1622 Kotlin) - OpenAI API client for Kotlin with multiplatform and coroutines capabilities.
 
 
-### PHP library, sdk or frameworks
-
-- [orhanerday/open-ai](https://github.com/orhanerday/open-ai) (★0 PHP) - This repository offers a PHP SDK for integrating with OpenAI's GPT-3 and DALL-E APIs.
-
-
 ### ChatGPT plugins
 
 - [PickleBoxer/dev-chatgpt-prompts](https://github.com/PickleBoxer/dev-chatgpt-prompts) (★1535 ) - A personal collection of ChatGPT prompts designed to assist developers in their creative and coding tasks.
 - [openai/plugins-quickstart](https://github.com/openai/plugins-quickstart) (★4239 Python) - The 'openai/plugins-quickstart' project provides a quickstart guide to implement a TODO list plugin in ChatGPT using Python.
-- [santiagobasulto/ipython-gpt](https://github.com/santiagobasulto/ipython-gpt) (★0 Python) - An extension for integrating ChatGPT into Jupyter Notebooks and the IPython Shell.
-- [ykdojo/kaguya](https://github.com/ykdojo/kaguya) (★0 JavaScript) - Kaguya is a ChatGPT plugin that enables users to load and manipulate local files and execute scripts directly from the ChatGPT interface.
 
 
 ### Other sdk/libraries
 
 - [alexrudall/ruby-openai](https://github.com/alexrudall/ruby-openai) (★2967 Ruby) - A Ruby SDK that interacts with the OpenAI API for various AI functionalities.
-- [confident-ai/deepeval](https://github.com/confident-ai/deepeval) (★0 Python) - DeepEval is an open-source evaluation framework for testing large-language model outputs.
 - [jtsang4/claude-to-chatgpt](https://github.com/jtsang4/claude-to-chatgpt) (★1282 Python) - Claude to ChatGPT is a project for converting Anthropic's Claude model API into OpenAI Chat API format.
-- [transitive-bullshit/bing-chat](https://github.com/transitive-bullshit/bing-chat) (★0 TypeScript) - This project is a Node.js client for the unofficial Bing Chat API, enabling developers to interact with AI-powered search features.
 - [zjunlp/EasyEdit](https://github.com/zjunlp/EasyEdit) (★2120 Jupyter Notebook) - EasyEdit is an easy-to-use framework designed for knowledge editing in large language models (LLMs).
 
 
@@ -381,35 +339,27 @@ Table of Contents:
 - [AI4Finance-Foundation/FinGPT](https://github.com/AI4Finance-Foundation/FinGPT) (★15165 Jupyter Notebook) - FinGPT is an open-source project that provides a large language model specifically designed for financial applications.
 - [AI4Finance-Foundation/FinRobot](https://github.com/AI4Finance-Foundation/FinRobot) (★2537 Jupyter Notebook) - FinRobot is an open-source AI agent platform designed for advanced financial analysis using large language models.
 - [AIHawk-FOSS/Auto_Jobs_Applier_AI_Agent](https://github.com/AIHawk-FOSS/Auto_Jobs_Applier_AI_Agent) (★23738 Python) - Auto_Jobs_Applier_AI_Agent is an AI-powered tool designed to automate the job application process, helping users apply for jobs more efficiently.
-- [AirCodeLabs/documate](https://github.com/AirCodeLabs/documate) (★0 TypeScript) - Documate is an open-source tool that allows users to embed AI chat dialog into documentation sites, providing instant answers based on the site's content.
 - [Anil-matcha/Awesome-GPT-Store](https://github.com/Anil-matcha/Awesome-GPT-Store) (★1466 ) - Awesome GPT Store is a curated collection of specialized Custom GPT chatbots designed for various user tasks.
 - [Anil-matcha/ChatPDF](https://github.com/Anil-matcha/ChatPDF) (★1464 Python) - ChatPDF allows users to engage in conversations with PDF documents, providing instant answers and document summarizations through AI.
 - [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) (★81799 TypeScript) - NextChat offers a cross-platform AI assistant with a user-friendly web interface, supporting multiple AI models.
 - [FunAudioLLM/CosyVoice](https://github.com/FunAudioLLM/CosyVoice) (★11726 Python) - CosyVoice is a multi-lingual large voice generation model providing complete inference, training, and deployment capabilities.
 - [Guru322/GURU-Ai](https://github.com/Guru322/GURU-Ai) (★1101 JavaScript) - GURU Ai is an artificial intelligence project designed to offer complex functionalities in a simple manner.
 - [IntelligenzaArtificiale/Free-Auto-GPT](https://github.com/IntelligenzaArtificiale/Free-Auto-GPT) (★2497 Python) - The Free Auto GPT is an open-source project that offers an autonomous AI agent capable of performing tasks independently without the need for paid APIs.
-- [Kav-K/GPTDiscord](https://github.com/Kav-K/GPTDiscord) (★0 Python) - GPTDiscord is a comprehensive GPT-3 interface for Discord that enhances user interactions with features like AI moderation, image generation, and custom knowledge bases.
-- [KeJunMao/ai-anything](https://github.com/KeJunMao/ai-anything) (★0 Vue) - AI Anything is a platform that enables anyone to create their own ChatGPT tools with ease.
 - [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) (★37249 Python) - OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
-- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) (★0 JavaScript) - AnythingLLM is an open-source application that allows users to interact with various LLMs while managing documents and user permissions.
 - [OpenGVLab/Ask-Anything](https://github.com/OpenGVLab/Ask-Anything) (★3179 Python) - Ask-Anything is a chatbot framework that combines video understanding with various language models including ChatGPT.
 - [OpenInterpreter/open-interpreter](https://github.com/OpenInterpreter/open-interpreter) (★58660 Python) - Open Interpreter is a natural language interface for executing commands and programming locally.
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) (★37503 TypeScript) - Quivr is a generative AI-powered personal productivity assistant that helps users manage and interact with their documents and applications.
 - [SamurAIGPT/EmbedAI](https://github.com/SamurAIGPT/EmbedAI) (★2802 JavaScript) - EmbedAI is a private QnA chatbot app that allows users to interact with their documents securely and offline using the power of local large language models.
 - [SamurAIGPT/Open-Custom-GPT](https://github.com/SamurAIGPT/Open-Custom-GPT) (★1621 JavaScript) - Open Custom GPT is a no-code platform that allows users to create and embed custom GPT instances on their websites using the Assistant API.
 - [ShareGPT4Omni/ShareGPT4Video](https://github.com/ShareGPT4Omni/ShareGPT4Video) (★1045 Python) - ShareGPT4Video is an advanced implementation focused on improving video comprehension and generation using enhanced AI-generated captions.
-- [StanGirard/quivr](https://github.com/StanGirard/quivr) (★0 TypeScript) - Quivr is a personal productivity assistant that uses Generative AI to allow users to chat with their documents and applications.
 - [TBXark/ChatGPT-Telegram-Workers](https://github.com/TBXark/ChatGPT-Telegram-Workers) (★3617 JavaScript) - ChatGPT-Telegram-Workers enables users to easily deploy their own Telegram ChatGPT bot on Cloudflare Workers.
 - [THUDM/WebGLM](https://github.com/THUDM/WebGLM) (★1583 Python) - WebGLM is an efficient web-enhanced question answering system aimed at improving the accuracy and engagement of responses.
 - [TencentQQGYLab/AppAgent](https://github.com/TencentQQGYLab/AppAgent) (★5574 Python) - AppAgent is a multimodal agent framework based on LLM for operating smartphone applications through mimicked human interactions.
 - [Upsonic/gpt-computer-assistant](https://github.com/Upsonic/gpt-computer-assistant) (★5776 Python) - GCA is an open-source AI agent framework to automate computer tasks across multiple operating systems.
 - [adrianhajdin/project_openai_codex](https://github.com/adrianhajdin/project_openai_codex) (★1336 JavaScript) - The project offers a buildable and deployable ChatGPT AI application to assist developers in coding.
 - [ai-shifu/ChatALL](https://github.com/ai-shifu/ChatALL) (★15622 JavaScript) - ChatALL allows users to chat concurrently with multiple AI bots to find the best responses.
-- [akshata29/entaoai](https://github.com/akshata29/entaoai) (★0 TypeScript) - The project allows users to chat and ask questions about their enterprise data using OpenAI services.
 - [anc95/ChatGPT-CodeReview](https://github.com/anc95/ChatGPT-CodeReview) (★4180 JavaScript) - A GitHub bot that uses ChatGPT to conduct automatic code reviews on pull requests.
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) (★15425 Python) - DocsGPT is an AI-powered chatbot designed to assist users in retrieving information from project documentation.
-- [aschmelyun/subvert](https://github.com/aschmelyun/subvert) (★0 PHP) - Subvert is a tool that generates subtitles, summaries, and chapters from videos in seconds using OpenAI's technologies.
-- [bionic-gpt/bionic-gpt](https://github.com/bionic-gpt/bionic-gpt) (★0 Rust) - BionicGPT is an on-premise replacement for ChatGPT, enabling users to harness generative AI while ensuring data confidentiality and security.
 - [botpress/botpress](https://github.com/botpress/botpress) (★13359 TypeScript) - Botpress is an open-source platform for building and deploying GPT/LLM-based chatbots and assistants.
 - [casibase/casibase](https://github.com/casibase/casibase) (★3181 JavaScript) - Casibase is an open-source AI knowledge database that features a web UI and supports multiple AI models.
 - [cogentapps/chat-with-gpt](https://github.com/cogentapps/chat-with-gpt) (★2343 TypeScript) - Chat with GPT is an open-source, ChatGPT application providing customization features and voice integration
@@ -429,9 +379,7 @@ Table of Contents:
 - [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) (★57427 TypeScript) - Lobe Chat is an open-source, high-performance chatbot framework that supports speech synthesis and an extensible plugin system for ChatGPT and other language models.
 - [lupantech/chameleon-llm](https://github.com/lupantech/chameleon-llm) (★1119 Jupyter Notebook) - Chameleon is a plug-and-play framework that enhances compositional reasoning with large language models like GPT-4.
 - [mattzcarey/code-review-gpt](https://github.com/mattzcarey/code-review-gpt) (★1896 TypeScript) - A personal code reviewer powered by Large Language Models that helps improve code quality and catch bugs before deployment.
-- [mayooear/langchain-supabase-website-chatbot](https://github.com/mayooear/langchain-supabase-website-chatbot) (★0 TypeScript) - Build a ChatGPT chatbot for your website using LangChain, Supabase, Typescript, OpenAI, and Next.js.
 - [melih-unsal/DemoGPT](https://github.com/melih-unsal/DemoGPT) (★1782 Python) - DemoGPT is an open-source tool that simplifies the creation of LangChain applications using prompts, enabling users to generate interactive applications effortlessly.
-- [michaelthwan/searchGPT](https://github.com/michaelthwan/searchGPT) (★0 Python) - searchGPT is an open-source RAG-based search engine that utilizes LLM technology to provide natural language answers sourced from web and file content.
 - [microsoft/PromptCraft-Robotics](https://github.com/microsoft/PromptCraft-Robotics) (★1969 Python) - PromptCraft-Robotics is a community project for applying LLMs to robotics, featuring a robot simulator with ChatGPT integration.
 - [microsoft/promptflow](https://github.com/microsoft/promptflow) (★10057 Python) - Prompt flow is a development suite for creating high-quality LLM-based applications, focusing on tools for prototyping, testing, and deployment.
 - [myreader-io/myGPTReader](https://github.com/myreader-io/myGPTReader) (★4440 Python) - myGPTReader is a community-driven tool that allows users to read and chat with AI bots powered by ChatGPT.
@@ -440,42 +388,27 @@ Table of Contents:
 - [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) (★12223 Python) - Onyx is an AI-powered chat assistant tailored for teams, leveraging unique organizational knowledge.
 - [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (★14419 Go) - OpenIM is an open-source instant messaging solution designed for developers to integrate chat features into applications.
 - [paulpierre/RasaGPT](https://github.com/paulpierre/RasaGPT) (★2406 Python) - RasaGPT is a headless LLM chatbot platform built on Rasa and Langchain for creating specialized bot experiences.
-- [pgosar/ChatGDB](https://github.com/pgosar/ChatGDB) (★0 Python) - ChatGDB enhances the debugging experience by integrating ChatGPT into GDB and LLDB debuggers.
-- [prompt-engineering/chat-flow](https://github.com/prompt-engineering/chat-flow) (★0 TypeScript) - ChatFlow is an AI-based framework for personalizing ChatGPT workflows and automating chat interactions.
-- [prompt-engineering/click-prompt](https://github.com/prompt-engineering/click-prompt) (★0 TypeScript) - ClickPrompt is a user-friendly tool that simplifies the design and execution of AI prompts.
-- [psychic-api/rag-stack](https://github.com/psychic-api/rag-stack) (★0 TypeScript) - RAGstack is a tool for deploying a private alternative to ChatGPT within organizational infrastructure, enhancing LLM capabilities by connecting to corporate knowledge bases.
 - [run-llama/rags](https://github.com/run-llama/rags) (★6421 Python) - RAGs is a Streamlit app that allows users to build a retrieval-augmented generation (RAG) pipeline using natural language for personalized chatbot interactions over their data.
-- [showlab/Image2Paragraph](https://github.com/showlab/Image2Paragraph) (★0 Python) - Image2Paragraph is a toolbox that transforms images into unique textual paragraphs using AI models like ChatGPT and BLIP2.
-- [sunner/ChatALL](https://github.com/sunner/ChatALL) (★0 JavaScript) - ChatALL is an application that allows users to chat concurrently with multiple AI bots to discover the best responses.
 - [ttengwang/Caption-Anything](https://github.com/ttengwang/Caption-Anything) (★1719 Python) - Caption-Anything is a versatile tool that combines image segmentation, visual captioning, and ChatGPT to generate customized captions based on user preferences.
-- [uezo/ChatdollKit](https://github.com/uezo/ChatdollKit) (★0 C#) - ChatdollKit enables the creation of personalized voice-enabled chatbots using customizable 3D models.
 - [vercel/ai-chatbot](https://github.com/vercel/ai-chatbot) (★13868 TypeScript) - Vercel AI Chatbot is a hackable, full-featured chatbot template built with Next.js and the Vercel AI SDK.
-- [webwhiz-ai/webwhiz](https://github.com/webwhiz-ai/webwhiz) (★0 TypeScript) - WebWhiz allows users to create AI chatbots that are trained on their website data to respond instantly to customer inquiries.
 
 
 ## Other applications
 
 - [Aider-AI/aider](https://github.com/Aider-AI/aider) (★28963 Python) - Aider is an AI-powered tool that assists developers in pair programming directly in their terminal, enhancing productivity by integrating with local git repositories.
 - [Drakkar-Software/OctoBot](https://github.com/Drakkar-Software/OctoBot) (★3843 Python) - OctoBot is a powerful open-source cryptocurrency trading bot that enables users to automate their trading strategies.
-- [GAIR-NLP/factool](https://github.com/GAIR-NLP/factool) (★0 Python) - FacTool is a tool for detecting factuality errors in texts generated by large language models.
 - [KwaiKEG/KwaiAgents](https://github.com/KwaiKEG/KwaiAgents) (★1136 Python) - KwaiAgents is a generalized information-seeking agent system utilizing Large Language Models.
-- [MichelNivard/gptstudio](https://github.com/MichelNivard/gptstudio) (★0 R) - gptstudio is an R package that provides addins for RStudio to assist programmers with coding, writing, and analysis using large language models.
 - [OpenGVLab/InternGPT](https://github.com/OpenGVLab/InternGPT) (★3214 Python) - InternGPT is an open-source demo platform that enables users to interact with various AI models through visual interaction methods.
 - [PawanOsman/ChatGPT](https://github.com/PawanOsman/ChatGPT) (★5707 JavaScript) - The project by PawanOsman offers a free and self-hosted API access to the ChatGPT model.
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) (★19702 Python) - Haystack is an orchestration framework designed to build customizable, production-ready LLM applications.
-- [different-ai/obsidian-ava](https://github.com/different-ai/obsidian-ava) (★0 TypeScript) - AVA is an AI assistant designed to enhance note formatting in the Obsidian application.
 - [georgia-tech-db/evadb](https://github.com/georgia-tech-db/evadb) (★2659 Python) - EvaDB is a database system designed for building AI-powered applications with a simple SQL API.
 - [gmpetrov/databerry](https://github.com/gmpetrov/databerry) (★2930 TypeScript) - Databerry is a no-code platform for building custom LLM Agents.
-- [gridaco/assistant](https://github.com/gridaco/assistant) (★0 TypeScript) - Grida Assistant is a tool designed to bring Figma design and development workflows to the next level by converting designs into high-quality code.
 - [karthink/gptel](https://github.com/karthink/gptel) (★2163 Emacs Lisp) - gptel is a simple LLM client for Emacs providing multi-model support and integration.
-- [mem0ai/mem0](https://github.com/mem0ai/mem0) (★25487 Python) - Mem0 is an open-source memory layer designed to enhance AI applications with intelligent memory capabilities for personalized interactions.
+- [mem0ai/mem0](https://github.com/mem0ai/mem0) (★25488 Python) - Mem0 is an open-source memory layer designed to enhance AI applications with intelligent memory capabilities for personalized interactions.
 - [olimorris/codecompanion.nvim](https://github.com/olimorris/codecompanion.nvim) (★2695 Lua) - CodeCompanion.nvim is an AI-powered coding assistant for Neovim that supports various LLMs to improve coding productivity.
 - [p0n1/epub_to_audiobook](https://github.com/p0n1/epub_to_audiobook) (★1384 Python) - This project is a command-line tool that converts EPUB ebooks into audiobooks optimized for Audiobookshelf.
 - [protectai/llm-guard](https://github.com/protectai/llm-guard) (★1480 Python) - LLM Guard is a security toolkit designed to enhance the safety of interactions with Large Language Models.
-- [psychic-api/psychic](https://github.com/psychic-api/psychic) (★0 TypeScript) - A data integration platform that allows connections to SaaS tools and syncs documents from various data sources.
-- [rksm/org-ai](https://github.com/rksm/org-ai) (★0 Emacs Lisp) - org-ai turns Emacs into a powerful AI assistant by allowing the use of models like ChatGPT and DALL-E for text and image generation.
 - [voideditor/void](https://github.com/voideditor/void) (★10745 TypeScript) - Void is an open-source text editor that serves as an alternative to Cursor, built on the Visual Studio Code framework.
-- [williamfzc/chat-gpt-ppt](https://github.com/williamfzc/chat-gpt-ppt) (★0 Go) - The chat-gpt-ppt project utilizes ChatGPT to automate the generation of PowerPoint presentations from user-specified topics.
 - [win4r/AISuperDomain](https://github.com/win4r/AISuperDomain) (★1104 C#) - Aila is a powerful AI integration tool for desktop that allows users to interact with multiple AI models simultaneously.
 
 
@@ -495,7 +428,6 @@ Table of Contents:
 - [irgolic/AutoPR](https://github.com/irgolic/AutoPR) (★1297 Python) - AutoPR enhances codebases by implementing AI-driven workflows to automate tasks and manage pull requests.
 - [open-compass/VLMEvalKit](https://github.com/open-compass/VLMEvalKit) (★1979 Python) - VLMEvalKit is an open-source evaluation toolkit designed for large vision-language models.
 - [open-compass/opencompass](https://github.com/open-compass/opencompass) (★4884 Python) - OpenCompass is an extensive LLM evaluation platform that supports various models and datasets.
-- [pchunduri6/rag-demystified](https://github.com/pchunduri6/rag-demystified) (★0 Python) - An LLM-powered advanced RAG pipeline built from scratch.
 - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) (★41712 Jupyter Notebook) - This project implements a ChatGPT-like large language model (LLM) from scratch, step by step.
 - [thunlp/UltraChat](https://github.com/thunlp/UltraChat) (★2467 Python) - UltraChat provides large-scale and diverse multi-round dialogue data and models for chat-based AI systems.
 - [topoteretes/cognee](https://github.com/topoteretes/cognee) (★1098 Jupyter Notebook) - Cognee is a scalable, modular framework designed to manage and retrieve information for AI applications, enhancing their memory capabilities.
