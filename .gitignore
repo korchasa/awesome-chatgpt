@@ -2,3 +2,5 @@
 .DS_Store
 config.yaml
 *.backup
+.data.yaml
+
