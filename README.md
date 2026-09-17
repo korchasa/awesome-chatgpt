@@ -7,6 +7,10 @@ Over time, this list has become irrelevant.
 
 ---
 
+Read it as a website at [awesome-chatgpt.korchasa.dev](https://awesome-chatgpt.korchasa.dev/):
+every project has a page of its own, the weekly issues are archived, and
+[search](https://awesome-chatgpt.korchasa.dev/search/) looks through the whole list at once.
+
 Table of Contents:
 - [Documentation and examples](#documentation-and-examples) 
     - [Documentation, lists, guides, or examples](#documentation,-lists,-guides,-or-examples) (67)
